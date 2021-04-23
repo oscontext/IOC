@@ -1,0 +1,939 @@
+{
+  "date": "2020-12-14T19:24:26.662Z",
+  "last_seen": "2020-12-15T01:03:35.666Z",
+  "qtype": "28",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "aaaa",
+  "_key": "28a63b0a07c63db8d6ac05a9636a82e626329a18",
+  "value": "::ffff:146.112.61.104"
+}
+{
+  "date": "2020-12-14T20:50:58.629Z",
+  "last_seen": "2020-12-15T01:03:35.666Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "146.112.61.104",
+  "type": "ip",
+  "_key": "13135f3d0d180cd0901f88d0888c48c0a4459dbe",
+  "value": "146.112.61.104"
+}
+{
+  "date": "2020-02-14T13:39:21.571Z",
+  "last_seen": "2020-12-15T00:58:35.676Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "13.59.205.66",
+  "type": "ip",
+  "_key": "f47edadc327441ad41b46bfd1dbb05786e29db94",
+  "value": "13.59.205.66"
+}
+{
+  "date": "2020-02-14T03:47:49.852Z",
+  "last_seen": "2020-12-15T00:14:12.121Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "13.59.205.66",
+  "type": "ip",
+  "_key": "5f988186897643e71137d898a2e9b0d1415a53ae",
+  "value": "13.59.205.66"
+}
+{
+  "date": "2020-02-14T23:53:23.880Z",
+  "last_seen": "2020-12-14T22:54:28.625Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "ce2eaece6b05df03e6ba3d842ba6f0abbc9ce972",
+  "value": "ns2.dnsowl.com"
+}
+{
+  "date": "2020-02-14T23:53:23.880Z",
+  "last_seen": "2020-12-14T22:54:28.625Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "635f28fde99e47093648467ad6a4a57082800db9",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-02-14T23:53:23.880Z",
+  "last_seen": "2020-12-14T22:54:28.625Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "fb9034147c9bcb013a2e2500e1a4fca313894bf0",
+  "value": "ns3.dnsowl.com"
+}
+{
+  "date": "2020-03-27T23:52:41.245Z",
+  "last_seen": "2020-12-14T22:54:28.623Z",
+  "qtype": "6",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_server",
+  "_key": "27a6f08009f352a508c67983a10913952692ebbc",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-03-27T23:52:41.245Z",
+  "last_seen": "2020-12-14T22:54:28.623Z",
+  "qtype": "6",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_email",
+  "_key": "c68c7f2fce9f7c837c5867300867ff1e24f519ae",
+  "value": "hostmaster@dnsowl.com"
+}
+{
+  "date": "2020-02-14T16:04:44.935Z",
+  "last_seen": "2020-06-30T20:38:13.273Z",
+  "qtype": "15",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "mx",
+  "_key": "ad6226651cebbb8cfdb65841bd84cbbb30431e80",
+  "value": "mx1.emailowl.com"
+}
+{
+  "date": "2020-02-14T16:04:44.935Z",
+  "last_seen": "2020-06-30T20:38:13.273Z",
+  "qtype": "15",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "mx",
+  "_key": "e710eb659c6b36280cef8632a29b29c769145ca6",
+  "value": "mx3.emailowl.com"
+}
+{
+  "date": "2020-02-14T16:04:44.935Z",
+  "last_seen": "2020-06-30T20:38:13.273Z",
+  "qtype": "15",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "mx",
+  "_key": "01754b7a86065a10f1438f74ba83a3eaba1c866d",
+  "value": "mx2.emailowl.com"
+}
+{
+  "date": "2020-06-18T14:54:35.324Z",
+  "last_seen": "2020-06-18T14:54:35.324Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "mail.deftsecurity.com",
+  "value_ip": "13.59.205.66",
+  "type": "ip",
+  "_key": "dab7c79fcf1b622e6afa66c87a79c0442896f0d2",
+  "value": "13.59.205.66"
+}
+{
+  "date": "2020-06-13T05:33:15.399Z",
+  "last_seen": "2020-06-13T05:33:15.399Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_email",
+  "_key": "339bf2a1307782da574d55cee655aaba884c6f48",
+  "value": "hostmaster@dnsowl.com"
+}
+{
+  "date": "2020-06-13T05:33:15.399Z",
+  "last_seen": "2020-06-13T05:33:15.399Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_server",
+  "_key": "c2ca048ffa58adf74f55ce97242f483eec5faeec",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-06-13T05:33:15.399Z",
+  "last_seen": "2020-06-13T05:33:15.399Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "0d8051b2b3bb2d9a08fe8e1bc5726f89aca8b736",
+  "value": "ns2.dnsowl.com"
+}
+{
+  "date": "2020-06-13T05:33:15.399Z",
+  "last_seen": "2020-06-13T05:33:15.399Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "37e2a13683f4cacab931be4f8b9d769a898418e4",
+  "value": "ns3.dnsowl.com"
+}
+{
+  "date": "2020-06-13T05:33:15.399Z",
+  "last_seen": "2020-06-13T05:33:15.399Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "0088fc6a9047f07423cb2ca8f632b9f1a283a508",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-06-13T05:33:15.399Z",
+  "last_seen": "2020-06-13T05:33:15.399Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "mx",
+  "_key": "960f4d5710c4698cb2d4e6ad8105c447b4c3ae1b",
+  "value": "mx1.emailowl.com"
+}
+{
+  "date": "2020-06-13T05:33:15.399Z",
+  "last_seen": "2020-06-13T05:33:15.399Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "13.59.205.66",
+  "type": "ip",
+  "_key": "cff279db0d873e31d27c0d03e30cb4b32635e055",
+  "value": "13.59.205.66"
+}
+{
+  "date": "2020-06-13T05:33:15.399Z",
+  "last_seen": "2020-06-13T05:33:15.399Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "mx",
+  "_key": "15e485737bceeef0a278338bf1ee2c7c8cddb64f",
+  "value": "mx2.emailowl.com"
+}
+{
+  "date": "2020-06-13T05:33:15.399Z",
+  "last_seen": "2020-06-13T05:33:15.399Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "mx",
+  "_key": "0f874f25fc6c68aad630640fb4dde3939183a751",
+  "value": "mx3.emailowl.com"
+}
+{
+  "date": "2020-03-14T22:19:31.873Z",
+  "last_seen": "2020-03-14T22:19:31.873Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "2019.deftsecurity.com",
+  "value_ip": "13.59.205.66",
+  "type": "ip",
+  "_key": "3df3fcde5501a163602f56d9e67416cdd34f97ef",
+  "value": "13.59.205.66"
+}
+{
+  "date": "2020-03-04T01:14:45.263Z",
+  "last_seen": "2020-03-04T01:14:45.263Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "13.59.205.66",
+  "type": "ip",
+  "_key": "ef09b8d1ac5f6cd0dc6534b80cdcac7e5068894f",
+  "value": "13.59.205.66"
+}
+{
+  "date": "2020-02-29T20:20:52.597Z",
+  "last_seen": "2020-02-29T20:20:52.597Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "owa.deftsecurity.com",
+  "value_ip": "13.59.205.66",
+  "type": "ip",
+  "_key": "63f7bd8573e97ecaaa92fdcd7ac5c5e70d697586",
+  "value": "13.59.205.66"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T19:24:39.707Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "cname",
+  "_key": "732e3409eb309532a9f4d8e67d96041ace09d006",
+  "value": "parking.namesilo.com"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "209.141.38.71",
+  "type": "ip",
+  "_key": "d5729fd75b49ef5bc622376ea0e2d93e10f282ef",
+  "value": "209.141.38.71"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "188.164.131.200",
+  "type": "ip",
+  "_key": "df74ca75d448c4d556b8d40de6d48b32b8013aae",
+  "value": "188.164.131.200"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "204.188.203.155",
+  "type": "ip",
+  "_key": "4d8c52848b8c74ecedd37a5985e41d763ce82306",
+  "value": "204.188.203.155"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "name",
+  "_key": "fde23dc4ec8c1328c5113859dd721bc614e1ca6b",
+  "value": "parking.namesilo.com"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "64.32.22.102",
+  "type": "ip",
+  "_key": "f31885b3acc2ef6ee3f9bc723d3c2bad0b32a5e4",
+  "value": "64.32.22.102"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "198.251.84.92",
+  "type": "ip",
+  "_key": "a74a37f70c0cf8184ca694ac3174318134b69ca4",
+  "value": "198.251.84.92"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "192.161.187.200",
+  "type": "ip",
+  "_key": "61c3caf07344fe7c02159939460e9a561ced75b4",
+  "value": "192.161.187.200"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "45.58.190.82",
+  "type": "ip",
+  "_key": "96b5bde55d6095dd4d5312559c6227f3ecc242b2",
+  "value": "45.58.190.82"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "198.251.81.30",
+  "type": "ip",
+  "_key": "d8ada8e2a02eb203a001c24d411af50a878c1fb7",
+  "value": "198.251.81.30"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "107.161.23.204",
+  "type": "ip",
+  "_key": "b21f528140ccbc935fce865d9b117f854a7cfeac",
+  "value": "107.161.23.204"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "168.235.88.209",
+  "type": "ip",
+  "_key": "215f1955086752e4586fac8f8748830d0b014695",
+  "value": "168.235.88.209"
+}
+{
+  "date": "2020-02-12T16:09:48.683Z",
+  "last_seen": "2020-02-12T16:09:48.684Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "70.39.125.244",
+  "type": "ip",
+  "_key": "ee5c8e9e2406aef5885c35d5a66090500309c2be",
+  "value": "70.39.125.244"
+}
+{
+  "date": "2019-12-10T05:09:29.421Z",
+  "last_seen": "2020-02-12T03:26:41.129Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "52.58.78.16",
+  "type": "ip",
+  "_key": "d90f73bcdf2706a42e42c3dc18a470d0d6640df9",
+  "value": "52.58.78.16"
+}
+{
+  "date": "2019-12-09T23:09:10.635Z",
+  "last_seen": "2020-02-11T07:56:30.777Z",
+  "qtype": "28",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "aaaa",
+  "_key": "925266ec06797b41940737b26714e674bd579734",
+  "value": "2a05:d014:9da:8c10:306e:3e07:a16f:a552"
+}
+{
+  "date": "2019-12-11T17:09:43.328Z",
+  "last_seen": "2020-02-10T18:52:13.612Z",
+  "qtype": "28",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "aaaa",
+  "_key": "1e48752a6cd46175e1b8ea92a1a50c1019f10c33",
+  "value": "2a05:d014:9da:8c10:306e:3e07:a16f:a552"
+}
+{
+  "date": "2019-12-11T17:09:55.144Z",
+  "last_seen": "2020-02-09T11:12:44.996Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "52.58.78.16",
+  "type": "ip",
+  "_key": "b5fbf27082859491d76c2c246fec32d109b5b6fb",
+  "value": "52.58.78.16"
+}
+{
+  "date": "2020-02-09T11:12:36.082Z",
+  "last_seen": "2020-02-09T11:12:36.082Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "b03434ef74d44697525a901762e72d99fcea2072",
+  "value": "ns2.undeveloped.com"
+}
+{
+  "date": "2020-02-09T11:12:36.082Z",
+  "last_seen": "2020-02-09T11:12:36.082Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "328829eae6adc044d142af324758c9438c1c87e6",
+  "value": "ns1.undeveloped.com"
+}
+{
+  "date": "2020-02-09T10:58:01.978Z",
+  "last_seen": "2020-02-09T10:58:02.044Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "ns",
+  "_key": "39d1734ed9374a41ca90db903f5f53eb201838eb",
+  "value": "ns2.undeveloped.com"
+}
+{
+  "date": "2020-02-09T10:58:01.978Z",
+  "last_seen": "2020-02-09T10:58:02.044Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "ns",
+  "_key": "5e48fa3f62b0c92eb963da82144a7a4f1e4873a3",
+  "value": "ns1.undeveloped.com"
+}
+{
+  "date": "2020-01-29T03:35:29.074Z",
+  "last_seen": "2020-01-29T03:35:29.074Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_server",
+  "_key": "d7da22f38ef9e4accbf52850c88f3e3eaa7fbbc0",
+  "value": "ns1.undeveloped.com"
+}
+{
+  "date": "2020-01-29T03:35:29.074Z",
+  "last_seen": "2020-01-29T03:35:29.074Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_email",
+  "_key": "25439431adfca74770bced5af8112686738add8d",
+  "value": "root@undeveloped.com"
+}
+{
+  "date": "2020-01-29T03:35:29.074Z",
+  "last_seen": "2020-01-29T03:35:29.074Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "aaaa",
+  "_key": "0d9d3b93e338f820a7e88656fb99abf2eef73dcb",
+  "value": "2a05:d014:9da:8c10:306e:3e07:a16f:a552"
+}
+{
+  "date": "2020-01-29T03:35:29.074Z",
+  "last_seen": "2020-01-29T03:35:29.074Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "724268150d8d2e2818232537a37b7a145320c8b5",
+  "value": "ns1.undeveloped.com"
+}
+{
+  "date": "2020-01-29T03:35:29.074Z",
+  "last_seen": "2020-01-29T03:35:29.074Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "52.58.78.16",
+  "type": "ip",
+  "_key": "02104dd22cef4a6ef8be41c33ea341473928980b",
+  "value": "52.58.78.16"
+}
+{
+  "date": "2020-01-29T03:35:29.074Z",
+  "last_seen": "2020-01-29T03:35:29.074Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "15660d1b239fc89ec365b25bfefe0492737a834f",
+  "value": "ns2.undeveloped.com"
+}
+{
+  "date": "2020-01-23T18:18:54.514Z",
+  "last_seen": "2020-01-23T18:18:54.514Z",
+  "qtype": "6",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_server",
+  "_key": "b41cf90b5a8b7353aea3da1c9c989ea72b619063",
+  "value": "ns1.undeveloped.com"
+}
+{
+  "date": "2020-01-23T18:18:54.514Z",
+  "last_seen": "2020-01-23T18:18:54.514Z",
+  "qtype": "6",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_email",
+  "_key": "48c3f10bd1d8f5480b6ad6dc96e9ec4874c253e5",
+  "value": "root@undeveloped.com"
+}
+{
+  "date": "2019-02-15T11:03:05.907Z",
+  "last_seen": "2019-12-01T11:25:32.422Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "52.23.148.124",
+  "type": "ip",
+  "_key": "d0da1e6f07e3235c27f02aecfdd4bd894b0e701a",
+  "value": "52.23.148.124"
+}
+{
+  "date": "2019-02-15T11:03:05.907Z",
+  "last_seen": "2019-12-01T11:25:32.422Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "52.201.79.206",
+  "type": "ip",
+  "_key": "81dfa636803fedba4eec9cc031fce7e23965e0fa",
+  "value": "52.201.79.206"
+}
+{
+  "date": "2019-09-14T18:04:27.661Z",
+  "last_seen": "2019-10-14T23:13:02.552Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "52.201.79.206",
+  "type": "ip",
+  "_key": "feb9fa693e7b050d800aa3c66c11b5cbfa082801",
+  "value": "52.201.79.206"
+}
+{
+  "date": "2019-09-14T18:04:27.661Z",
+  "last_seen": "2019-10-14T23:13:02.552Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "52.23.148.124",
+  "type": "ip",
+  "_key": "ba32ccb6554bb1c594616c5fd8667100c3450fd5",
+  "value": "52.23.148.124"
+}
+{
+  "date": "2019-09-04T21:51:16.053Z",
+  "last_seen": "2019-09-17T00:15:11.003Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "ns",
+  "_key": "bf95c99062f964633d412dce23340156c2fb766f",
+  "value": "ns2.squadhelp.com"
+}
+{
+  "date": "2019-09-04T21:51:16.053Z",
+  "last_seen": "2019-09-17T00:15:11.003Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "ns",
+  "_key": "43f91307de92850378e98493c338ab0b07f5d9e7",
+  "value": "ns1.squadhelp.com"
+}
+{
+  "date": "2019-09-10T03:28:21.297Z",
+  "last_seen": "2019-09-10T03:28:21.297Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "52.23.148.124",
+  "type": "ip",
+  "_key": "7999e170e78a52e229ba23929a12982df1091866",
+  "value": "52.23.148.124"
+}
+{
+  "date": "2019-09-10T03:51:03.074Z",
+  "last_seen": "2019-09-10T03:28:19.869Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "soa_email",
+  "_key": "674164a4d8378ee6a13730ceeb361c66c633ad48",
+  "value": "admin@squadhelp.com"
+}
+{
+  "date": "2019-09-10T03:51:03.074Z",
+  "last_seen": "2019-09-10T03:28:19.869Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "soa_server",
+  "_key": "636936ab5e7caa41dc1427bdefa74b41be67d05a",
+  "value": "ns1.squadhelp.com"
+}
+{
+  "date": "2019-09-10T03:28:21.297Z",
+  "last_seen": "2019-09-10T03:28:19.869Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "ns",
+  "_key": "369027d20395722174fbbf67bf5c098e7168b4a4",
+  "value": "ns2.squadhelp.com"
+}
+{
+  "date": "2019-09-10T03:28:19.869Z",
+  "last_seen": "2019-09-10T03:28:19.869Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "type": "ns",
+  "_key": "26560c507e6f244499e5f798b1a7b9fd61b39235",
+  "value": "ns1.squadhelp.com"
+}
+{
+  "date": "2019-09-10T03:28:15.670Z",
+  "last_seen": "2019-09-10T03:28:19.869Z",
+  "qtype": "255",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "52.201.79.206",
+  "type": "ip",
+  "_key": "2e8dc117d566bfddfa3226e68155470901a44c1a",
+  "value": "52.201.79.206"
+}
+{
+  "date": "2019-08-22T13:07:41.716Z",
+  "last_seen": "2019-08-22T13:07:41.749Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "mysql.deftsecurity.com",
+  "value_ip": "52.23.148.124",
+  "type": "ip",
+  "_key": "bb74bcc35d4da4b55a4216784f3930f90fae2805",
+  "value": "52.23.148.124"
+}
+{
+  "date": "2019-08-22T13:07:41.716Z",
+  "last_seen": "2019-08-22T13:07:41.749Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "mysql.deftsecurity.com",
+  "value_ip": "52.201.79.206",
+  "type": "ip",
+  "_key": "e90e5cb5679a32420c15803448bd06643ae33c60",
+  "value": "52.201.79.206"
+}
+{
+  "date": "2019-03-30T09:33:21.708Z",
+  "last_seen": "2019-07-27T12:24:39.881Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "08551a45cd7e14fe2d3c64a8c7ac7338d8615619",
+  "value": "ns1.squadhelp.com"
+}
+{
+  "date": "2019-03-30T09:33:21.715Z",
+  "last_seen": "2019-07-27T12:24:39.881Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "7090da3d3c9c07fc542c2d161e971fa29ef724a5",
+  "value": "ns2.squadhelp.com"
+}
+{
+  "date": "2019-04-30T08:39:53.486Z",
+  "last_seen": "2019-05-15T06:47:55.389Z",
+  "qtype": "6",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_email",
+  "_key": "42cbdc32b7f8e5ac486f48be909c110b9d6eb238",
+  "value": "admin@squadhelp.com"
+}
+{
+  "date": "2019-04-30T08:39:53.486Z",
+  "last_seen": "2019-05-15T06:47:55.389Z",
+  "qtype": "6",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_server",
+  "_key": "f1a456a0f6b8d7a73aa7f827adce313e6f014b1e",
+  "value": "ns1.squadhelp.com"
+}
+{
+  "date": "2019-02-11T05:21:17.936Z",
+  "last_seen": "2019-02-12T11:18:52.710Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "192.161.187.200",
+  "type": "ip",
+  "_key": "3701bfd034c65f1c08b288333bb1226d284bd84f",
+  "value": "192.161.187.200"
+}
+{
+  "date": "2019-02-11T05:21:17.936Z",
+  "last_seen": "2019-02-12T11:18:52.710Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "107.161.23.204",
+  "type": "ip",
+  "_key": "7f19b9ec5c9306c1a1752320924f9c38f5b2b5ec",
+  "value": "107.161.23.204"
+}
+{
+  "date": "2019-02-11T05:21:17.936Z",
+  "last_seen": "2019-02-12T11:18:52.710Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "209.141.38.71",
+  "type": "ip",
+  "_key": "9e40fc833cf50e7b3eb345ebf003a617487758b1",
+  "value": "209.141.38.71"
+}
+{
+  "date": "2018-10-28T09:59:00.909Z",
+  "last_seen": "2018-11-21T00:08:51.019Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "198.54.117.200",
+  "type": "ip",
+  "_key": "b1ad10da7eadf9a57d68007a3bb8f5aedcbaaec9",
+  "value": "198.54.117.200"
+}
+{
+  "date": "2018-11-17T11:03:30.539Z",
+  "last_seen": "2018-11-21T00:08:51.019Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "198.54.117.198",
+  "type": "ip",
+  "_key": "fdbf7e7eb48f0d046b4d894e0beaf8279088bea1",
+  "value": "198.54.117.198"
+}
+{
+  "date": "2018-11-17T11:03:30.539Z",
+  "last_seen": "2018-11-21T00:08:51.019Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "198.54.117.197",
+  "type": "ip",
+  "_key": "8a3b30511220a92c607ef612e81800932c63124e",
+  "value": "198.54.117.197"
+}
+{
+  "date": "2018-11-17T11:03:30.539Z",
+  "last_seen": "2018-11-21T00:08:51.019Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "198.54.117.199",
+  "type": "ip",
+  "_key": "0a359173e7b10242f7975f8e912160e48c599096",
+  "value": "198.54.117.199"
+}
+{
+  "date": "2017-11-02T03:54:11.000Z",
+  "last_seen": "2018-10-26T20:48:17.851Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "value_ip": "37.60.253.181",
+  "type": "ip",
+  "_key": "be53c65b13f8adcb503bc82b638d98ddc978f229",
+  "value": "37.60.253.181"
+}
+{
+  "date": "2017-11-02T03:54:11.000Z",
+  "last_seen": "2018-08-29T13:09:16.019Z",
+  "qtype": "16",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "txt",
+  "_key": "80fb8260ee17dd48f5423f7c9d5fcb066af7d74b",
+  "value": "0Sendinblue-code:713a6589dae7cd062a5f43085b8c9099"
+}
+{
+  "date": "2017-11-02T03:54:11.000Z",
+  "last_seen": "2018-08-29T13:09:16.019Z",
+  "qtype": "16",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "txt_base64",
+  "_key": "0dd7aa2d3904cde26eecb1c02f301af130d3150c",
+  "value": "MFNlbmRpbmJsdWUtY29kZTo3MTNhNjU4OWRhZTdjZDA2MmE1ZjQzMDg1YjhjOTA5OQ=="
+}
+{
+  "date": "2017-11-02T03:54:11.000Z",
+  "last_seen": "2018-08-29T13:09:16.018Z",
+  "qtype": "6",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_email",
+  "_key": "34dec1ef878844c4e7fa3272d681721f5032d238",
+  "value": "hostmaster@registrar-servers.com"
+}
+{
+  "date": "2017-11-02T03:54:11.000Z",
+  "last_seen": "2018-08-29T13:09:16.018Z",
+  "qtype": "6",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "soa_server",
+  "_key": "80361b3760e53e9db1d6f29e01eaca836c69d713",
+  "value": "dns1.registrar-servers.com"
+}
+{
+  "date": "2018-01-17T06:19:03.000Z",
+  "last_seen": "2018-08-19T07:46:34.045Z",
+  "qtype": "1",
+  "domain": "deftsecurity.com",
+  "qname": "www.deftsecurity.com",
+  "value_ip": "37.60.253.181",
+  "type": "ip",
+  "_key": "32efca266fd47681336e3e060c5e20e6338885aa",
+  "value": "37.60.253.181"
+}
+{
+  "date": "2018-01-19T03:59:03.000Z",
+  "last_seen": "2018-08-17T05:27:28.110Z",
+  "qtype": "15",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "mx",
+  "_key": "471edd819880cf1aa3786fcbcdef74345bf0fa13",
+  "value": "deftsecurity-com.mail.protection.outlook.com"
+}
+{
+  "date": "2017-11-02T03:54:11.000Z",
+  "last_seen": "2018-08-07T11:14:57.261Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "7a25843d4f6cebfb6b6623f0c465a066303b56e3",
+  "value": "dns2.registrar-servers.com"
+}
+{
+  "date": "2017-11-02T03:54:11.000Z",
+  "last_seen": "2018-08-07T11:14:57.261Z",
+  "qtype": "2",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "ns",
+  "_key": "5de97e85fbcfcd2452ab2076bd4bd13354c235ee",
+  "value": "dns1.registrar-servers.com"
+}
+{
+  "date": "2017-11-13T03:03:03.000Z",
+  "last_seen": "2018-08-07T11:14:57.254Z",
+  "qtype": "16",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "txt_base64",
+  "_key": "5ab4b244f25908b41f65d4bb1bfc2f1d4767a520",
+  "value": "SXY9c3BmMSBpbmNsdWRlOnNwZi5wcm90ZWN0aW9uLm91dGxvb2suY29tIGluY2x1ZGU6c3BmLnNlbmRpbmJsdWUuY29tIC1hbGw="
+}
+{
+  "date": "2017-11-13T03:03:03.000Z",
+  "last_seen": "2018-08-07T11:14:57.254Z",
+  "qtype": "16",
+  "domain": "deftsecurity.com",
+  "qname": "deftsecurity.com",
+  "type": "txt",
+  "_key": "f9d22fd3a18f7a9e77ee9db2195470439e9e33b0",
+  "value": "Iv=spf1 include:spf.protection.outlook.com include:spf.sendinblue.com -all"
+}

@@ -1,0 +1,2545 @@
+{
+  "date": "2020-06-22T22:20:52.269Z",
+  "last_seen": "2020-12-13T22:22:22.999Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "fa1d363a84bc15d28f5b1bba8e95b85434250ad3",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-03T12:15:20.549Z",
+  "last_seen": "2020-12-08T11:15:21.546Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "ebe877a57a08766e8b07f5124c56bc5106c15589",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-10T00:22:28.559Z",
+  "last_seen": "2020-12-08T09:42:03.127Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "imap2.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "53ef23e20ad1204dbb4a70f1f58d9bf61b034bfe",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-04T17:09:25.436Z",
+  "last_seen": "2020-12-08T08:54:47.632Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail1.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "80676bd3facb0156cb5d3c2725cce9913dbf14fa",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-09T18:30:05.807Z",
+  "last_seen": "2020-12-08T01:23:08.652Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "remote.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "662b384f994ab8f2a3a39b2f3670c25b748fd35d",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-12-04T22:32:29.140Z",
+  "last_seen": "2020-12-04T22:32:29.140Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "blog.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "cf04047e0ff66122df5e04107a336987a672b163",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-03T19:01:00.262Z",
+  "last_seen": "2020-12-03T14:01:11.006Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www2.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "499521cb43d8724626d2121459e414ba94e4a7eb",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-06T16:11:20.800Z",
+  "last_seen": "2020-12-03T07:42:19.412Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "webmail.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "22b50e19c8c15be541e294731f572f5febc725d3",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-14T06:32:59.926Z",
+  "last_seen": "2020-12-03T03:25:11.090Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "email.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "5fee56e6996b607d7e4aa833df4e92e92a11b4c5",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-04T17:10:40.822Z",
+  "last_seen": "2020-12-03T03:24:39.235Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www1.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "b6f7922ad06e34421c563ba4eff8e392f700b9b6",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-06-27T07:17:37.503Z",
+  "last_seen": "2020-12-02T12:01:20.310Z",
+  "qtype": "15",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "mx",
+  "_key": "42fd00407406b4c30c3af81dcc4b8216b1df4d95",
+  "value": "mx3.emailowl.com"
+}
+{
+  "date": "2020-06-27T07:17:37.503Z",
+  "last_seen": "2020-12-02T12:01:20.310Z",
+  "qtype": "15",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "mx",
+  "_key": "9ac87cfb9778ba42a9f1d34fde1b463578dca7eb",
+  "value": "mx1.emailowl.com"
+}
+{
+  "date": "2020-06-27T07:17:37.503Z",
+  "last_seen": "2020-12-02T12:01:20.310Z",
+  "qtype": "15",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "mx",
+  "_key": "4c9f2a4340d4d66d7680057ba40e500a532062da",
+  "value": "mx2.emailowl.com"
+}
+{
+  "date": "2020-07-03T17:41:37.264Z",
+  "last_seen": "2020-12-01T15:11:50.294Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "imap1.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "d887ca213a904661a9ac36e4c1d3d21ad20d6f8a",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-06T10:53:24.152Z",
+  "last_seen": "2020-12-01T13:52:54.881Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mailer.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "e4f81b48de2f28ca45a1b4dd5f90f060d5eaf337",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-07T05:45:58.866Z",
+  "last_seen": "2020-12-01T06:23:25.371Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx1.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "2d787e010376d1ab226d38fe48e70e174f7458b7",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-05T23:41:32.516Z",
+  "last_seen": "2020-12-01T05:09:59.369Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "auth.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "6289c2dbf0ad5470aec864d580ada4a7b71ca882",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-07T12:19:37.232Z",
+  "last_seen": "2020-11-30T18:00:59.967Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mailgate.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "f1f6d61d88e373782e743d4f279537b69959187e",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-03T08:22:05.305Z",
+  "last_seen": "2020-11-30T13:17:03.076Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "exchange.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "4fe143f9f21069962081990fdccfd09cf7100877",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-04T07:09:20.656Z",
+  "last_seen": "2020-11-30T05:21:35.212Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "0487dd199340499590c1fd0376f63373f74b7f35",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-17T21:37:51.519Z",
+  "last_seen": "2020-11-18T11:02:17.322Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "out.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "9650dda9b993fb34850e252da65f2978a6a88f4f",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T16:02:45.591Z",
+  "last_seen": "2020-11-18T03:00:27.456Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail6.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "4f9f4cb8e9964d5be93d9444c0299bdf170b31a3",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-07T05:46:15.686Z",
+  "last_seen": "2020-11-18T01:36:10.324Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ns2.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "caa95bba533cc0bb1dad14a080dbf7005a1d983c",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-11-18T01:33:00.709Z",
+  "last_seen": "2020-11-18T01:33:00.709Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "sniper.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "29a42cfa57c067488c63f84a26c8449275c90d98",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-11-17T15:27:28.786Z",
+  "last_seen": "2020-11-17T15:27:28.786Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail8.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "4c9a453aef93d3c6c9fa4e47b2b06da8c60f537e",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-11-17T12:15:18.870Z",
+  "last_seen": "2020-11-17T12:15:18.870Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx20.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "c340b8c5af0c595483cbb51dc90baf2d899cbaef",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-28T17:20:21.856Z",
+  "last_seen": "2020-11-17T07:34:24.161Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "correo.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "e11fb45f4d9480d6dfd48830e294abe0a379ea6a",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-04T07:11:49.492Z",
+  "last_seen": "2020-11-16T11:50:02.901Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "m.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "9d1df44087f25cccbfaf375687203b30636a26b3",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-12T08:45:57.854Z",
+  "last_seen": "2020-11-16T11:47:08.585Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "server.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "7ec65029a62497d83e4f73913fbf1e9d757a7219",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-11-16T03:02:20.538Z",
+  "last_seen": "2020-11-16T03:02:20.538Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "barracuda.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "0e2b627cdacaf837a774a357064245e6188e271c",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-13T13:15:56.336Z",
+  "last_seen": "2020-11-15T16:25:03.464Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ns1.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "198fe10f9d8c5ad38c9967535ee62dd05550411c",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-11-13T03:46:53.648Z",
+  "last_seen": "2020-11-13T03:46:53.648Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mbox.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "7dff97d5597627a42e32ce984d5b80fa13becb50",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-11-11T00:24:22.299Z",
+  "last_seen": "2020-11-13T03:45:00.764Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "a.mx.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "e425f12780748e68def9fff678b0e30a37534530",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-02T08:18:26.465Z",
+  "last_seen": "2020-11-12T21:58:51.730Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "box.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "7cebd1dbe1701faeabb02722f791e2548dfe8206",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-30T14:22:30.093Z",
+  "last_seen": "2020-11-12T13:13:50.350Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "relay2.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "0d3b5e9a6d95eecfaf85a33afce79808f4e35a2a",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-17T21:33:53.270Z",
+  "last_seen": "2020-11-12T12:30:13.156Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx7.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "6939d1744c5857f072f0be745f244c8729f2ddb1",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-02T08:13:28.207Z",
+  "last_seen": "2020-11-12T06:17:49.735Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "relay.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "eeda9ba36bd662b650091a2c4fa1e7b7ac21c858",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-02T08:13:22.945Z",
+  "last_seen": "2020-11-12T06:17:46.440Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "poczta.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "44ddc2c7d5a0559e8065c2fd9c6201859076e526",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-30T02:05:23.476Z",
+  "last_seen": "2020-11-04T07:22:40.832Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "smtp.comune.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "ea5465d87d644543b699de90496e04f16a9404df",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T10:23:08.625Z",
+  "last_seen": "2020-11-04T07:22:33.861Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "zimbra.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "0a2ea6a9d591ee061a199dfa45d9cdfc5ec71781",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-02T08:13:53.795Z",
+  "last_seen": "2020-11-03T03:32:15.084Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "pop3.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "53706e1b2a1aaac551d545fe08f48a4c0b579286",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-28T19:35:24.760Z",
+  "last_seen": "2020-11-02T11:44:27.943Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "srv.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "5d2afee4f3fd0b0ff60ef7a4fe897cd4e1f7d8b6",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-06-30T10:30:15.166Z",
+  "last_seen": "2020-11-02T05:53:33.878Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "e00a57d22d93978a063ae0c038e6ae1bc21a2554",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-28T23:35:41.773Z",
+  "last_seen": "2020-11-01T23:51:08.778Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "server2.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "10250f1a0162603876766d73aa6ab94b941a6197",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-02-11T09:52:57.584Z",
+  "last_seen": "2020-11-01T23:48:47.987Z",
+  "qtype": "2",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "8c5a0e84c9c61cff0395286c7c5d1c94373c8c58",
+  "value": "ns3.dnsowl.com"
+}
+{
+  "date": "2020-02-11T09:52:57.584Z",
+  "last_seen": "2020-11-01T23:48:47.987Z",
+  "qtype": "2",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "9dec6079b1ba3a7fe5e64ddffbdaa0d6ea47fffa",
+  "value": "ns2.dnsowl.com"
+}
+{
+  "date": "2020-02-11T09:52:57.584Z",
+  "last_seen": "2020-11-01T23:48:47.987Z",
+  "qtype": "2",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "d83de48ebfe0c6160b621e933858c71fabde08f0",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-07-03T08:20:05.704Z",
+  "last_seen": "2020-11-01T18:04:04.676Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mailserver.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "4377217d6a2e70ee92e75ef9e5f1c41702df6aa9",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-11-01T05:37:18.469Z",
+  "last_seen": "2020-11-01T05:37:18.469Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx3.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "c836ce79b8b5dda64148b20356d99b5df66b1eb5",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-10-31T21:27:00.977Z",
+  "last_seen": "2020-10-31T21:27:00.977Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "po.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "a91e22e8552a8ea287afbb0e19ca9889aa2b41c4",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-30T02:04:55.880Z",
+  "last_seen": "2020-10-31T19:57:42.841Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "smtp.mail.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "683e332ba7c36b1cd1f34bb0ba610dcb83d440c9",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-10-31T14:15:04.316Z",
+  "last_seen": "2020-10-31T14:15:04.316Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail.comune.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "d2dbf771f1ef7714a941fc39ae6bf5e6456d24d4",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-28T09:50:40.664Z",
+  "last_seen": "2020-10-31T06:20:31.747Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "smtp3.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "43d14a4409cd4dd61ed91b8223d60e67435ad3ce",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-12T20:22:12.363Z",
+  "last_seen": "2020-10-30T00:47:16.931Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ftp.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "03729bdf8de0a77d781635c620e7fb01480c4036",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-10-28T11:15:23.298Z",
+  "last_seen": "2020-10-28T11:15:23.298Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ms.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "b1fbbe053a0595a68f8e8b89042756bf81812dc7",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-10-28T11:14:46.143Z",
+  "last_seen": "2020-10-28T11:14:46.143Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx0.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "3ab50414412060e264db9f3f1c08590c53c27839",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-10-23T14:49:08.003Z",
+  "last_seen": "2020-10-23T14:49:08.003Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx5.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "0f4d255f4077700ff37a980b2768ffaaab0352b3",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-18T11:59:41.147Z",
+  "last_seen": "2020-10-23T08:07:01.221Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "hermes.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "73087b5d7dca2da96ab05dd598bff3998e7279da",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-10-23T01:53:08.684Z",
+  "last_seen": "2020-10-23T01:53:08.684Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "relay1.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "eb937fa03ff68c3faaf45c3a4eb9610fc657eb08",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-10-20T16:25:25.943Z",
+  "last_seen": "2020-10-22T23:46:44.064Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mailrelay.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "4ec2b8e264540d78f308828fe21dbb7423beb059",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-10-22T23:02:18.712Z",
+  "last_seen": "2020-10-22T23:02:18.712Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail12.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "d9d5842d25c6425882935b9f6815da6f92455237",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-11T21:39:06.521Z",
+  "last_seen": "2020-10-22T22:58:27.724Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail2.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "0aee729b3d1feda908854a4b66965123d7aeab23",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-02T17:28:55.536Z",
+  "last_seen": "2020-10-22T11:17:45.804Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail3.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "032235b3f5b676fb26e33d1ac8babbacd85f624c",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-10-20T18:04:59.119Z",
+  "last_seen": "2020-10-22T07:11:51.055Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "outmail.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "bfbbfe62cf56fa55a72595c9b1b17a14b09c0d93",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-30T14:21:50.064Z",
+  "last_seen": "2020-10-22T07:11:19.955Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "gate.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "5d7db28e560bdfd17e00ea3dc2c118b3ee6d3733",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T10:27:53.850Z",
+  "last_seen": "2020-10-21T21:36:13.577Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx4.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "6de5034880b98bc593ce105453827f5b40a72ae2",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T04:38:19.893Z",
+  "last_seen": "2020-10-21T11:09:51.298Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mxs.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "c0226de6236ab849feae93f29228973fb2115b1b",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-28T19:30:48.739Z",
+  "last_seen": "2020-10-21T11:06:55.939Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail5.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "667778c32a8b4895ba063004c3c799521641d437",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-10-20T16:24:16.805Z",
+  "last_seen": "2020-10-21T03:20:12.091Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail10.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "7a55b3cf441e750e00bf9a69be522f12ad2ae676",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-30T13:06:13.202Z",
+  "last_seen": "2020-10-20T01:46:47.385Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail01.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "08d5da2c134079ef93f0249f57210fcfe6aa9515",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-02-17T11:10:58.438Z",
+  "last_seen": "2020-10-19T15:17:39.288Z",
+  "qtype": "6",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "soa_server",
+  "_key": "6fc207cd8abc235d19c1d88e6a97a8ea21cf52ce",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-02-17T11:10:58.438Z",
+  "last_seen": "2020-10-19T15:17:39.288Z",
+  "qtype": "6",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "soa_email",
+  "_key": "3682df48f62777d9e193a1300c815c27e2b83dc0",
+  "value": "hostmaster@dnsowl.com"
+}
+{
+  "date": "2020-08-29T21:54:46.301Z",
+  "last_seen": "2020-10-19T11:52:29.431Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "zmail.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "fafd6b47436ecc01d49de566ecea7a160a731154",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-12T20:23:47.403Z",
+  "last_seen": "2020-09-15T19:14:42.672Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mailx.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "a7cf78742d61383282102faf438ee6bd7f3ddab7",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-04T02:04:48.136Z",
+  "last_seen": "2020-09-15T19:14:34.754Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "smtps.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "a0842039d7c11c0f8a3959553b500c1a7523dc0f",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-03T12:16:19.018Z",
+  "last_seen": "2020-09-15T19:14:32.035Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mailgw.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "492afe4a492bfdcd3a2ad673b58a770b77144308",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-02T17:29:04.998Z",
+  "last_seen": "2020-09-15T17:04:16.097Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "smtp1.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "9c14117bb215a4866905e9fc3a09a2e0970a12c7",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-06T16:11:43.757Z",
+  "last_seen": "2020-09-15T17:03:49.908Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "post.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "0a19c0ba2d15390fba430eac8ea368cbef069c49",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-09T18:28:41.231Z",
+  "last_seen": "2020-09-15T16:13:06.289Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "smtp2.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "a7ea25d2684720145a67bac54bbeb5b7dc898758",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-12T19:30:54.373Z",
+  "last_seen": "2020-09-15T14:25:13.784Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "spam.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "679c576c44004b79f5ce2504cd48241b54c8fc48",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-05T23:43:19.249Z",
+  "last_seen": "2020-09-15T03:10:35.305Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "secure.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "6bad30adfe93dc7e1a07c1f2b2229a37c7b00591",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-10T11:17:27.313Z",
+  "last_seen": "2020-09-15T03:09:47.691Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "pop.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "a882bcd6219f814eac8611ffe1ad2290196427bb",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-03T17:40:59.949Z",
+  "last_seen": "2020-09-15T02:21:49.490Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mailhost.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "8d434043ff33ca61581ee2e3198df103766f4769",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-05T19:50:34.862Z",
+  "last_seen": "2020-09-14T19:44:02.029Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "smtpauth.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "b5d43857151ff8cfc89dfeefee1639a3676c1795",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-05T19:51:31.603Z",
+  "last_seen": "2020-09-11T13:03:29.727Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx2.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "ccf84f62de1c419770295de998c2512bfcc19f80",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-06T16:13:14.360Z",
+  "last_seen": "2020-09-11T06:00:30.687Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mailout.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "57d2f81b282639cc1f647672ccbfc0c152efcd62",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-03T12:17:06.226Z",
+  "last_seen": "2020-09-11T04:51:32.024Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "authsmtp.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "2abaa9b55a19741a2058c7bf65c266bb30e2ec27",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-07T20:11:26.035Z",
+  "last_seen": "2020-09-11T03:28:36.093Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ns.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "c834f7103d8bc45e935a5a2d6e4edbf3436a5c82",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-02T08:19:07.715Z",
+  "last_seen": "2020-09-08T09:28:23.093Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mailin.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "3159cd064d708b092a1949ea7c8d1f174a9cb4b1",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-15T00:45:27.349Z",
+  "last_seen": "2020-09-08T07:16:08.242Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "postmaster.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "ead5f5f5e35500085a7edabc7c1bd0bad1ce5340",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-12T20:21:53.644Z",
+  "last_seen": "2020-09-07T22:51:56.115Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "smtp.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "2573a594e4754b09714a4783a7987d95fd485278",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-30T13:04:38.003Z",
+  "last_seen": "2020-08-30T13:04:38.003Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "gw.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "57cba83203344f38f2ea7d1aac16f10f3c5cd46f",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T16:03:40.589Z",
+  "last_seen": "2020-08-30T09:14:22.694Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "server1.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "8c9dfc0f9fced42ad55042ef92900940d185ec7d",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-30T07:28:58.247Z",
+  "last_seen": "2020-08-30T07:28:58.247Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx02.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "4407bba96cdd8aa49b069beee62e0a535c134be5",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-07-06T10:51:23.518Z",
+  "last_seen": "2020-08-30T02:03:24.147Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "imap.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "98e7c794882c14a5a6bc5f20335e08ee93766f8f",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T18:36:31.721Z",
+  "last_seen": "2020-08-29T18:36:31.721Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail9.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "05cf5cbd39ddbace56203e09f0d867f36b4a18d3",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T05:54:30.656Z",
+  "last_seen": "2020-08-29T16:06:09.799Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "antispam.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "33ba185911a6baf4590f1652c6779a34a1e2b6fe",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T14:57:02.054Z",
+  "last_seen": "2020-08-29T14:57:02.054Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "smtpseguro.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "0cf0afbf63f4299b50d9a05a5313785601881445",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T10:24:39.219Z",
+  "last_seen": "2020-08-29T10:27:44.313Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mx10.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "0897b778e66a430e80262543b69349b3da98c142",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T07:36:21.447Z",
+  "last_seen": "2020-08-29T07:36:21.447Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "host.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "48dde9a5663f9efebdab86ad69c3e666ab26d575",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T04:34:30.627Z",
+  "last_seen": "2020-08-29T04:34:30.627Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "posta.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "8e45fe654747d3b0997c15c1a3c1ebe21df23682",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-29T01:31:32.481Z",
+  "last_seen": "2020-08-29T01:31:32.481Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "root.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "8c46f1fffbdc627c0955b0a8c1d1fd1865c5b91f",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-08-28T17:24:03.939Z",
+  "last_seen": "2020-08-28T17:24:03.939Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ms1.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "f80a47c451abdb1c5aeacf90d60644592c269c5d",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-06-29T21:34:30.707Z",
+  "last_seen": "2020-06-29T21:34:30.707Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "wordpress.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "3a5bf747745fe9a2d2d424456ed8ccb5acd6e208",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2020-06-28T08:29:49.590Z",
+  "last_seen": "2020-06-28T08:29:49.590Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "test.lcomputers.com",
+  "value_ip": "162.223.31.184",
+  "type": "ip",
+  "_key": "906e001710d8480e1281af4b81a0c15e2d1af140",
+  "value": "162.223.31.184"
+}
+{
+  "date": "2016-08-22T10:08:52.000Z",
+  "last_seen": "2020-06-21T18:24:52.347Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "162.210.102.212",
+  "type": "ip",
+  "_key": "4abd9abb60d95b1ed63f80eff642e6d10b9476dc",
+  "value": "162.210.102.212"
+}
+{
+  "date": "2017-03-25T07:00:56.000Z",
+  "last_seen": "2020-06-08T08:00:03.180Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.lcomputers.com",
+  "value_ip": "162.210.102.212",
+  "type": "ip",
+  "_key": "4acdf6fe91c77e320a7e9356f43041e7fb7ab8cc",
+  "value": "162.210.102.212"
+}
+{
+  "date": "2017-11-25T08:39:48.000Z",
+  "last_seen": "2020-05-27T05:39:31.445Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "soa_server",
+  "_key": "450d51f969146f3090fc8da98967d6c14b252218",
+  "value": "dns1.freehostia.com"
+}
+{
+  "date": "2017-11-25T08:39:48.000Z",
+  "last_seen": "2020-05-27T05:39:31.445Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "soa_email",
+  "_key": "8a99b67ce06f8723ae4a63508c1e1101bce2d1bc",
+  "value": "root@freehostia.com"
+}
+{
+  "date": "2017-11-25T08:39:48.000Z",
+  "last_seen": "2020-05-27T05:39:31.445Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "3c9f04faf5f2851232d04cb0ccc5875abc09090d",
+  "value": "dns2.freehostia.com"
+}
+{
+  "date": "2017-11-25T08:39:48.000Z",
+  "last_seen": "2020-05-27T05:39:31.445Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "13e6c94d197914b9256a2703a1f4d92814eb617c",
+  "value": "dns1.freehostia.com"
+}
+{
+  "date": "2017-11-25T08:39:48.000Z",
+  "last_seen": "2020-05-27T05:39:31.445Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "162.210.102.212",
+  "type": "ip",
+  "_key": "fd0ebdf9a606c14df288d097a11b066d7710d773",
+  "value": "162.210.102.212"
+}
+{
+  "date": "2017-11-25T08:39:48.000Z",
+  "last_seen": "2020-05-27T05:39:31.445Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "mx",
+  "_key": "1fe2908de1f762dc6052a8d3f86d1baa2c6d15e4",
+  "value": "mbox.freehostia.com"
+}
+{
+  "date": "2016-09-11T15:36:30.000Z",
+  "last_seen": "2020-05-08T08:58:54.776Z",
+  "qtype": "15",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "mx",
+  "_key": "169bbcc8d9d6d30ff4606dc9486129fb8468ef8f",
+  "value": "mbox.freehostia.com"
+}
+{
+  "date": "2017-07-23T12:06:07.000Z",
+  "last_seen": "2020-04-22T19:20:52.553Z",
+  "qtype": "2",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "73c7a0cc23a400727caea013734ce9bb01ea8558",
+  "value": "dns1.freehostia.com"
+}
+{
+  "date": "2017-07-23T12:06:07.000Z",
+  "last_seen": "2020-04-22T19:20:52.553Z",
+  "qtype": "2",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "c2b45fdb65830dfdaed0f35ad67e67ba6e2b26ea",
+  "value": "dns2.freehostia.com"
+}
+{
+  "date": "2020-01-27T12:47:23.478Z",
+  "last_seen": "2020-02-26T14:30:09.519Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "99.81.40.78",
+  "type": "ip",
+  "_key": "c90be7ec643d936c696c52bf3bede72092bb5535",
+  "value": "99.81.40.78"
+}
+{
+  "date": "2020-02-08T13:34:13.596Z",
+  "last_seen": "2020-02-21T17:23:07.571Z",
+  "qtype": "15",
+  "domain": "lcomputers.com",
+  "qname": "m.lcomputers.com",
+  "type": "cname",
+  "_key": "ef981459308d4e0df88a5f42d0bda05fa2a4f2fa",
+  "value": "869710.parkingcrew.net"
+}
+{
+  "date": "2020-01-30T01:31:53.469Z",
+  "last_seen": "2020-02-21T05:25:38.137Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "soa_server",
+  "_key": "1cf5a4f322c75fe8264d2ae15d1bbfa29dd00339",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-01-30T01:31:53.469Z",
+  "last_seen": "2020-02-21T05:25:38.137Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "87f09f6c4f70ca7a58535432f43c407cf12dd4b5",
+  "value": "ns2.dnsowl.com"
+}
+{
+  "date": "2020-01-30T01:31:53.469Z",
+  "last_seen": "2020-02-21T05:25:38.137Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "soa_email",
+  "_key": "b0e66877fe9ef3863572dae5cc3641967fb70011",
+  "value": "hostmaster@dnsowl.com"
+}
+{
+  "date": "2020-01-30T01:31:53.469Z",
+  "last_seen": "2020-02-21T05:25:38.137Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "f089a2637778318ffc30410e287c163be39e2f6d",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-01-30T01:31:53.469Z",
+  "last_seen": "2020-02-21T05:25:38.137Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "ad063d9f539966906b2e70ab2dfebe6349033efc",
+  "value": "ns3.dnsowl.com"
+}
+{
+  "date": "2020-01-30T01:31:53.469Z",
+  "last_seen": "2020-02-21T05:25:38.137Z",
+  "qtype": "255",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "99.81.40.78",
+  "type": "ip",
+  "_key": "e28c42d034085139f909bf01188fb9799e4b56e4",
+  "value": "99.81.40.78"
+}
+{
+  "date": "2020-01-28T07:44:25.787Z",
+  "last_seen": "2020-02-16T23:50:28.574Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.lcomputers.com",
+  "type": "cname",
+  "_key": "958d24bac9fc0f163e84929940e0d6fe7ec38c1b",
+  "value": "869710.parkingcrew.net"
+}
+{
+  "date": "2020-02-07T20:14:40.940Z",
+  "last_seen": "2020-02-07T20:14:40.940Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "spinrightround.lcomputers.com",
+  "type": "cname",
+  "_key": "431eae6790b0973083fc8e02b64107abff586728",
+  "value": "869710.parkingcrew.net"
+}
+{
+  "date": "2020-02-02T16:50:53.592Z",
+  "last_seen": "2020-02-02T16:50:53.592Z",
+  "qtype": "28",
+  "domain": "lcomputers.com",
+  "qname": "www.lcomputers.com",
+  "type": "cname",
+  "_key": "341b93edcf67f797a3a10e1080126e07a4e44278",
+  "value": "869710.parkingcrew.net"
+}
+{
+  "date": "2017-07-12T06:09:24.000Z",
+  "last_seen": "2019-09-07T14:09:02.929Z",
+  "qtype": "6",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "soa_server",
+  "_key": "df15e3c1d7bb8e70ca5e74a15e998f7e76cfc191",
+  "value": "dns1.freehostia.com"
+}
+{
+  "date": "2017-07-12T06:09:24.000Z",
+  "last_seen": "2019-09-07T14:09:02.929Z",
+  "qtype": "6",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "soa_email",
+  "_key": "1a8b176fb1a9b57b49ac75588c781bfa13835866",
+  "value": "root@freehostia.com"
+}
+{
+  "date": "2016-08-03T17:35:45.000Z",
+  "last_seen": "2016-08-03T17:35:45.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "137.74.191.65",
+  "type": "ip",
+  "_key": "93e54a424607ca97209137d96f2c5a972eab5e6f",
+  "value": "137.74.191.65"
+}
+{
+  "date": "2016-07-31T14:36:02.000Z",
+  "last_seen": "2016-08-02T00:20:03.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "164.132.168.85",
+  "type": "ip",
+  "_key": "25660f3a499765e88c2bfe710e0b53c8bfe359eb",
+  "value": "164.132.168.85"
+}
+{
+  "date": "2016-06-26T09:32:38.000Z",
+  "last_seen": "2016-07-28T01:24:09.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "149.56.22.192",
+  "type": "ip",
+  "_key": "a5b190ce4c9f37b51a06bba8f0a01a1830914b47",
+  "value": "149.56.22.192"
+}
+{
+  "date": "2016-03-05T04:54:50.000Z",
+  "last_seen": "2016-06-21T07:38:36.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "162.253.34.83",
+  "type": "ip",
+  "_key": "760534234345fef85b271820b0fe4171f7787a7f",
+  "value": "162.253.34.83"
+}
+{
+  "date": "2016-03-26T06:39:07.000Z",
+  "last_seen": "2016-06-08T04:06:48.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.lcomputers.com",
+  "value_ip": "162.253.34.83",
+  "type": "ip",
+  "_key": "8bbc4f4220e5065ab07d21dcdf4b919a33f809eb",
+  "value": "162.253.34.83"
+}
+{
+  "date": "2016-03-26T06:39:07.000Z",
+  "last_seen": "2016-06-08T04:06:48.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.lcomputers.com",
+  "type": "name",
+  "_key": "46904dd85b4e5055a612913174b813b1368de50e",
+  "value": "lcomputers.com"
+}
+{
+  "date": "2016-03-26T06:39:07.000Z",
+  "last_seen": "2016-06-08T04:06:48.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.lcomputers.com",
+  "type": "cname",
+  "_key": "6f2233fc571f9efc7867e9d4bbfaae48659d7790",
+  "value": "lcomputers.com"
+}
+{
+  "date": "2016-03-16T12:55:28.000Z",
+  "last_seen": "2016-03-16T12:55:28.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ftp.lcomputers.com",
+  "value_ip": "162.253.34.83",
+  "type": "ip",
+  "_key": "053b003b1cd1dccea268605d4966eecfcad45c9a",
+  "value": "162.253.34.83"
+}
+{
+  "date": "2015-11-06T18:10:50.000Z",
+  "last_seen": "2016-02-28T02:16:57.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "e145e3235d192b4e02c8ea519ae5bc96a289bbec",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-08T10:47:00.000Z",
+  "last_seen": "2016-01-27T08:05:25.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "termina.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "7a072466d908b6f7acd5925fb90c85156f671ddd",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-07T06:07:56.000Z",
+  "last_seen": "2016-01-27T08:00:56.000Z",
+  "qtype": "15",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "mx",
+  "_key": "6e40b512318ad227385c8a35b0de54cc09fb1aa4",
+  "value": "mail1101.ixwebhosting.com"
+}
+{
+  "date": "2015-11-12T02:41:29.000Z",
+  "last_seen": "2016-01-27T07:17:24.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "cantre.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "4e21e108a2fdeeab1e00caeb5b72333975d3fa04",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-19T21:44:50.000Z",
+  "last_seen": "2016-01-27T07:12:34.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "tn.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "b523256b2538aa0601b61b9fd4f830f86d09695d",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-19T02:31:42.000Z",
+  "last_seen": "2016-01-27T06:42:42.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "anythinga.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "ba62f3c5b2536307e083c8e17a10fcf0b454b8f3",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-11T23:06:42.000Z",
+  "last_seen": "2016-01-27T06:38:50.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "on-cal.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "d925271190ff10ecd19496c8215cd8137a8c2942",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-25T11:58:34.000Z",
+  "last_seen": "2016-01-27T06:02:41.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ethica.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "dafc750537f96916427becd84dc555a28f323483",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-12T02:01:25.000Z",
+  "last_seen": "2016-01-27T05:24:55.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "sel.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "a5389e9446d921df8f0443ad8313c4ddd3d691ce",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-19T13:45:31.000Z",
+  "last_seen": "2016-01-27T04:14:21.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "w.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "7f6e9b8d7c27f02e662008c327ed7ba1c63ddc86",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-09T07:12:48.000Z",
+  "last_seen": "2016-01-27T01:51:59.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "westonf.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "7303b09980e1855c66c26abc1f73706ec1bcb34e",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-18T11:02:29.000Z",
+  "last_seen": "2016-01-27T01:40:36.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "cantrel.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "d576dff4a22284fc6628f5aa1d356e1b24bad9c3",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-25T14:43:01.000Z",
+  "last_seen": "2016-01-27T01:03:50.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "braswel.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "f2181616c249e0e4441ca618e6f88ce99f8ac263",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-19T04:23:15.000Z",
+  "last_seen": "2016-01-27T00:59:06.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "realdea.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "b90950e5a8684109bd3b4cddaf38bca2e8978478",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-12T12:20:27.000Z",
+  "last_seen": "2016-01-27T00:14:45.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lowe.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "6829e9ff51bd1ae1d8b72063bbf0f47dadcc78c1",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-16T00:34:57.000Z",
+  "last_seen": "2016-01-27T00:12:43.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "3dpersona.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "b96405916dd50b2f0e851fc68c5ebccb958f1f1b",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-14T10:32:53.000Z",
+  "last_seen": "2016-01-26T23:50:00.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "otwel.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "062a8b19721d9c534a810ae1fadb01b5307f170e",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-28T21:39:09.000Z",
+  "last_seen": "2016-01-26T22:38:33.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "hil.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "686e6a4f7898ba3f2b08dc258efa5de2de05b083",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-19T06:44:17.000Z",
+  "last_seen": "2016-01-26T22:35:29.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "abe.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "48368caabf4a4955fb8851dd2df430f23dec1e98",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-18T08:47:29.000Z",
+  "last_seen": "2016-01-26T22:31:54.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "zt.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "bbff3fab5f3099c5b6d388851a383dc8ae094435",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-19T02:43:30.000Z",
+  "last_seen": "2016-01-26T22:14:03.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "hila.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "4c608da89572fea3fe62a3d53903fe9c9f72e0ba",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-13T09:41:45.000Z",
+  "last_seen": "2016-01-26T22:09:55.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "bestdea.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "8073c6f813e3002da23194dd70ab3bb784f1442c",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-15T14:26:29.000Z",
+  "last_seen": "2016-01-26T22:02:41.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "otwe.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "9364b363f63359a1a52754979829d7ab86049d2f",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-12T04:49:26.000Z",
+  "last_seen": "2016-01-26T21:16:11.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "addu.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "3ef0ce22f26da98c2845879ad19778d6876dfc37",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-14T02:27:51.000Z",
+  "last_seen": "2016-01-26T20:46:35.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "je.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "0fec4b40bc734e2ea2ab6ceddb47ecfe552fa2ee",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-15T15:09:48.000Z",
+  "last_seen": "2016-01-26T20:21:56.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "rige.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "6fa5cf10aa21f4053a50425c4f9b8ad82bf75725",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-15T09:04:01.000Z",
+  "last_seen": "2016-01-26T20:20:29.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "fracta.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "365ca12e4932add072e012d4c6a295afa7581c2d",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-25T02:48:05.000Z",
+  "last_seen": "2016-01-26T20:11:20.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "castel.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "9128860b2442fd5c87c430635c3aeb08153be737",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-17T05:18:39.000Z",
+  "last_seen": "2016-01-26T20:08:04.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "grinne.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "5c7bb5c09bceb1d1f654918808dbb8a1c4aa87df",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-06T20:36:55.000Z",
+  "last_seen": "2016-01-26T19:06:08.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "6a0263b6f0fb504acc97de1062e1b31e9ff1bf3f",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-11T23:55:42.000Z",
+  "last_seen": "2016-01-26T09:15:02.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "a-h.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "dbdf41ab2e40fdfc5ce9d559c565171a76fb8c5b",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-28T21:10:53.000Z",
+  "last_seen": "2016-01-26T08:52:24.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "att.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "1e9a8eab9eb77a608db45e14c02dc21c2e525d67",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-11T02:52:53.000Z",
+  "last_seen": "2016-01-26T08:21:39.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "orienta.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "2310e4effdbf48265da2cc43a12f002b08e08612",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-13T23:48:50.000Z",
+  "last_seen": "2016-01-26T08:03:28.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "addur.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "6f1302a80f9431f29d90dca862f13ac379c4681d",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-25T17:07:59.000Z",
+  "last_seen": "2016-01-26T07:22:19.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lafnac-digita.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "4d19fad95522625d758b8d6f1fe948420934eac1",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-20T02:31:30.000Z",
+  "last_seen": "2016-01-26T01:40:25.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "primordia.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "13cfe8e48b2464a8339752c68286f61c4720ff53",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-17T15:52:42.000Z",
+  "last_seen": "2016-01-26T01:27:26.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "hv.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "7a2c6fdfe68e5a62ccd0216cd47f7ce96e5001cb",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-12T06:42:54.000Z",
+  "last_seen": "2016-01-25T22:02:50.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ak.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "49257b83056db3113c4fee0d256ec2feeab34152",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-25T04:02:11.000Z",
+  "last_seen": "2016-01-25T18:49:57.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "professiona.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "945ffafe781fa7d75676570d8565569eacdc0a34",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-15T00:42:13.000Z",
+  "last_seen": "2016-01-25T17:48:42.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "eastcentra.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "7114c2e3a92b56eeb827d1c3cefa5ee05003f4a7",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-24T05:16:23.000Z",
+  "last_seen": "2016-01-25T17:39:04.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "jd.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "7b6dcd81511c93fc5a3a565ed68bc046b57d7d1b",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-24T05:08:07.000Z",
+  "last_seen": "2016-01-25T17:28:03.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "braswe.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "99df4a041cd1001818589b1141af9bde5732c804",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-30T04:15:28.000Z",
+  "last_seen": "2016-01-25T16:22:08.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "l.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "d9058659b878fffb5deeaa97104f8fc591d261cb",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-28T05:25:51.000Z",
+  "last_seen": "2016-01-25T15:16:25.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.de.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "15d1e7a97ae8df964fed4b6c2c2c71ba27174887",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-08T10:25:33.000Z",
+  "last_seen": "2016-01-25T12:59:10.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "unblockscho.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "9720cff1f8d35a818d1a7366860825c4ff826ed9",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-28T02:28:58.000Z",
+  "last_seen": "2016-01-25T11:00:19.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "3.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "4a69bb7ab599a7c4756ef6c2f6872693157b6ca6",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-12T04:18:08.000Z",
+  "last_seen": "2016-01-25T09:40:37.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "hot.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "35ac178a35deb9c669f7286ef42fc073db727b6d",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-29T22:23:47.000Z",
+  "last_seen": "2016-01-25T09:21:40.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "on-ca.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "a6b8267827d8a5f3b94031ddfea2f5da9d37cb0b",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-17T08:30:11.000Z",
+  "last_seen": "2016-01-25T09:11:11.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "acce.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "4810c4c04c9391caed5ec270ed4cc9ca6f99a002",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-12T22:18:54.000Z",
+  "last_seen": "2016-01-25T08:29:48.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "riede.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "710f4e209a4da4e1e7d1c957f9a1c4fdbf4d7cfe",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-07T07:39:55.000Z",
+  "last_seen": "2016-01-25T08:19:25.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail.lcomputers.com",
+  "type": "name",
+  "_key": "a9d2b9e222b44b0c4cb63de6a9cbfdc95e5e562a",
+  "value": "mail1101.opentransfer.com"
+}
+{
+  "date": "2015-11-07T07:39:55.000Z",
+  "last_seen": "2016-01-25T08:19:25.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "mail.lcomputers.com",
+  "type": "cname",
+  "_key": "354ed22dd919cdc1565f85450f2a4a80d5b3e38a",
+  "value": "mail1101.opentransfer.com"
+}
+{
+  "date": "2015-11-25T12:18:04.000Z",
+  "last_seen": "2016-01-25T03:15:20.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "rcidea.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "c8022ade6b7dda7e251dab85c6238db7603be22e",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-10T23:23:39.000Z",
+  "last_seen": "2016-01-25T00:13:11.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "custominte.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "d99d25956e9674bda02badb34ee03a93c7072697",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-17T15:08:15.000Z",
+  "last_seen": "2016-01-24T22:43:42.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "t.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "ce98a52ad47cbabe3aa7a958116078a57687481f",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-23T18:39:02.000Z",
+  "last_seen": "2016-01-24T22:35:04.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "continenta.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "176cca09296b371d3773c6fea117f9d7f77e0b9c",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-26T12:20:10.000Z",
+  "last_seen": "2016-01-24T21:37:53.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "sinfu.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "94d7b2b2f128d34047532c48633cc6cb90580c5b",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-21T11:02:34.000Z",
+  "last_seen": "2016-01-24T19:12:40.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "cheapsma.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "63095b33aafb2b81fda00a07130008f4e459e8e6",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-07T02:09:33.000Z",
+  "last_seen": "2016-01-24T14:55:44.000Z",
+  "qtype": "2",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "839ded678d71edd3361af0a078ba84fa8731d945",
+  "value": "ns22.ixwebhosting.com"
+}
+{
+  "date": "2015-11-07T02:09:33.000Z",
+  "last_seen": "2016-01-24T14:55:44.000Z",
+  "qtype": "2",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "e3b055f79d96690f969a3733589d95e2b7d60d99",
+  "value": "ns21.ixwebhosting.com"
+}
+{
+  "date": "2015-11-24T20:44:56.000Z",
+  "last_seen": "2016-01-24T08:56:34.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "hollywoodf.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "0f2fc1a6e4a46068a73a8c92dd5e581703552574",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-11T09:14:43.000Z",
+  "last_seen": "2016-01-24T08:20:58.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "unblockschoo.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "2c8fecd2562ee9d758736650cd49720df4ed63b4",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-19T04:43:38.000Z",
+  "last_seen": "2016-01-24T08:18:46.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "del.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "3463ec7aac62be582943951f19beb0347e53564f",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-13T06:59:10.000Z",
+  "last_seen": "2016-01-24T07:57:19.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "nca.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "41367ffe7de340360bb32d163fddaad32617b0f1",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-08T15:53:34.000Z",
+  "last_seen": "2016-01-24T06:42:50.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "betterdea.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "5e541052bf5d6c68acfd4771105171364d74d3dd",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-22T03:14:21.000Z",
+  "last_seen": "2016-01-24T06:00:49.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "nextleve.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "09909b67f278e59f3de26d70072734d55dfeb123",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-18T11:02:22.000Z",
+  "last_seen": "2016-01-23T01:22:55.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "pasca.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "41cdfa611351393b8be0b4af4ec387711b42510b",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-17T08:59:47.000Z",
+  "last_seen": "2016-01-21T22:21:33.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "de.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "6a2ac6333d9c03183049354c82dc501240103785",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-13T15:21:30.000Z",
+  "last_seen": "2016-01-21T14:07:09.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "meuche.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "df292fcd6f57450cf6739e196c1c83d3dc95ed0d",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2016-01-18T14:00:47.000Z",
+  "last_seen": "2016-01-18T14:00:47.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ftp.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "2f1a074671298b86aa04ddce13a82148d4151b9d",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-15T10:49:45.000Z",
+  "last_seen": "2016-01-18T08:16:14.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "kv.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "10a88670a4493f0b17df9779b56912d89584adf0",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-15T16:53:04.000Z",
+  "last_seen": "2016-01-18T03:39:19.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "b.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "4f69e15af3d0ffd9812bac7ff7b5ff7c9240f9e9",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-19T19:50:45.000Z",
+  "last_seen": "2016-01-17T01:39:47.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "se.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "46d80c5b76a316bc90f0ba7fa676c09b40fef15d",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-26T15:01:56.000Z",
+  "last_seen": "2016-01-16T21:03:12.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "ac.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "3d7ec8bdd21c50d794a0f5896c4a682ce550f2c9",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2016-01-04T04:35:35.000Z",
+  "last_seen": "2016-01-10T02:39:16.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.custominte.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "b180ca8af72111d8a640065b1fecc31368251ba5",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2016-01-05T23:10:12.000Z",
+  "last_seen": "2016-01-05T23:10:12.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "smtp.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "3a46aced48f42bb3fcdb152fbdb540ae74c0f752",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2016-01-05T01:50:55.000Z",
+  "last_seen": "2016-01-05T01:50:55.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "m.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "9a32a6a99e74ec8b6b85beb55bb59ba3d399d645",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-23T23:25:05.000Z",
+  "last_seen": "2015-12-31T09:07:33.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.a-h.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "8fada95a0ec0dd79a6f5f693c8bb871146d1ff5e",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-24T01:33:48.000Z",
+  "last_seen": "2015-12-31T07:40:14.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.addu.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "c1c53ddce01d88b775cd7babbdc8da49e3471edd",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-25T12:07:05.000Z",
+  "last_seen": "2015-12-31T06:28:32.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.on-ca.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "86d5bafb214c358358b4934d3df6e38ed811d46a",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-24T02:39:38.000Z",
+  "last_seen": "2015-12-31T06:00:29.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.fracta.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "b73597c144970a428ef43f0776843605a73784c9",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-24T02:52:37.000Z",
+  "last_seen": "2015-12-30T09:30:44.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.cantrel.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "a20963f1df452ede109b9ecc273f0e55bd068546",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-24T00:31:00.000Z",
+  "last_seen": "2015-12-30T07:47:55.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.sel.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "d014492d1ff02d24aeb6c001723fe637b2cdcc01",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-23T23:51:54.000Z",
+  "last_seen": "2015-12-30T07:31:33.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.att.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "bb7a29a993eb25241deb3e5eab661c567b43e219",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-23T22:33:06.000Z",
+  "last_seen": "2015-12-30T07:31:22.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.jd.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "2871bf55f8ee7e0b734f5b124717a8ab5f8996ae",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-24T02:26:34.000Z",
+  "last_seen": "2015-12-30T05:04:37.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.pasca.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "a29bf75fefdc855cb71bb3d190db76e0940ad2cf",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-23T23:05:40.000Z",
+  "last_seen": "2015-12-30T04:36:46.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.abe.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "cfd9a12314ec2706391d5c26ff74bfa40dc81f64",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-24T01:14:48.000Z",
+  "last_seen": "2015-12-29T20:15:50.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.otwe.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "f1c3d3522227284664715448bd8e7761c585f169",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-21T02:53:19.000Z",
+  "last_seen": "2015-12-21T02:53:19.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "fdbd92d6-a78d-11e5-8f1c-d89d6723726c.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "b20b6bdfcd56fc61d1b67cc88416d18d7bed811b",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-10T22:08:30.000Z",
+  "last_seen": "2015-12-17T17:26:19.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.se.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "f07d4b831872336a99af4bbb34d0fd4b26dfc892",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-16T22:32:29.000Z",
+  "last_seen": "2015-12-16T22:32:29.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "news.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "404d96d0d2097f4a23c3dc789a0b57958fc6cd8e",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-12-10T23:08:45.000Z",
+  "last_seen": "2015-12-16T22:06:04.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.hv.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "1bcf377f969505bd4045de3df088c4fcd896dc96",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-11-26T14:07:16.000Z",
+  "last_seen": "2015-11-30T04:21:33.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.b.lcomputers.com",
+  "value_ip": "66.116.210.2",
+  "type": "ip",
+  "_key": "e39d5496c7dcc0e2228fa10a59610b4a09962cc7",
+  "value": "66.116.210.2"
+}
+{
+  "date": "2015-07-16T08:54:54.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "blog.lcomputers.com",
+  "value_ip": "72.52.4.91",
+  "type": "ip",
+  "_key": "c50c76153431c63259886e7dd7117a4f6fb37a70",
+  "value": "72.52.4.91"
+}
+{
+  "date": "2014-11-12T14:57:45.000Z",
+  "qtype": "2",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "type": "ns",
+  "_key": "44e236516d6ce3b6ada8cce9d251ebf4920c4fb0",
+  "value": "ns1.sedoparking.com"
+}
+{
+  "date": "2014-08-03T09:45:46Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "72.52.4.91",
+  "type": "ip",
+  "_key": "a81142564ddfaee641e6a9b3ab746454ff42156c",
+  "value": "72.52.4.91"
+}
+{
+  "date": "2014-07-29T09:48:40Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "lcomputers.com",
+  "value_ip": "82.98.86.161",
+  "type": "ip",
+  "_key": "362594a5d0ea811ab49f40c4c57f4361ec2a397e",
+  "value": "82.98.86.161"
+}
+{
+  "date": "2014-08-16T15:44:18.000Z",
+  "qtype": "1",
+  "domain": "lcomputers.com",
+  "qname": "www.lcomputers.com",
+  "value_ip": "72.52.4.91",
+  "type": "ip",
+  "_key": "c9b6b49cb3cb05351846052d7166eea2eed49d4c",
+  "value": "72.52.4.91"
+}

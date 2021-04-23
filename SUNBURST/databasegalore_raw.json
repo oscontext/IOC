@@ -1,0 +1,124 @@
+{
+  "date": "2020-03-18T12:29:40.829Z",
+  "last_seen": "2020-12-14T21:23:50.727Z",
+  "qtype": "1",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "value_ip": "5.252.177.21",
+  "type": "ip",
+  "_key": "d8525521d94ae6579acd1147ac36f122de3d56e2",
+  "value": "5.252.177.21"
+}
+{
+  "date": "2020-12-14T19:24:26.661Z",
+  "last_seen": "2020-12-14T19:24:26.661Z",
+  "qtype": "28",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "type": "aaaa",
+  "_key": "c3b17e80247cb2265fa85779146ddd3a3ef3aa40",
+  "value": "::ffff:146.112.61.104"
+}
+{
+  "date": "2020-12-14T19:24:26.661Z",
+  "last_seen": "2020-12-14T19:24:26.661Z",
+  "qtype": "1",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "value_ip": "146.112.61.104",
+  "type": "ip",
+  "_key": "212c55b176c17245465cd4cfee58460e3dbb9db2",
+  "value": "146.112.61.104"
+}
+{
+  "date": "2020-08-18T09:11:09.203Z",
+  "last_seen": "2020-12-12T03:07:33.838Z",
+  "qtype": "1",
+  "domain": "databasegalore.com",
+  "qname": "www.databasegalore.com",
+  "value_ip": "5.252.177.21",
+  "type": "ip",
+  "_key": "ffb0f377613fc2ca4c83d10ab2d2e2c25a003f9d",
+  "value": "5.252.177.21"
+}
+{
+  "date": "2020-12-07T02:32:52.101Z",
+  "last_seen": "2020-12-07T02:32:52.101Z",
+  "qtype": "15",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "type": "mx",
+  "_key": "1f1738678eed87dfe8816b83cee660e1e76b4029",
+  "value": "eforward4.registrar-servers.com"
+}
+{
+  "date": "2020-12-07T02:32:52.101Z",
+  "last_seen": "2020-12-07T02:32:52.101Z",
+  "qtype": "15",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "type": "mx",
+  "_key": "1fda3feb71b0e65ce392b71b97759e60d2634c18",
+  "value": "eforward3.registrar-servers.com"
+}
+{
+  "date": "2020-12-07T02:32:52.101Z",
+  "last_seen": "2020-12-07T02:32:52.101Z",
+  "qtype": "15",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "type": "mx",
+  "_key": "f79a13ad57b1b8b6d9ae9ad0e6e540fa5fa38347",
+  "value": "eforward1.registrar-servers.com"
+}
+{
+  "date": "2020-12-07T02:32:52.101Z",
+  "last_seen": "2020-12-07T02:32:52.101Z",
+  "qtype": "15",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "type": "mx",
+  "_key": "6c1ed73af5b120ef60b4796edf49be832576db54",
+  "value": "eforward5.registrar-servers.com"
+}
+{
+  "date": "2020-12-07T02:32:52.101Z",
+  "last_seen": "2020-12-07T02:32:52.101Z",
+  "qtype": "15",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "type": "mx",
+  "_key": "82b3f0fb7c97b39e9f8836fd8e5ba2d63d9cba94",
+  "value": "eforward2.registrar-servers.com"
+}
+{
+  "date": "2020-05-16T10:43:33.250Z",
+  "last_seen": "2020-05-16T10:43:33.250Z",
+  "qtype": "2",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "type": "ns",
+  "_key": "aa5ae99bdbcbd874e215ba0b4c1f995843ba7182",
+  "value": "dns2.registrar-servers.com"
+}
+{
+  "date": "2020-05-16T10:43:33.250Z",
+  "last_seen": "2020-05-16T10:43:33.250Z",
+  "qtype": "2",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "type": "ns",
+  "_key": "0fdab5e7dbfd0d48373520438bc84e7f79f7bc53",
+  "value": "dns1.registrar-servers.com"
+}
+{
+  "date": "2019-12-17T11:00:24.266Z",
+  "last_seen": "2020-02-29T06:31:01.514Z",
+  "qtype": "1",
+  "domain": "databasegalore.com",
+  "qname": "databasegalore.com",
+  "value_ip": "3.19.54.58",
+  "type": "ip",
+  "_key": "09356bf4f6e607c5b7172a97a8c5fed228b6d893",
+  "value": "3.19.54.58"
+}

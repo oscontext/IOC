@@ -1,0 +1,1012 @@
+{
+  "date": "2020-12-23T16:38:32.294Z",
+  "last_seen": "2021-02-22T16:17:10.304Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "178.162.203.211",
+  "type": "ip",
+  "_key": "74466606dbee9fbb757642f7a4259d020eef079b",
+  "value": "178.162.203.211"
+}
+{
+  "date": "2020-12-23T16:38:32.294Z",
+  "last_seen": "2021-02-22T16:14:21.015Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "178.162.203.226",
+  "type": "ip",
+  "_key": "0e172cf12dce98a1a347d5d98e331d36fd74c11d",
+  "value": "178.162.203.226"
+}
+{
+  "date": "2020-12-23T16:38:32.294Z",
+  "last_seen": "2021-02-22T16:14:21.015Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "178.162.203.202",
+  "type": "ip",
+  "_key": "13e28a428d87f3a04ceafbb5017397933fc8f006",
+  "value": "178.162.203.202"
+}
+{
+  "date": "2020-12-23T16:38:32.294Z",
+  "last_seen": "2021-02-22T16:14:21.015Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "85.17.31.82",
+  "type": "ip",
+  "_key": "3248f92580ba0fb38a8dffe139f8cd02db087e67",
+  "value": "85.17.31.82"
+}
+{
+  "date": "2020-12-23T16:38:32.294Z",
+  "last_seen": "2021-02-22T16:10:41.853Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "5.79.71.205",
+  "type": "ip",
+  "_key": "b91bb9851b8f657831a2621d554a9e708f823431",
+  "value": "5.79.71.205"
+}
+{
+  "date": "2020-12-23T16:38:32.294Z",
+  "last_seen": "2021-02-22T16:10:41.853Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "178.162.217.107",
+  "type": "ip",
+  "_key": "27b560a96a7acb21127b27b1971ece5fb5374203",
+  "value": "178.162.217.107"
+}
+{
+  "date": "2020-12-23T16:38:32.294Z",
+  "last_seen": "2021-02-22T16:10:41.853Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "85.17.31.122",
+  "type": "ip",
+  "_key": "649952404db8969bdd85cf3b6330ab001286a934",
+  "value": "85.17.31.122"
+}
+{
+  "date": "2020-12-23T19:24:11.281Z",
+  "last_seen": "2021-02-22T16:08:12.987Z",
+  "qtype": "28",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "aaaa",
+  "_key": "308ed06e2b7bc91be5f49c6168d09e64809f00de",
+  "value": "2a02:1668:1034::2"
+}
+{
+  "date": "2020-12-23T16:38:32.294Z",
+  "last_seen": "2021-02-22T16:07:53.362Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "5.79.71.225",
+  "type": "ip",
+  "_key": "3e21d4219d187bc0b95b8af631453bcaf39b963b",
+  "value": "5.79.71.225"
+}
+{
+  "date": "2021-02-22T04:37:15.450Z",
+  "last_seen": "2021-02-22T15:03:55.913Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "0.0.0.0",
+  "type": "ip",
+  "_key": "0d9f92a70c5429a40c0cd3112eb61eb7ef9f1875",
+  "value": "0.0.0.0"
+}
+{
+  "date": "2020-12-28T15:54:14.503Z",
+  "last_seen": "2021-02-22T12:49:19.935Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "178.162.203.226",
+  "type": "ip",
+  "_key": "e546d23c97210189839081f8c9160f2f7cd305bd",
+  "value": "178.162.203.226"
+}
+{
+  "date": "2020-12-28T15:54:14.503Z",
+  "last_seen": "2021-02-22T12:49:19.935Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "178.162.217.107",
+  "type": "ip",
+  "_key": "f58424e2678ec9e3124d9b85e53fee05a1eb1a94",
+  "value": "178.162.217.107"
+}
+{
+  "date": "2020-12-28T15:54:14.503Z",
+  "last_seen": "2021-02-22T12:49:19.935Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "85.17.31.82",
+  "type": "ip",
+  "_key": "6651f3cd446fbf744b10ae15f78c13593a2cb357",
+  "value": "85.17.31.82"
+}
+{
+  "date": "2020-12-28T15:54:14.503Z",
+  "last_seen": "2021-02-22T12:49:19.935Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "5.79.71.205",
+  "type": "ip",
+  "_key": "b09d521249293c6372197066749c10dcdff8685b",
+  "value": "5.79.71.205"
+}
+{
+  "date": "2020-12-28T15:54:14.503Z",
+  "last_seen": "2021-02-22T12:49:19.935Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "178.162.203.211",
+  "type": "ip",
+  "_key": "c6a43c4798d67cfc0da123c87b2fdf93247f3209",
+  "value": "178.162.203.211"
+}
+{
+  "date": "2020-12-28T15:54:14.503Z",
+  "last_seen": "2021-02-22T12:49:19.935Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "5.79.71.225",
+  "type": "ip",
+  "_key": "4255ef13ea492184327ef8277d32b1353cc67ead",
+  "value": "5.79.71.225"
+}
+{
+  "date": "2020-12-28T15:54:14.503Z",
+  "last_seen": "2021-02-22T12:49:19.935Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "178.162.203.202",
+  "type": "ip",
+  "_key": "ac706daa1424f5d9f7f0640827e6d3f6d23b325c",
+  "value": "178.162.203.202"
+}
+{
+  "date": "2020-12-28T15:54:14.503Z",
+  "last_seen": "2021-02-22T12:49:19.935Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "85.17.31.122",
+  "type": "ip",
+  "_key": "9cf3b34323329e31a6811ad18108c7eccf06349c",
+  "value": "85.17.31.122"
+}
+{
+  "date": "2020-12-23T00:49:11.694Z",
+  "last_seen": "2021-02-17T09:22:24.371Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "146.112.61.104",
+  "type": "ip",
+  "_key": "901af17496087eedcad4bbb6e81fe5ea34d77879",
+  "value": "146.112.61.104"
+}
+{
+  "date": "2021-01-11T21:41:58.150Z",
+  "last_seen": "2021-02-17T09:20:52.936Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "146.112.61.104",
+  "type": "ip",
+  "_key": "8a8572f32df3532af46689d853b2869da7e6a366",
+  "value": "146.112.61.104"
+}
+{
+  "date": "2021-01-18T12:35:54.738Z",
+  "last_seen": "2021-02-15T01:24:38.892Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "value_ip": "5.79.71.225",
+  "type": "ip",
+  "_key": "39246dbc610dc534145bae539feb914e37167f2b",
+  "value": "5.79.71.225"
+}
+{
+  "date": "2021-01-18T12:35:54.738Z",
+  "last_seen": "2021-02-15T01:24:38.892Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "value_ip": "178.162.203.202",
+  "type": "ip",
+  "_key": "0d40a83ca316aef32c998438277847dc65a207d7",
+  "value": "178.162.203.202"
+}
+{
+  "date": "2021-01-18T12:35:54.738Z",
+  "last_seen": "2021-02-15T01:24:38.892Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "value_ip": "5.79.71.205",
+  "type": "ip",
+  "_key": "ac402d831f858f9ba1ae23b954799a5fb33fb5db",
+  "value": "5.79.71.205"
+}
+{
+  "date": "2021-01-18T12:35:54.738Z",
+  "last_seen": "2021-02-15T01:24:38.892Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "value_ip": "85.17.31.122",
+  "type": "ip",
+  "_key": "88d7d73a4da131784bff582ff59e72f9006c4b84",
+  "value": "85.17.31.122"
+}
+{
+  "date": "2021-01-18T12:35:54.738Z",
+  "last_seen": "2021-02-15T01:24:38.892Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "value_ip": "85.17.31.82",
+  "type": "ip",
+  "_key": "44d9af0215f351bea54b9f7881739bed4317f1ab",
+  "value": "85.17.31.82"
+}
+{
+  "date": "2021-01-18T12:35:54.738Z",
+  "last_seen": "2021-02-15T01:24:38.892Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "value_ip": "178.162.203.211",
+  "type": "ip",
+  "_key": "32f6e84ac6eefaa9eac657242c517afaebb8b625",
+  "value": "178.162.203.211"
+}
+{
+  "date": "2021-01-18T12:35:54.738Z",
+  "last_seen": "2021-02-15T01:24:38.892Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "value_ip": "178.162.203.226",
+  "type": "ip",
+  "_key": "3f9c5e0a2c6011e06d405da5d25fd250d4461d61",
+  "value": "178.162.203.226"
+}
+{
+  "date": "2021-01-18T12:35:54.738Z",
+  "last_seen": "2021-02-15T01:24:38.892Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "value_ip": "178.162.217.107",
+  "type": "ip",
+  "_key": "53633e52b2fde9921e2efed65b5d5a1d93d9e825",
+  "value": "178.162.217.107"
+}
+{
+  "date": "2020-12-23T01:09:53.062Z",
+  "last_seen": "2021-02-14T10:13:35.731Z",
+  "qtype": "28",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "aaaa",
+  "_key": "351c1822d57e9a623c31d2005e3f9f8502fbb232",
+  "value": "::ffff:146.112.61.104"
+}
+{
+  "date": "2021-01-29T10:15:16.643Z",
+  "last_seen": "2021-02-12T12:25:49.912Z",
+  "qtype": "28",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "aaaa",
+  "_key": "77643a14b16d5f9a81b94f2212caebccf8fc1fb6",
+  "value": "2a02:1668:1034::2"
+}
+{
+  "date": "2020-12-19T18:33:12.088Z",
+  "last_seen": "2021-01-23T21:04:58.284Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "146.112.61.107",
+  "type": "ip",
+  "_key": "82aa2eef89d5e51df2148465a3080be5c70927ff",
+  "value": "146.112.61.107"
+}
+{
+  "date": "2021-01-18T02:43:48.805Z",
+  "last_seen": "2021-01-18T02:43:53.932Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "htaipxgn9u.solartrackingsystem.net",
+  "value_ip": "178.162.203.226",
+  "type": "ip",
+  "_key": "8a5e2a3a53ae22d6097ed98bb6e46a8b38520384",
+  "value": "178.162.203.226"
+}
+{
+  "date": "2021-01-18T02:43:48.805Z",
+  "last_seen": "2021-01-18T02:43:53.932Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "htaipxgn9u.solartrackingsystem.net",
+  "value_ip": "178.162.203.202",
+  "type": "ip",
+  "_key": "e19bacd5059da76fda28a08dd5ab8ae31e712a18",
+  "value": "178.162.203.202"
+}
+{
+  "date": "2021-01-18T02:43:48.805Z",
+  "last_seen": "2021-01-18T02:43:53.932Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "htaipxgn9u.solartrackingsystem.net",
+  "value_ip": "5.79.71.225",
+  "type": "ip",
+  "_key": "1cc00d5d3a979ef6b32032e1ab6646cc432313d6",
+  "value": "5.79.71.225"
+}
+{
+  "date": "2021-01-18T02:43:48.805Z",
+  "last_seen": "2021-01-18T02:43:53.932Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "htaipxgn9u.solartrackingsystem.net",
+  "value_ip": "85.17.31.122",
+  "type": "ip",
+  "_key": "465282eb53d70d1ea903203e871f5b7ab18b26da",
+  "value": "85.17.31.122"
+}
+{
+  "date": "2021-01-18T02:43:48.805Z",
+  "last_seen": "2021-01-18T02:43:53.932Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "htaipxgn9u.solartrackingsystem.net",
+  "value_ip": "85.17.31.82",
+  "type": "ip",
+  "_key": "026d50adfa5358fd157e110bc626ac83bb4932bc",
+  "value": "85.17.31.82"
+}
+{
+  "date": "2021-01-18T02:43:48.805Z",
+  "last_seen": "2021-01-18T02:43:53.932Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "htaipxgn9u.solartrackingsystem.net",
+  "value_ip": "178.162.217.107",
+  "type": "ip",
+  "_key": "9ab9c9d81993f4167646473d7988f3fd33700141",
+  "value": "178.162.217.107"
+}
+{
+  "date": "2021-01-18T02:43:48.805Z",
+  "last_seen": "2021-01-18T02:43:53.932Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "htaipxgn9u.solartrackingsystem.net",
+  "value_ip": "178.162.203.211",
+  "type": "ip",
+  "_key": "d929fccb341ab8f39244f07e3754423387022027",
+  "value": "178.162.203.211"
+}
+{
+  "date": "2021-01-18T02:43:48.805Z",
+  "last_seen": "2021-01-18T02:43:53.932Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "htaipxgn9u.solartrackingsystem.net",
+  "value_ip": "5.79.71.205",
+  "type": "ip",
+  "_key": "98e053c79c4fd07c3441b5c8f7d2c2cfb0aba1a2",
+  "value": "5.79.71.205"
+}
+{
+  "date": "2021-01-05T16:24:59.730Z",
+  "last_seen": "2021-01-05T16:24:59.730Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "c527c559ac45c796b862abcbd493372b2537c9ad",
+  "value": "sinkhole-a.shadowserver.org"
+}
+{
+  "date": "2021-01-05T16:24:59.730Z",
+  "last_seen": "2021-01-05T16:24:59.730Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "053d24b04f0c2c3a13fb5ad39e03edd753580ef9",
+  "value": "sinkhole-04.shadowserver.org"
+}
+{
+  "date": "2021-01-05T16:24:59.730Z",
+  "last_seen": "2021-01-05T16:24:59.730Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "1e7e13b19e1a4a7ab94b67fa58ccc75741e152e7",
+  "value": "sinkhole-b.shadowserver.org"
+}
+{
+  "date": "2021-01-05T16:24:59.730Z",
+  "last_seen": "2021-01-05T16:24:59.730Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "a8ce8c909144a82889b10ae1f763a10ad558722d",
+  "value": "sinkhole-02.shadowserver.org"
+}
+{
+  "date": "2021-01-05T16:24:59.730Z",
+  "last_seen": "2021-01-05T16:24:59.730Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "3daae497d690f11f0631321af70457bbcc463f17",
+  "value": "sinkhole-01.shadowserver.org"
+}
+{
+  "date": "2021-01-05T16:24:59.730Z",
+  "last_seen": "2021-01-05T16:24:59.730Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "311b0a137c0cb8d4503c8e7f2daa0bfdbbfeae5e",
+  "value": "sinkhole-00.shadowserver.org"
+}
+{
+  "date": "2021-01-05T16:24:59.730Z",
+  "last_seen": "2021-01-05T16:24:59.730Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "5745a96b283d51eac04923933cf6a69867e9e207",
+  "value": "sinkhole-03.shadowserver.org"
+}
+{
+  "date": "2020-02-14T08:17:17.147Z",
+  "last_seen": "2020-12-23T17:37:56.105Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "34.219.234.134",
+  "type": "ip",
+  "_key": "3bfdf334d406eac87ce87f28abbe4744478c2454",
+  "value": "34.219.234.134"
+}
+{
+  "date": "2020-02-15T15:39:04.486Z",
+  "last_seen": "2020-12-23T17:37:00.384Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "34.219.234.134",
+  "type": "ip",
+  "_key": "69d453af3e364621afdf942b4d653547d9ed17ff",
+  "value": "34.219.234.134"
+}
+{
+  "date": "2020-01-13T03:42:23.653Z",
+  "last_seen": "2020-12-23T05:47:58.550Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "15e1e004bf04b07f2cf296932ac60270a1d42861",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-01-13T03:42:23.653Z",
+  "last_seen": "2020-12-23T05:47:58.550Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "228ba89bb0f4954c764ad5a1b8e9f6c82b93039f",
+  "value": "ns2.dnsowl.com"
+}
+{
+  "date": "2020-01-13T03:42:23.653Z",
+  "last_seen": "2020-12-23T05:47:58.550Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "b60f69043d0f23e3baec580d73e69514c5d184df",
+  "value": "ns3.dnsowl.com"
+}
+{
+  "date": "2020-02-01T22:32:13.399Z",
+  "last_seen": "2020-12-21T06:54:19.341Z",
+  "qtype": "6",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "soa_server",
+  "_key": "8f0565092467c5f768fb1e2dcd048dc96bc3f2c0",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-02-01T22:32:13.399Z",
+  "last_seen": "2020-12-21T06:54:19.341Z",
+  "qtype": "6",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "soa_email",
+  "_key": "50a8f4c5c8f2ea67adaa424945bc158a579f967f",
+  "value": "hostmaster@dnsowl.com"
+}
+{
+  "date": "2020-12-18T22:33:09.605Z",
+  "last_seen": "2020-12-18T22:33:09.605Z",
+  "qtype": "255",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "value_ip": "34.219.234.134",
+  "type": "ip",
+  "_key": "7928209a97a019dd837d62f06bb03420507ad6b8",
+  "value": "34.219.234.134"
+}
+{
+  "date": "2020-05-27T09:20:50.435Z",
+  "last_seen": "2020-12-12T04:50:15.615Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "value_ip": "34.219.234.134",
+  "type": "ip",
+  "_key": "47fc4d3562dd99d40125dbc7696561f8f6cbe86f",
+  "value": "34.219.234.134"
+}
+{
+  "date": "2020-09-24T10:08:25.680Z",
+  "last_seen": "2020-11-15T17:03:42.802Z",
+  "qtype": "255",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "34.219.234.134",
+  "type": "ip",
+  "_key": "e1f2a4cebdbae0a1951eece93f9a6fe39bbf28bc",
+  "value": "34.219.234.134"
+}
+{
+  "date": "2020-07-10T18:48:07.675Z",
+  "last_seen": "2020-07-10T18:48:07.675Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "cms.solartrackingsystem.net",
+  "value_ip": "34.219.234.134",
+  "type": "ip",
+  "_key": "4110ee2b724da81d680fd5067f59b9c3a03921f9",
+  "value": "34.219.234.134"
+}
+{
+  "date": "2020-02-13T09:55:45.387Z",
+  "last_seen": "2020-02-13T09:55:45.387Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "_587._tcp.solartrackingsystem.net",
+  "value_ip": "34.219.234.134",
+  "type": "ip",
+  "_key": "1d122e0a878eca5ff81902fb3a50bb6373f89d03",
+  "value": "34.219.234.134"
+}
+{
+  "date": "2020-01-08T03:14:13.214Z",
+  "last_seen": "2020-02-12T03:47:09.358Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "192.161.187.200",
+  "type": "ip",
+  "_key": "ef69012cfa26150c96f6bc8c81ba53ead1d938b0",
+  "value": "192.161.187.200"
+}
+{
+  "date": "2020-01-08T03:14:13.214Z",
+  "last_seen": "2020-02-12T03:47:09.358Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "209.141.38.71",
+  "type": "ip",
+  "_key": "c3f14db6ef21955cd7cc9fd135c582128fa4a128",
+  "value": "209.141.38.71"
+}
+{
+  "date": "2020-01-08T03:14:13.214Z",
+  "last_seen": "2020-02-12T03:47:09.358Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "107.161.23.204",
+  "type": "ip",
+  "_key": "0816a549e044e7407866a1774387b6dd53a4d48d",
+  "value": "107.161.23.204"
+}
+{
+  "date": "2020-01-09T10:14:24.664Z",
+  "last_seen": "2020-02-11T07:14:37.420Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "cname",
+  "_key": "97767fe0fce446ff0366644be9bb70fe80f1c284",
+  "value": "parking.namesilo.com"
+}
+{
+  "date": "2020-01-14T12:41:29.288Z",
+  "last_seen": "2020-01-14T12:41:29.288Z",
+  "qtype": "28",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "cname",
+  "_key": "5fc5d415fe0f083bdb14835d19dbdb3cf74c063e",
+  "value": "parking.namesilo.com"
+}
+{
+  "date": "2016-12-02T01:26:58.000Z",
+  "last_seen": "2018-07-24T07:52:02.516Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "9eaeefb4bae8b5bcc7a0179d5d85c57d82300b2f",
+  "value": "ns2.reliabledns.org"
+}
+{
+  "date": "2016-12-02T01:26:58.000Z",
+  "last_seen": "2018-07-24T07:52:02.516Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "2ef8631daa5b1a38c41b23b8a594d836f67af477",
+  "value": "ns1.reliabledns.org"
+}
+{
+  "date": "2017-05-26T19:15:44.000Z",
+  "last_seen": "2018-02-10T01:01:55.000Z",
+  "qtype": "6",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "soa_email",
+  "_key": "54d7b940122a6ca1edd829f0dc41442995325fba",
+  "value": "alerts@stablehost.com"
+}
+{
+  "date": "2016-02-14T10:54:52.000Z",
+  "last_seen": "2018-02-10T01:01:55.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "198.20.116.197",
+  "type": "ip",
+  "_key": "9caf0b7e059fcafc413b635bc28408ab927d82cc",
+  "value": "198.20.116.197"
+}
+{
+  "date": "2017-05-26T19:15:44.000Z",
+  "last_seen": "2018-02-10T01:01:55.000Z",
+  "qtype": "6",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "soa_server",
+  "_key": "246b7ee92e6a8d955a609b903a2c816f08f80fad",
+  "value": "ns1.reliabledns.org"
+}
+{
+  "date": "2016-02-22T04:53:11.000Z",
+  "last_seen": "2018-02-08T21:25:56.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "198.20.116.197",
+  "type": "ip",
+  "_key": "cdb52dc21f71906fbc77e2eaf986d293ba99905f",
+  "value": "198.20.116.197"
+}
+{
+  "date": "2014-11-19T01:28:41.000Z",
+  "last_seen": "2018-02-08T21:25:56.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "name",
+  "_key": "ee41286ee70c492780283b9af2af47d5afac8613",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2014-11-19T01:28:41.000Z",
+  "last_seen": "2018-02-08T21:25:56.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "cname",
+  "_key": "224f7309cd984ac4088d3bbb94b1fae54e552e30",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2016-09-11T22:58:20.000Z",
+  "last_seen": "2018-02-02T04:43:38.000Z",
+  "qtype": "28",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "cname",
+  "_key": "1860a1ff8085d8928b6e427d11ee4067071b8adf",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2017-03-31T05:36:20.000Z",
+  "last_seen": "2017-11-25T17:05:14.000Z",
+  "qtype": "255",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "soa_email",
+  "_key": "5d5edb517fec70fc581b930392650a2d4b19282d",
+  "value": "alerts@stablehost.com"
+}
+{
+  "date": "2017-03-31T05:36:20.000Z",
+  "last_seen": "2017-11-25T17:05:14.000Z",
+  "qtype": "255",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "soa_server",
+  "_key": "b9810500688aaccd3f9e1d030f87407b04f1be59",
+  "value": "ns1.reliabledns.org"
+}
+{
+  "date": "2017-03-31T05:36:20.000Z",
+  "last_seen": "2017-11-25T17:05:14.000Z",
+  "qtype": "255",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "990cf0d6d9b936367c6c8f748d6776dfcdf0d8d5",
+  "value": "ns2.reliabledns.org"
+}
+{
+  "date": "2017-03-31T05:36:20.000Z",
+  "last_seen": "2017-11-25T17:05:14.000Z",
+  "qtype": "255",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "198.20.116.197",
+  "type": "ip",
+  "_key": "190e101ad220048217ce27ad0b3b358119118822",
+  "value": "198.20.116.197"
+}
+{
+  "date": "2017-11-07T06:05:42.000Z",
+  "last_seen": "2017-11-07T06:05:42.000Z",
+  "qtype": "28",
+  "domain": "solartrackingsystem.net",
+  "qname": "mail.solartrackingsystem.net",
+  "type": "cname",
+  "_key": "7cd987797b1d5f10a5d08bec6f0755f3f2dcbbcb",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2017-03-31T05:36:20.000Z",
+  "last_seen": "2017-03-31T05:36:28.000Z",
+  "qtype": "255",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "f01339b3c47d20af8253c4d00b4f5fbe5247db40",
+  "value": "ns1.reliabledns.org"
+}
+{
+  "date": "2017-01-11T20:23:08.000Z",
+  "last_seen": "2017-01-11T20:23:08.000Z",
+  "qtype": "15",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "cname",
+  "_key": "f4d07ca5be393c3a70504e75e9f3a181cd885f30",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2017-01-11T20:23:08.000Z",
+  "last_seen": "2017-01-11T20:23:08.000Z",
+  "qtype": "15",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "name",
+  "_key": "d20f70a5405abe87c42da534390e17e5272b06d9",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2017-01-11T20:23:08.000Z",
+  "last_seen": "2017-01-11T20:23:08.000Z",
+  "qtype": "15",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "mx",
+  "_key": "bf2cf11c3b59b8cd9cda6d2e1f95ce71f525a6d3",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2016-12-02T04:29:16.000Z",
+  "last_seen": "2016-12-02T04:29:16.000Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "cname",
+  "_key": "6095871ccad8256a837474008341bcfac7c95cf7",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2016-12-02T04:29:16.000Z",
+  "last_seen": "2016-12-02T04:29:16.000Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "name",
+  "_key": "1bb8832d0ceb35aa01aa2b1c3c4e5699fbdd121c",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2016-12-02T04:29:16.000Z",
+  "last_seen": "2016-12-02T04:29:16.000Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "ns",
+  "_key": "2190248b91280511a0fd1d9755dc82b0c68e5d8d",
+  "value": "ns1.reliabledns.org"
+}
+{
+  "date": "2016-12-02T04:29:16.000Z",
+  "last_seen": "2016-12-02T04:29:16.000Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "type": "ns",
+  "_key": "698b9e4bdf8fdf914f6498f3b18163f238198589",
+  "value": "ns2.reliabledns.org"
+}
+{
+  "date": "2016-03-23T02:07:55.000Z",
+  "last_seen": "2016-11-13T09:59:44.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "ftp.solartrackingsystem.net",
+  "type": "name",
+  "_key": "b1c69b7f47fa94d7f48b9e48973c9d5ce095ed3a",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2016-03-23T02:07:55.000Z",
+  "last_seen": "2016-11-13T09:59:44.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "ftp.solartrackingsystem.net",
+  "type": "cname",
+  "_key": "3d2c66108816ab600667aa57f081086b78da771b",
+  "value": "solartrackingsystem.net"
+}
+{
+  "date": "2016-03-23T02:07:55.000Z",
+  "last_seen": "2016-11-13T09:59:44.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "ftp.solartrackingsystem.net",
+  "value_ip": "198.20.116.197",
+  "type": "ip",
+  "_key": "fabb9cf97013867631fc0b77143ed8d96d0c3dff",
+  "value": "198.20.116.197"
+}
+{
+  "date": "2015-03-05T02:51:00.000Z",
+  "last_seen": "2016-02-11T10:55:39.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "198.252.99.239",
+  "type": "ip",
+  "_key": "aa748fb2f1a6712d7dd70872a769f67f25608711",
+  "value": "198.252.99.239"
+}
+{
+  "date": "2015-03-05T02:50:29.000Z",
+  "last_seen": "2016-02-07T06:13:36.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "198.252.99.239",
+  "type": "ip",
+  "_key": "0604f1df8485226824d128cb49ab0ff4b2c13d9a",
+  "value": "198.252.99.239"
+}
+{
+  "date": "2015-10-12T04:14:24.000Z",
+  "last_seen": "2016-01-04T19:09:53.000Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "b7a7a7d7ffd2a2971c299b5c49747e7d11598e5e",
+  "value": "ns2.arandomserver.com"
+}
+{
+  "date": "2015-10-12T04:14:24.000Z",
+  "last_seen": "2016-01-04T19:09:53.000Z",
+  "qtype": "2",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "type": "ns",
+  "_key": "41fc2b8659d5f314c33261c56dcf2aef7f0ae610",
+  "value": "ns1.arandomserver.com"
+}
+{
+  "date": "2015-01-04T19:52:02.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "198.252.109.105",
+  "type": "ip",
+  "_key": "78bf2f573935e25272d8c9534fe91b9c693c1f9a",
+  "value": "198.252.109.105"
+}
+{
+  "date": "2015-01-08T15:31:14.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "198.252.109.105",
+  "type": "ip",
+  "_key": "88fa37c34b97ba2eed139263dcf7cfac3fd21641",
+  "value": "198.252.109.105"
+}
+{
+  "date": "2014-09-29T18:31:38.000Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "www.solartrackingsystem.net",
+  "value_ip": "72.29.127.69",
+  "type": "ip",
+  "_key": "db5301e5a961b785a873e8c7699ae27a2d9ee70f",
+  "value": "72.29.127.69"
+}
+{
+  "date": "2014-08-19T10:11:35Z",
+  "qtype": "1",
+  "domain": "solartrackingsystem.net",
+  "qname": "solartrackingsystem.net",
+  "value_ip": "72.29.127.69",
+  "type": "ip",
+  "_key": "0fd881c28787cbc47e9f02dcd809d45c24ea6003",
+  "value": "72.29.127.69"
+}

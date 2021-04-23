@@ -1,0 +1,672 @@
+{
+  "date": "2020-08-05T15:40:07.224Z",
+  "last_seen": "2020-12-15T01:25:02.438Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "66.172.27.175",
+  "type": "ip",
+  "_key": "4336e8c5e8d0c0b6498f0134d3fd2c99c753b0d7",
+  "value": "66.172.27.175"
+}
+{
+  "date": "2020-08-05T15:35:43.907Z",
+  "last_seen": "2020-12-14T22:56:25.309Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "value_ip": "66.172.27.175",
+  "type": "ip",
+  "_key": "a27e58e523128bab56f7bcfce696d2a9a4c29de4",
+  "value": "66.172.27.175"
+}
+{
+  "date": "2020-07-12T12:55:53.641Z",
+  "last_seen": "2020-12-12T04:08:01.217Z",
+  "qtype": "6",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "soa_email",
+  "_key": "4b5793f482fca170d899e06e6b0801580ecb68c8",
+  "value": "support@epik.com"
+}
+{
+  "date": "2020-07-12T12:55:53.641Z",
+  "last_seen": "2020-12-12T04:08:01.217Z",
+  "qtype": "6",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "soa_server",
+  "_key": "ce1b959afe46957f363c147588d188c808c64713",
+  "value": "ns3.epik.com"
+}
+{
+  "date": "2020-08-06T16:27:42.712Z",
+  "last_seen": "2020-11-23T20:00:00.014Z",
+  "qtype": "16",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "txt_base64",
+  "_key": "0adc756b8e8c121c96bb9ceca97938e683fad018",
+  "value": "InY9c3BmMSBhIG14IG14OnJlZGlyLmVwaWsuY29tIH5hbGw="
+}
+{
+  "date": "2020-08-06T16:27:42.712Z",
+  "last_seen": "2020-11-23T20:00:00.014Z",
+  "qtype": "16",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "txt",
+  "_key": "0695c632580fc6d79d190e4a690b6d6277cd256c",
+  "value": "\"v=spf1 a mx mx:redir.epik.com ~all"
+}
+{
+  "date": "2020-08-21T14:25:25.423Z",
+  "last_seen": "2020-11-23T03:14:06.203Z",
+  "qtype": "255",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "66.172.27.175",
+  "type": "ip",
+  "_key": "b94f8c479147240f18d740d156096b0fbbecf6ba",
+  "value": "66.172.27.175"
+}
+{
+  "date": "2020-08-21T14:25:25.423Z",
+  "last_seen": "2020-11-23T03:14:06.203Z",
+  "qtype": "255",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "soa_email",
+  "_key": "35d6dd9912d6d66b18ba09f7ae815838ef32bf12",
+  "value": "support@epik.com"
+}
+{
+  "date": "2020-08-21T14:25:25.423Z",
+  "last_seen": "2020-11-23T03:14:06.203Z",
+  "qtype": "255",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "ec13fc6ad158f9bf248870ca8931ab841834eb9b",
+  "value": "ns4.epik.com"
+}
+{
+  "date": "2020-08-21T14:25:25.423Z",
+  "last_seen": "2020-11-23T03:14:06.203Z",
+  "qtype": "255",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "soa_server",
+  "_key": "febbf3f888ea4210376cbda40257559438212499",
+  "value": "ns3.epik.com"
+}
+{
+  "date": "2020-08-21T14:25:25.423Z",
+  "last_seen": "2020-11-23T03:14:06.203Z",
+  "qtype": "255",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "73913fe5785ba9c2030053ec69aece856d80ccb4",
+  "value": "ns3.epik.com"
+}
+{
+  "date": "2020-08-21T14:25:25.423Z",
+  "last_seen": "2020-11-23T03:14:06.203Z",
+  "qtype": "255",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "mx",
+  "_key": "6a5f9dea383ca5de495d51f19b693045559be22a",
+  "value": "redir.epik.com"
+}
+{
+  "date": "2020-08-21T14:25:25.423Z",
+  "last_seen": "2020-11-23T03:14:06.203Z",
+  "qtype": "255",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "txt_base64",
+  "_key": "3811357c3dd4658345858ae6c61547502294995c",
+  "value": "InY9c3BmMSBhIG14IG14OnJlZGlyLmVwaWsuY29tIH5hbGw="
+}
+{
+  "date": "2020-08-21T14:25:25.423Z",
+  "last_seen": "2020-11-23T03:14:06.203Z",
+  "qtype": "255",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "txt",
+  "_key": "9ffc05d391c711a382a0b7295ea0872ee1062912",
+  "value": "\"v=spf1 a mx mx:redir.epik.com ~all"
+}
+{
+  "date": "2020-08-04T21:30:04.286Z",
+  "last_seen": "2020-11-14T11:52:40.497Z",
+  "qtype": "15",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "mx",
+  "_key": "549114550bc210591f89dc93ac15951418e9f6ff",
+  "value": "redir.epik.com"
+}
+{
+  "date": "2020-11-14T11:52:12.046Z",
+  "last_seen": "2020-11-14T11:52:12.046Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "543867819-2072102191.virtualdataserver.com",
+  "value_ip": "66.172.27.175",
+  "type": "ip",
+  "_key": "ddff8958905e8f6cd73b3ed27c06f9e7fb4792ea",
+  "value": "66.172.27.175"
+}
+{
+  "date": "2020-11-14T11:52:10.133Z",
+  "last_seen": "2020-11-14T11:52:10.133Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "1844292738-240870434.virtualdataserver.com",
+  "value_ip": "66.172.27.175",
+  "type": "ip",
+  "_key": "e2ba34e05189ddfddd9fc4b03c005dca50848189",
+  "value": "66.172.27.175"
+}
+{
+  "date": "2020-06-19T14:55:02.494Z",
+  "last_seen": "2020-11-14T11:51:59.487Z",
+  "qtype": "2",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "235ebf5cc8f06baa64615f2b81291f88ba2851dd",
+  "value": "ns4.epik.com"
+}
+{
+  "date": "2020-06-19T14:55:02.494Z",
+  "last_seen": "2020-11-14T11:51:59.487Z",
+  "qtype": "2",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "ed25b3f55257d8da1f68843ebdb672f93227d065",
+  "value": "ns3.epik.com"
+}
+{
+  "date": "2020-11-14T11:42:45.995Z",
+  "last_seen": "2020-11-14T11:42:45.995Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "625563359-1128151176.virtualdataserver.com",
+  "value_ip": "66.172.27.175",
+  "type": "ip",
+  "_key": "7556d63ec1f9bb37d3ca2616a68a976de57903f0",
+  "value": "66.172.27.175"
+}
+{
+  "date": "2020-08-17T20:43:23.032Z",
+  "last_seen": "2020-10-31T08:08:18.962Z",
+  "qtype": "255",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "value_ip": "66.172.27.175",
+  "type": "ip",
+  "_key": "c54c8e01e11298c86d23ed3f4aaae285515b2371",
+  "value": "66.172.27.175"
+}
+{
+  "date": "2020-10-12T09:14:38.038Z",
+  "last_seen": "2020-10-12T09:14:38.038Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "mail.virtualdataserver.com",
+  "value_ip": "66.172.27.175",
+  "type": "ip",
+  "_key": "189086afb78e106a2d181dcd77153d5f0a7583b6",
+  "value": "66.172.27.175"
+}
+{
+  "date": "2020-08-10T18:05:58.434Z",
+  "last_seen": "2020-08-10T18:05:58.434Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "m.virtualdataserver.com",
+  "value_ip": "66.172.27.175",
+  "type": "ip",
+  "_key": "40515d37fbe0e79edd151959c16985e316b6e893",
+  "value": "66.172.27.175"
+}
+{
+  "date": "2020-08-10T16:13:26.858Z",
+  "last_seen": "2020-08-10T16:20:27.293Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "test.virtualdataserver.com",
+  "value_ip": "66.172.27.175",
+  "type": "ip",
+  "_key": "9f490d26d4839ad992b8a665d8fedbf8be6e3e43",
+  "value": "66.172.27.175"
+}
+{
+  "date": "2020-06-19T16:56:48.873Z",
+  "last_seen": "2020-08-01T06:45:56.856Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "45.88.202.115",
+  "type": "ip",
+  "_key": "c433f1315b7d3091d6ed76f66399b6b42986afef",
+  "value": "45.88.202.115"
+}
+{
+  "date": "2020-06-21T13:15:26.726Z",
+  "last_seen": "2020-07-27T23:52:05.954Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "value_ip": "45.88.202.115",
+  "type": "ip",
+  "_key": "e6ae8edc55da6cc87b10f2adefc8de2c6be80917",
+  "value": "45.88.202.115"
+}
+{
+  "date": "2020-07-12T12:55:57.624Z",
+  "last_seen": "2020-07-27T13:29:29.782Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "123-nonexistant-dnsjedi-456.virtualdataserver.com",
+  "value_ip": "88.214.207.96",
+  "type": "ip",
+  "_key": "88a5300875c388ff5b6a60b2ff438e6bce136b11",
+  "value": "88.214.207.96"
+}
+{
+  "date": "2020-07-22T09:43:44.375Z",
+  "last_seen": "2020-07-22T09:43:44.375Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "91.195.241.136",
+  "type": "ip",
+  "_key": "6b02399fe67d037ebe77cc00b503f42c62eabb2a",
+  "value": "91.195.241.136"
+}
+{
+  "date": "2020-07-12T22:30:14.018Z",
+  "last_seen": "2020-07-12T22:30:14.018Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "mail.virtualdataserver.com",
+  "value_ip": "88.214.207.96",
+  "type": "ip",
+  "_key": "610c61251089a7d07d5b653dcc2bfbbd4b28dc96",
+  "value": "88.214.207.96"
+}
+{
+  "date": "2020-07-07T04:21:16.139Z",
+  "last_seen": "2020-07-07T04:21:16.139Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "198.54.115.106",
+  "type": "ip",
+  "_key": "cb362d276a19dfc547333179f8947ef2e0892af1",
+  "value": "198.54.115.106"
+}
+{
+  "date": "2020-05-31T13:55:13.813Z",
+  "last_seen": "2020-06-03T11:32:46.193Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "91.195.240.12",
+  "type": "ip",
+  "_key": "c029276d42121e246f83359cae0c6fdec71402f2",
+  "value": "91.195.240.12"
+}
+{
+  "date": "2020-06-02T13:25:07.734Z",
+  "last_seen": "2020-06-02T13:25:07.734Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "test.virtualdataserver.com",
+  "value_ip": "91.195.240.12",
+  "type": "ip",
+  "_key": "08346c1e145b62cf1bc00b7f5584e061d48e8de4",
+  "value": "91.195.240.12"
+}
+{
+  "date": "2019-06-09T02:43:28.139Z",
+  "last_seen": "2020-06-01T13:30:40.536Z",
+  "qtype": "2",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "23e67588db430c1748a2a6cc43eac016e78513bd",
+  "value": "ns2.dnsowl.com"
+}
+{
+  "date": "2019-06-09T02:43:28.139Z",
+  "last_seen": "2020-06-01T13:30:40.536Z",
+  "qtype": "2",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "82d79e2b44cd2a3d91321d0af37ae29aaf6d253b",
+  "value": "ns3.dnsowl.com"
+}
+{
+  "date": "2019-06-09T02:43:28.139Z",
+  "last_seen": "2020-06-01T13:30:40.536Z",
+  "qtype": "2",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "e230e9f06e1247c008b9868b740ef1239d4a399a",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-05-30T13:51:59.318Z",
+  "last_seen": "2020-05-31T13:55:15.734Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "value_ip": "91.195.240.12",
+  "type": "ip",
+  "_key": "e623d46992d5eb6fdf718059fdadacbc47aa091d",
+  "value": "91.195.240.12"
+}
+{
+  "date": "2019-06-01T11:12:43.695Z",
+  "last_seen": "2020-05-27T23:10:53.390Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "91.195.240.126",
+  "type": "ip",
+  "_key": "48ba22583ebb9bfa930e04915b587b40af3047a6",
+  "value": "91.195.240.126"
+}
+{
+  "date": "2020-05-20T18:35:41.845Z",
+  "last_seen": "2020-05-20T18:35:41.845Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "smtp.virtualdataserver.com",
+  "value_ip": "91.195.240.126",
+  "type": "ip",
+  "_key": "aac11948144f9378e5338e474b236d9754c23273",
+  "value": "91.195.240.126"
+}
+{
+  "date": "2019-08-17T20:20:38.031Z",
+  "last_seen": "2020-05-17T05:07:37.348Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "value_ip": "91.195.240.126",
+  "type": "ip",
+  "_key": "c4d1bcb4123ef86ce969ea791e564caf94807915",
+  "value": "91.195.240.126"
+}
+{
+  "date": "2019-10-20T13:39:24.302Z",
+  "last_seen": "2020-04-14T14:00:46.936Z",
+  "qtype": "28",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "aaaa",
+  "_key": "be98cee0aab2ab3d6a1a42d09ce4b75c24d51b43",
+  "value": "2a05:d014:9da:8c10:306e:3e07:a16f:a552"
+}
+{
+  "date": "2019-10-12T14:40:48.975Z",
+  "last_seen": "2020-04-13T16:10:58.108Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "value_ip": "52.58.78.16",
+  "type": "ip",
+  "_key": "1e78b0afaa98bde914db0be9ecc620473752df79",
+  "value": "52.58.78.16"
+}
+{
+  "date": "2019-10-11T12:33:15.187Z",
+  "last_seen": "2020-04-10T11:36:35.644Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "52.58.78.16",
+  "type": "ip",
+  "_key": "df8f8726751347098a9e83f455d4228e3c9e627f",
+  "value": "52.58.78.16"
+}
+{
+  "date": "2019-11-25T02:38:00.006Z",
+  "last_seen": "2020-03-22T07:38:19.186Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "199.59.242.153",
+  "type": "ip",
+  "_key": "2ebbfc2d2dfe4c59b4f3d396e7f6ef3c6fddd762",
+  "value": "199.59.242.153"
+}
+{
+  "date": "2019-11-24T12:53:35.369Z",
+  "last_seen": "2020-03-03T11:43:24.546Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "value_ip": "199.59.242.153",
+  "type": "ip",
+  "_key": "18fa75b4c8d730334b3d4df475cfd4f54c048d14",
+  "value": "199.59.242.153"
+}
+{
+  "date": "2020-02-18T07:47:01.946Z",
+  "last_seen": "2020-02-18T07:47:01.946Z",
+  "qtype": "15",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "mx",
+  "_key": "2bb836cd5f643d6b3d75bdb8ed474032179ddbeb",
+  "value": "mx76.m2bp.com"
+}
+{
+  "date": "2020-02-18T07:47:01.946Z",
+  "last_seen": "2020-02-18T07:47:01.946Z",
+  "qtype": "15",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "mx",
+  "_key": "95968ff1063632018017bd00c78bb3776862e479",
+  "value": "mx76.mb1p.com"
+}
+{
+  "date": "2019-10-17T20:23:48.295Z",
+  "last_seen": "2019-11-14T22:43:53.544Z",
+  "qtype": "2",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "9fe79315212c40c127f6ee441a1861e484b81d45",
+  "value": "ns1.dan.com"
+}
+{
+  "date": "2019-10-17T20:23:25.156Z",
+  "last_seen": "2019-11-14T22:43:53.544Z",
+  "qtype": "2",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "ffa9e5357e72b10fc4b89766bb6cea9867f41033",
+  "value": "ns2.dan.com"
+}
+{
+  "date": "2019-10-12T16:19:00.665Z",
+  "last_seen": "2019-11-04T17:18:54.142Z",
+  "qtype": "28",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "type": "aaaa",
+  "_key": "97e4752d1c982f773ffb39421f1564d9ee980dac",
+  "value": "2a05:d014:9da:8c10:306e:3e07:a16f:a552"
+}
+{
+  "date": "2019-06-07T12:42:53.583Z",
+  "last_seen": "2019-10-11T05:49:54.308Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "107.161.23.204",
+  "type": "ip",
+  "_key": "3e1eecc0bb99e08608c08a635f0faefefad1fb85",
+  "value": "107.161.23.204"
+}
+{
+  "date": "2019-06-07T12:42:53.583Z",
+  "last_seen": "2019-10-11T05:49:54.308Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "192.161.187.200",
+  "type": "ip",
+  "_key": "488b3ff1adbaa4fc2f1e9d86200e06ddc7a5af77",
+  "value": "192.161.187.200"
+}
+{
+  "date": "2019-06-07T12:42:53.583Z",
+  "last_seen": "2019-10-11T05:49:54.308Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "209.141.38.71",
+  "type": "ip",
+  "_key": "aad762efa99ad6edf4cd78c3f1c3dc2be34a4344",
+  "value": "209.141.38.71"
+}
+{
+  "date": "2019-06-08T11:22:19.214Z",
+  "last_seen": "2019-10-10T12:25:32.818Z",
+  "qtype": "6",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "soa_server",
+  "_key": "a3d6bb33cea6905f15ea7a621c522569db9e3663",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2019-06-08T11:41:58.017Z",
+  "last_seen": "2019-10-10T12:25:32.818Z",
+  "qtype": "6",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "soa_email",
+  "_key": "ac6e95cdf5a03672d362b0e75f2f2efa8c3d814f",
+  "value": "hostmaster@dnsowl.com"
+}
+{
+  "date": "2019-06-09T01:58:06.889Z",
+  "last_seen": "2019-10-09T15:13:05.545Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "type": "cname",
+  "_key": "80f02639c476b833951781ea0229ff98a4db0862",
+  "value": "parking.namesilo.com"
+}
+{
+  "date": "2019-06-12T11:07:52.820Z",
+  "last_seen": "2019-10-05T23:49:52.437Z",
+  "qtype": "28",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "type": "cname",
+  "_key": "edb5ef15fc744c05077f21127c9a4d748b98cb7b",
+  "value": "parking.namesilo.com"
+}
+{
+  "date": "2019-06-21T06:21:30.256Z",
+  "last_seen": "2019-09-24T13:34:34.632Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "value_ip": "198.54.120.203",
+  "type": "ip",
+  "_key": "08b975bbf9bac8739afb67e4b80bb6cf7aaf1af1",
+  "value": "198.54.120.203"
+}
+{
+  "date": "2019-09-21T14:43:24.132Z",
+  "last_seen": "2019-09-21T14:43:24.132Z",
+  "qtype": "15",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "mx",
+  "_key": "0ef2167271a4db5f9374c39d4b2120201cc515d7",
+  "value": "mail.virtualdataserver.com"
+}
+{
+  "date": "2019-07-22T11:32:42.542Z",
+  "last_seen": "2019-07-27T12:50:22.396Z",
+  "qtype": "2",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "ac81a51825ddcabc7ef3c21dae7a206d3487a5c9",
+  "value": "dns2.namecheaphosting.com"
+}
+{
+  "date": "2019-07-22T11:32:42.542Z",
+  "last_seen": "2019-07-27T12:50:22.396Z",
+  "qtype": "2",
+  "domain": "virtualdataserver.com",
+  "qname": "virtualdataserver.com",
+  "type": "ns",
+  "_key": "445fd77e11c4a2abc0ae5a25bf84a6507842a5c0",
+  "value": "dns1.namecheaphosting.com"
+}
+{
+  "date": "2019-06-29T16:27:31.624Z",
+  "last_seen": "2019-06-29T16:27:31.624Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "mail.virtualdataserver.com",
+  "value_ip": "198.54.120.203",
+  "type": "ip",
+  "_key": "aaa86014bcf267a7b527b2ce8b2421b2dd98a359",
+  "value": "198.54.120.203"
+}
+{
+  "date": "2019-06-26T07:09:44.851Z",
+  "last_seen": "2019-06-26T07:09:44.851Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "type": "cname",
+  "_key": "84603c8154e534e4e659ae291513f4a64a5625a7",
+  "value": "virtualdataserver.com"
+}
+{
+  "date": "2019-06-26T07:09:44.851Z",
+  "last_seen": "2019-06-26T07:09:44.851Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "type": "name",
+  "_key": "a4f16571e11ba228771fd27933ab8e7c475997b5",
+  "value": "virtualdataserver.com"
+}
+{
+  "date": "2019-06-26T07:09:44.851Z",
+  "last_seen": "2019-06-26T07:09:44.851Z",
+  "qtype": "1",
+  "domain": "virtualdataserver.com",
+  "qname": "www.virtualdataserver.com",
+  "value_ip": "198.54.120.203",
+  "type": "ip",
+  "_key": "7244984faf15434e10d135e719138a2274d4729d",
+  "value": "198.54.120.203"
+}

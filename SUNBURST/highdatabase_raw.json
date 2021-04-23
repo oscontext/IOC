@@ -1,0 +1,498 @@
+{
+  "date": "2019-12-30T11:37:02.279Z",
+  "last_seen": "2020-12-14T22:01:10.472Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "2ebd60c9d99be8f57dc3eb5fef30b599d08519a6",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2019-12-27T14:57:48.497Z",
+  "last_seen": "2020-12-14T15:54:16.711Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "www.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "683572913c433a1d74979d35c141d40979a5eb24",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-03-17T06:40:42.985Z",
+  "last_seen": "2020-12-07T03:57:47.228Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "mx.www.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "84ae353aba04b035472e031894df5fa626fe54af",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2019-12-28T10:37:28.059Z",
+  "last_seen": "2020-12-05T08:34:33.020Z",
+  "qtype": "6",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "soa_server",
+  "_key": "4fe0fbdb61735733b8d67a99d65828998c473cfd",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2019-12-28T10:37:28.059Z",
+  "last_seen": "2020-12-05T08:34:33.020Z",
+  "qtype": "6",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "soa_email",
+  "_key": "f40287390052ebe0e4d0eaffd516be974682bb58",
+  "value": "hostmaster@dnsowl.com"
+}
+{
+  "date": "2019-12-29T04:59:43.863Z",
+  "last_seen": "2020-10-17T16:10:57.850Z",
+  "qtype": "15",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "mx",
+  "_key": "253db87b4599470cefc3c142c5669bd0423583f5",
+  "value": "mx1.emailowl.com"
+}
+{
+  "date": "2019-12-29T04:59:43.863Z",
+  "last_seen": "2020-10-17T16:10:57.850Z",
+  "qtype": "15",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "mx",
+  "_key": "4e07182288f003b049ccfd8449a018019a6c7715",
+  "value": "mx3.emailowl.com"
+}
+{
+  "date": "2019-12-29T04:59:43.863Z",
+  "last_seen": "2020-10-17T16:10:57.850Z",
+  "qtype": "15",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "mx",
+  "_key": "90847356960dd641bbc1fcd196dd2c3d76e3d195",
+  "value": "mx2.emailowl.com"
+}
+{
+  "date": "2019-12-27T18:03:36.385Z",
+  "last_seen": "2020-10-15T05:06:53.413Z",
+  "qtype": "2",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "ns",
+  "_key": "28f93426eb14cf993c430a6a7d15ad9cae7b27a4",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2019-12-27T18:03:36.385Z",
+  "last_seen": "2020-10-15T05:06:53.413Z",
+  "qtype": "2",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "ns",
+  "_key": "389aaf285681353395ec762f6c3fd8eb5de372a9",
+  "value": "ns3.dnsowl.com"
+}
+{
+  "date": "2019-12-27T18:03:36.385Z",
+  "last_seen": "2020-10-15T05:06:53.413Z",
+  "qtype": "2",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "ns",
+  "_key": "a2ff38d468635836fec701556d3f116ef9416b39",
+  "value": "ns2.dnsowl.com"
+}
+{
+  "date": "2020-02-07T09:33:27.705Z",
+  "last_seen": "2020-10-13T00:53:28.642Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "mx.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "6db618fed063d60f2b3f6a75d06d62100785c222",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-09-23T08:36:38.034Z",
+  "last_seen": "2020-09-23T08:36:38.034Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "www.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "8fd4feb5d4ee0ec8237e393c1fbe430cae398fc6",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-09-16T22:35:55.438Z",
+  "last_seen": "2020-09-16T22:35:55.438Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "mx.www.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "1a3fef83456bf5267938511c8a46fcdf1270a97c",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-08-25T03:38:49.436Z",
+  "last_seen": "2020-08-27T13:00:56.877Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "mx.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "04345df493dd281cb11137dbdb4e80601e74fc9a",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-06-22T21:42:18.200Z",
+  "last_seen": "2020-06-22T21:42:18.200Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "mail.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "e8a3d8616adf2b32954090eaa23af8242eccdbd1",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-06-08T23:26:37.616Z",
+  "last_seen": "2020-06-08T23:26:37.616Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "posta.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "146bf0dfb8b3be28ca2e57d2d584e1a5adb9679d",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-06-06T14:34:47.192Z",
+  "last_seen": "2020-06-06T14:34:47.197Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "smtp.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "302c7406c9a43ebb90631f574d036b0ee8256a86",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-05-19T16:23:05.143Z",
+  "last_seen": "2020-05-19T16:23:05.143Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "wordpress.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "7888f72fadfbdd3ff330b823367e31364e8beb31",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-05-05T10:55:52.137Z",
+  "last_seen": "2020-05-05T10:55:52.137Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "blog.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "e84dbe038aad026937f9227d359a43f60b608b5b",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-01-23T08:11:16.236Z",
+  "last_seen": "2020-02-21T01:55:18.517Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "soa_email",
+  "_key": "07d973d7602c595ab8df52674a58a0ac757db67f",
+  "value": "hostmaster@dnsowl.com"
+}
+{
+  "date": "2020-01-23T08:11:16.236Z",
+  "last_seen": "2020-02-21T01:55:18.517Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "soa_server",
+  "_key": "4267af978c2442b0ae4c4ad4d02338a3f8092d13",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-01-23T08:11:16.236Z",
+  "last_seen": "2020-02-21T01:55:18.517Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "ns",
+  "_key": "ad5ed9ecc46589da42c20eadc4ec04ef1b9484a9",
+  "value": "ns3.dnsowl.com"
+}
+{
+  "date": "2020-01-23T08:11:16.236Z",
+  "last_seen": "2020-02-21T01:55:18.517Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "ns",
+  "_key": "1e800fc32cf0d037be259fe3acd9d0a5768c6e0d",
+  "value": "ns1.dnsowl.com"
+}
+{
+  "date": "2020-01-23T08:11:16.236Z",
+  "last_seen": "2020-02-21T01:55:18.517Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "ns",
+  "_key": "ab9a575974f36c5bcbd70d349068281a496579c1",
+  "value": "ns2.dnsowl.com"
+}
+{
+  "date": "2020-01-23T08:11:16.236Z",
+  "last_seen": "2020-02-21T01:55:18.517Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "mx",
+  "_key": "9c9c0992d96951b98d5a15929001840e2cbd0214",
+  "value": "mx3.emailowl.com"
+}
+{
+  "date": "2020-01-23T08:11:16.236Z",
+  "last_seen": "2020-02-21T01:55:18.517Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "f7ad65320505afe1b2fa749c743ecc934f0df096",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2020-01-23T08:11:16.236Z",
+  "last_seen": "2020-02-21T01:55:18.517Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "mx",
+  "_key": "00f14620023c6b3b7d17a7a405c1fa18224cc6d5",
+  "value": "mx2.emailowl.com"
+}
+{
+  "date": "2020-01-23T08:11:16.236Z",
+  "last_seen": "2020-02-21T01:55:18.517Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "mx",
+  "_key": "73e4290ad45b1396fb62d63b9a0a326d828847aa",
+  "value": "mx1.emailowl.com"
+}
+{
+  "date": "2020-01-01T19:34:42.199Z",
+  "last_seen": "2020-01-01T19:34:42.199Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "sip.highdatabase.com",
+  "value_ip": "139.99.115.204",
+  "type": "ip",
+  "_key": "303d3668b882016b3a31ab9c48417b4ea629d16f",
+  "value": "139.99.115.204"
+}
+{
+  "date": "2019-03-09T14:07:33.671Z",
+  "last_seen": "2019-12-26T13:07:54.000Z",
+  "qtype": "28",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "aaaa",
+  "_key": "60815ab8ae70a559355c3fc23e2ce2f4d3d86882",
+  "value": "2a05:d014:9da:8c10:306e:3e07:a16f:a552"
+}
+{
+  "date": "2019-03-07T14:16:42.529Z",
+  "last_seen": "2019-12-25T17:23:11.495Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "value_ip": "52.58.78.16",
+  "type": "ip",
+  "_key": "7d4a5a6fc7db9f6952685dec65e07001f2fd8521",
+  "value": "52.58.78.16"
+}
+{
+  "date": "2019-08-24T10:50:48.793Z",
+  "last_seen": "2019-12-20T02:23:36.343Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "www.highdatabase.com",
+  "value_ip": "52.58.78.16",
+  "type": "ip",
+  "_key": "37c7ecb7e306151aef6be1f940a02eb6c1d96ce4",
+  "value": "52.58.78.16"
+}
+{
+  "date": "2019-09-25T11:00:08.976Z",
+  "last_seen": "2019-12-14T13:52:35.924Z",
+  "qtype": "2",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "ns",
+  "_key": "099813cb00f3bb98b1a2d91d53b54628b848f2c2",
+  "value": "ns1.undeveloped.com"
+}
+{
+  "date": "2019-09-25T11:00:08.976Z",
+  "last_seen": "2019-12-14T13:52:35.924Z",
+  "qtype": "2",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "ns",
+  "_key": "a2b546eb094e32d35e7439cdc0daece40a3ead66",
+  "value": "ns2.undeveloped.com"
+}
+{
+  "date": "2019-07-09T20:38:01.704Z",
+  "last_seen": "2019-09-22T07:02:39.431Z",
+  "qtype": "16",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "txt",
+  "_key": "a6560bc1066b1f2a21ec7b633f48c8ba2fb4e109",
+  "value": "\u000bv=spf1 -all"
+}
+{
+  "date": "2019-07-09T20:38:01.704Z",
+  "last_seen": "2019-09-22T07:02:39.431Z",
+  "qtype": "16",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "txt_base64",
+  "_key": "67a8019ae890624354b6bfa2f6b19d35dd00a7a0",
+  "value": "C3Y9c3BmMSAtYWxs"
+}
+{
+  "date": "2019-03-09T06:05:08.070Z",
+  "last_seen": "2019-09-12T01:30:53.132Z",
+  "qtype": "6",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "soa_email",
+  "_key": "f44b4ba3551e0d2e005b7f6a8247872ebd2d0884",
+  "value": "root@undeveloped.com"
+}
+{
+  "date": "2019-03-09T06:05:08.070Z",
+  "last_seen": "2019-09-12T01:30:53.132Z",
+  "qtype": "6",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "soa_server",
+  "_key": "4480c80f67cd54c5c102c947b19662197298ac21",
+  "value": "ns1.undeveloped.com"
+}
+{
+  "date": "2019-08-06T14:34:24.222Z",
+  "last_seen": "2019-08-06T14:34:24.222Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "soa_server",
+  "_key": "535a9de4bee220ef53718ea68d027de0da813d7b",
+  "value": "ns1.undeveloped.com"
+}
+{
+  "date": "2019-08-06T14:34:24.222Z",
+  "last_seen": "2019-08-06T14:34:24.222Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "aaaa",
+  "_key": "1d4a207fa9042f2de8d0cd8fbef2a08ee74d7454",
+  "value": "2a05:d014:9da:8c10:306e:3e07:a16f:a552"
+}
+{
+  "date": "2019-08-06T14:34:24.222Z",
+  "last_seen": "2019-08-06T14:34:24.222Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "soa_email",
+  "_key": "a5d45a0e3dd97a304b2944b3fd569ddefa910760",
+  "value": "root@undeveloped.com"
+}
+{
+  "date": "2019-08-06T14:34:24.222Z",
+  "last_seen": "2019-08-06T14:34:24.222Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "ns",
+  "_key": "0404d3c5972d1fb579dc7c945393bbaeea917b3d",
+  "value": "ns1.undeveloped.com"
+}
+{
+  "date": "2019-08-06T14:34:24.222Z",
+  "last_seen": "2019-08-06T14:34:24.222Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "value_ip": "52.58.78.16",
+  "type": "ip",
+  "_key": "589f4f0944720d071ff4321204a14a2d20fa3c90",
+  "value": "52.58.78.16"
+}
+{
+  "date": "2019-08-06T14:34:24.222Z",
+  "last_seen": "2019-08-06T14:34:24.222Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "ns",
+  "_key": "dda2dca5dc31bbaf48b9aa6bf4e04aed8648c133",
+  "value": "ns2.undeveloped.com"
+}
+{
+  "date": "2019-08-06T14:34:24.222Z",
+  "last_seen": "2019-08-06T14:34:24.222Z",
+  "qtype": "255",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "mx",
+  "_key": "28aa27f51d1200ed23c4bfb19b2e81b2a0772686",
+  "value": "mx.highdatabase.com"
+}
+{
+  "date": "2019-03-08T07:02:39.147Z",
+  "last_seen": "2019-07-09T08:40:35.256Z",
+  "qtype": "15",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "type": "mx",
+  "_key": "b0e1d7949f3644216e1df9422e2ee078840248d5",
+  "value": "mx.highdatabase.com"
+}
+{
+  "date": "2019-03-19T21:07:38.754Z",
+  "last_seen": "2019-03-20T15:15:28.671Z",
+  "qtype": "1",
+  "domain": "highdatabase.com",
+  "qname": "highdatabase.com",
+  "value_ip": "91.195.240.126",
+  "type": "ip",
+  "_key": "90515960d51e3de256f46f169c64f17af601c9a4",
+  "value": "91.195.240.126"
+}

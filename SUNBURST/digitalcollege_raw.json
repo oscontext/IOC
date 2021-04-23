@@ -1,0 +1,1209 @@
+{
+  "date": "2020-03-06T00:30:17.929Z",
+  "last_seen": "2020-12-14T02:45:41.654Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "13.57.184.217",
+  "type": "ip",
+  "_key": "9471dae1933053dbd0ff2851592dc364fd22fd39",
+  "value": "13.57.184.217"
+}
+{
+  "date": "2020-07-19T17:48:57.735Z",
+  "last_seen": "2020-12-14T00:37:09.293Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_server",
+  "_key": "3fc5d437b965bf85483062607da676ea4707e47e",
+  "value": "pdns1.registrar-servers.com"
+}
+{
+  "date": "2020-07-19T17:48:57.735Z",
+  "last_seen": "2020-12-14T00:37:09.293Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_email",
+  "_key": "6fde82ecc3c88ea0dc7ddaaf9a2349bd345b6022",
+  "value": "hostmaster@registrar-servers.com"
+}
+{
+  "date": "2020-03-06T23:43:41.453Z",
+  "last_seen": "2020-12-13T04:43:26.666Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "13.57.184.217",
+  "type": "ip",
+  "_key": "6d67124cc88775af188199dd05377473652e5617",
+  "value": "13.57.184.217"
+}
+{
+  "date": "2020-09-14T09:45:54.119Z",
+  "last_seen": "2020-12-13T02:17:24.030Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "webmail.digitalcollege.org",
+  "value_ip": "13.57.184.217",
+  "type": "ip",
+  "_key": "cf2aa334d3b0d143dc07ef387238a2591e699939",
+  "value": "13.57.184.217"
+}
+{
+  "date": "2020-08-17T09:22:48.255Z",
+  "last_seen": "2020-12-05T00:16:01.316Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "learn.digitalcollege.org",
+  "value_ip": "13.57.184.217",
+  "type": "ip",
+  "_key": "ac1cba820f6e5b18f7c48cd0ed19b6874cc4a667",
+  "value": "13.57.184.217"
+}
+{
+  "date": "2020-09-20T09:11:20.506Z",
+  "last_seen": "2020-12-01T04:06:43.261Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "hostmaster.digitalcollege.org",
+  "value_ip": "13.57.184.217",
+  "type": "ip",
+  "_key": "4aa009ccce1e1029e124aa2aec12f636d9e8c0ab",
+  "value": "13.57.184.217"
+}
+{
+  "date": "2020-09-11T09:38:53.152Z",
+  "last_seen": "2020-11-30T03:42:31.675Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "webdisk.digitalcollege.org",
+  "value_ip": "13.57.184.217",
+  "type": "ip",
+  "_key": "a30e3c0469d6d7bf73a3848aa7dbb955711bc7b5",
+  "value": "13.57.184.217"
+}
+{
+  "date": "2020-08-18T09:42:59.754Z",
+  "last_seen": "2020-11-08T04:24:37.127Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "mail.digitalcollege.org",
+  "value_ip": "13.57.184.217",
+  "type": "ip",
+  "_key": "65c10c7345857c387d8a58ae96f335151925d06a",
+  "value": "13.57.184.217"
+}
+{
+  "date": "2020-09-26T09:15:55.158Z",
+  "last_seen": "2020-10-25T02:06:11.155Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.learn.digitalcollege.org",
+  "value_ip": "13.57.184.217",
+  "type": "ip",
+  "_key": "4b9405bc9d995abf569b7aea06deda7fb21769a9",
+  "value": "13.57.184.217"
+}
+{
+  "date": "2020-09-28T07:27:24.028Z",
+  "last_seen": "2020-09-28T07:27:24.028Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "68224b3dcbe9bd3ce14637c7ece02bbe23102333",
+  "value": "pdns2.registrar-servers.com"
+}
+{
+  "date": "2020-09-28T07:27:24.028Z",
+  "last_seen": "2020-09-28T07:27:24.028Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "2fce6e6855bedeaa1507ef1c7f15cdc8cee08935",
+  "value": "pdns1.registrar-servers.com"
+}
+{
+  "date": "2020-08-14T15:34:15.444Z",
+  "last_seen": "2020-08-14T15:34:15.444Z",
+  "qtype": "255",
+  "domain": "digitalcollege.org",
+  "qname": "mail.digitalcollege.org",
+  "value_ip": "13.57.184.217",
+  "type": "ip",
+  "_key": "54bd3cac9ab3d443f396635f395fa84565f59293",
+  "value": "13.57.184.217"
+}
+{
+  "date": "2020-06-26T16:07:33.210Z",
+  "last_seen": "2020-06-26T16:07:33.210Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "cpanel.digitalcollege.org",
+  "value_ip": "13.57.184.217",
+  "type": "ip",
+  "_key": "ba2802448734fc9b9a229336dce95bfe15f72a9b",
+  "value": "13.57.184.217"
+}
+{
+  "date": "2020-01-17T15:10:17.218Z",
+  "last_seen": "2020-03-02T18:27:00.233Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "type": "aaaa",
+  "_key": "90fe02da829a13058b8706405262679e6ebe119e",
+  "value": "2606:4700:3036::681c:154"
+}
+{
+  "date": "2020-01-17T15:10:17.218Z",
+  "last_seen": "2020-03-02T18:27:00.233Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "type": "aaaa",
+  "_key": "8b2199114bdf8a2fa9eecd2ab75e6cee92106708",
+  "value": "2606:4700:3033::681c:54"
+}
+{
+  "date": "2019-07-01T16:57:47.245Z",
+  "last_seen": "2020-02-29T09:11:15.220Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "104.28.1.84",
+  "type": "ip",
+  "_key": "68638145c7e0d8c077b5a4766ad616d75f5b7cb2",
+  "value": "104.28.1.84"
+}
+{
+  "date": "2019-07-01T16:57:47.245Z",
+  "last_seen": "2020-02-29T09:11:15.220Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "104.28.0.84",
+  "type": "ip",
+  "_key": "158da8d30ee759e41dc0ed5858ec222ec7a2d2b2",
+  "value": "104.28.0.84"
+}
+{
+  "date": "2019-03-26T10:04:43.352Z",
+  "last_seen": "2020-02-29T00:39:12.541Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "104.28.0.84",
+  "type": "ip",
+  "_key": "9f542ee61bc6571cbeb0026e64f9311a2a405e46",
+  "value": "104.28.0.84"
+}
+{
+  "date": "2019-03-26T10:04:43.352Z",
+  "last_seen": "2020-02-29T00:39:12.541Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "104.28.1.84",
+  "type": "ip",
+  "_key": "969697f4cefaf8143e5fff0a982893be1ce8582b",
+  "value": "104.28.1.84"
+}
+{
+  "date": "2019-07-30T02:14:10.446Z",
+  "last_seen": "2020-02-12T09:19:23.603Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "learn.digitalcollege.org",
+  "value_ip": "104.28.1.84",
+  "type": "ip",
+  "_key": "478a204cbf1d87ac3cd8fb8c615dbd772f330ac7",
+  "value": "104.28.1.84"
+}
+{
+  "date": "2019-07-30T02:14:10.446Z",
+  "last_seen": "2020-02-12T09:19:23.603Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "learn.digitalcollege.org",
+  "value_ip": "104.28.0.84",
+  "type": "ip",
+  "_key": "7c352b37ce1885e6e01cac8f89f81109ecda9059",
+  "value": "104.28.0.84"
+}
+{
+  "date": "2020-01-19T13:16:05.966Z",
+  "last_seen": "2020-02-10T07:22:59.925Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "aaaa",
+  "_key": "ea9aed9102a250c3ef7d3df201157465333add73",
+  "value": "2606:4700:3033::681c:54"
+}
+{
+  "date": "2020-01-19T13:16:05.966Z",
+  "last_seen": "2020-02-10T07:22:59.925Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "aaaa",
+  "_key": "2a9c6175c10254ab960e64bb7ed873a0dbba1179",
+  "value": "2606:4700:3036::681c:154"
+}
+{
+  "date": "2020-01-16T13:35:34.966Z",
+  "last_seen": "2020-01-16T13:35:34.966Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "aaaa",
+  "_key": "9b2f1eb876d1b5ac405ff5e6ca777c67aaea4950",
+  "value": "2606:4700:3032::681c:54"
+}
+{
+  "date": "2020-01-16T13:35:34.966Z",
+  "last_seen": "2020-01-16T13:35:34.966Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "aaaa",
+  "_key": "f320fd8f8105ad186a7455c36cbb76446673db02",
+  "value": "2606:4700:3037::681c:154"
+}
+{
+  "date": "2019-03-31T11:39:05.411Z",
+  "last_seen": "2020-01-03T12:58:48.121Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "aaaa",
+  "_key": "8503a0a837cab224089c00abca1270b29cf78b00",
+  "value": "2606:4700:30::681c:154"
+}
+{
+  "date": "2019-03-31T11:39:05.411Z",
+  "last_seen": "2020-01-03T12:58:48.121Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "aaaa",
+  "_key": "8bca098eaa141413867d89f6674232e7f1cccfab",
+  "value": "2606:4700:30::681c:54"
+}
+{
+  "date": "2019-08-26T18:11:44.790Z",
+  "last_seen": "2019-12-01T18:39:07.855Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "learn.digitalcollege.org",
+  "type": "aaaa",
+  "_key": "46b5d902a8ae800f6f81c651e1684dfd5f1023b9",
+  "value": "2606:4700:30::681c:54"
+}
+{
+  "date": "2019-08-26T18:11:44.790Z",
+  "last_seen": "2019-12-01T18:39:07.855Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "learn.digitalcollege.org",
+  "type": "aaaa",
+  "_key": "65d2b5d0801c6760fad0bd7a300a43ac12a469fa",
+  "value": "2606:4700:30::681c:154"
+}
+{
+  "date": "2019-04-06T09:35:26.450Z",
+  "last_seen": "2019-11-30T13:04:21.238Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "9df0d26a2565a261cb2594d934b266d425680355",
+  "value": "bayan.ns.cloudflare.com"
+}
+{
+  "date": "2019-04-06T09:35:26.450Z",
+  "last_seen": "2019-11-30T13:04:21.238Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "5b28e2662da74610ab8e8b8c7f6f06ecc1a91651",
+  "value": "mimi.ns.cloudflare.com"
+}
+{
+  "date": "2019-06-13T13:10:19.335Z",
+  "last_seen": "2019-11-17T01:30:38.167Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "type": "aaaa",
+  "_key": "e693f4827b83040e70e31cb17192bea9128a067f",
+  "value": "2606:4700:30::681c:154"
+}
+{
+  "date": "2019-06-13T13:10:19.335Z",
+  "last_seen": "2019-11-17T01:30:38.167Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "type": "aaaa",
+  "_key": "5551acf086925aa72c67c054601535bd1fe54de2",
+  "value": "2606:4700:30::681c:54"
+}
+{
+  "date": "2019-03-29T03:41:58.543Z",
+  "last_seen": "2019-09-12T11:07:41.473Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_server",
+  "_key": "575ef96b0c5e73ccb512a660414f70bb03ce2f2a",
+  "value": "bayan.ns.cloudflare.com"
+}
+{
+  "date": "2019-03-29T03:41:58.543Z",
+  "last_seen": "2019-09-12T11:07:41.473Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_email",
+  "_key": "5f6642ac487be20ad4e670584c7764155d4c0e00",
+  "value": "dns@cloudflare.com"
+}
+{
+  "date": "2019-05-05T04:24:45.608Z",
+  "last_seen": "2019-06-01T15:44:31.440Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "23.94.69.34",
+  "type": "ip",
+  "_key": "0354d20f29845920de877e679290ae6366b6443e",
+  "value": "23.94.69.34"
+}
+{
+  "date": "2019-03-24T20:17:25.151Z",
+  "last_seen": "2019-05-24T04:09:27.237Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "webdisk.digitalcollege.org",
+  "value_ip": "23.94.69.34",
+  "type": "ip",
+  "_key": "cec0d7139b7bd531cc93f5d80ace3819a501a2f6",
+  "value": "23.94.69.34"
+}
+{
+  "date": "2019-05-23T18:52:28.542Z",
+  "last_seen": "2019-05-23T18:52:28.542Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "type": "name",
+  "_key": "8a884a0b89d202f791e773afbdf35177048d5c48",
+  "value": "digitalcollege.org"
+}
+{
+  "date": "2019-05-23T18:52:28.542Z",
+  "last_seen": "2019-05-23T18:52:28.542Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "type": "cname",
+  "_key": "0403072bd09fa58cd3c315adeee8483f42c46992",
+  "value": "digitalcollege.org"
+}
+{
+  "date": "2019-05-23T18:52:28.542Z",
+  "last_seen": "2019-05-23T18:52:28.542Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "23.94.69.34",
+  "type": "ip",
+  "_key": "e9cf5ee297ef7c92617c03b825426abda6a324cf",
+  "value": "23.94.69.34"
+}
+{
+  "date": "2019-05-19T23:53:23.696Z",
+  "last_seen": "2019-05-19T23:53:23.696Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.learn.digitalcollege.org",
+  "value_ip": "23.94.69.34",
+  "type": "ip",
+  "_key": "5b70b10d53f875bfb395bb1e4e60d858d8803da2",
+  "value": "23.94.69.34"
+}
+{
+  "date": "2019-05-09T02:43:18.794Z",
+  "last_seen": "2019-05-09T02:43:18.794Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_email",
+  "_key": "fa7fae714a7e9a474f2646f505447fcfbb81a0d5",
+  "value": "root@carbon.allsitecontrol.com"
+}
+{
+  "date": "2019-05-09T02:43:18.794Z",
+  "last_seen": "2019-05-09T02:43:18.794Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_server",
+  "_key": "9a5d313c2c54ece4a78ec45ab01807f09e078c7b",
+  "value": "ultra-one.basezap.com"
+}
+{
+  "date": "2019-05-06T20:19:26.742Z",
+  "last_seen": "2019-05-06T20:19:26.742Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "mail.digitalcollege.org",
+  "type": "cname",
+  "_key": "bb6a8708b9efc632740f534863fb1a974b230f94",
+  "value": "digitalcollege.org"
+}
+{
+  "date": "2019-05-06T20:19:26.742Z",
+  "last_seen": "2019-05-06T20:19:26.742Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "mail.digitalcollege.org",
+  "type": "name",
+  "_key": "1db61a8e599027d52d50d291a379e5c7cccd597f",
+  "value": "digitalcollege.org"
+}
+{
+  "date": "2019-05-06T20:19:26.742Z",
+  "last_seen": "2019-05-06T20:19:26.742Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "mail.digitalcollege.org",
+  "value_ip": "23.94.69.34",
+  "type": "ip",
+  "_key": "a210b0e0f3b578eab95103d7b682f427e879b204",
+  "value": "23.94.69.34"
+}
+{
+  "date": "2019-04-01T03:37:37.893Z",
+  "last_seen": "2019-04-30T15:49:42.061Z",
+  "qtype": "16",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "txt_base64",
+  "_key": "416dcb787718dc1e7d570d369dab37d7b29c21a8",
+  "value": "JGNhMy1lMTc3YWZhMzRiMGM0ZDA0YmE5OTRkYTVlYTUzNDA5Mw=="
+}
+{
+  "date": "2019-04-01T03:37:37.893Z",
+  "last_seen": "2019-04-30T15:49:42.061Z",
+  "qtype": "16",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "txt",
+  "_key": "e1925d1200b8f4410b4265acef0181cd9ac29d87",
+  "value": "$ca3-e177afa34b0c4d04ba994da5ea534093"
+}
+{
+  "date": "2019-03-24T19:21:16.332Z",
+  "last_seen": "2019-03-24T19:21:16.332Z",
+  "qtype": "28",
+  "domain": "digitalcollege.org",
+  "qname": "mail.digitalcollege.org",
+  "type": "cname",
+  "_key": "e2519b9efaffd80371ddcebda187a0feee7586f0",
+  "value": "digitalcollege.org"
+}
+{
+  "date": "2019-01-04T16:23:18.210Z",
+  "last_seen": "2019-02-09T00:31:48.792Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "52.4.209.250",
+  "type": "ip",
+  "_key": "db166592956908454cfde557a2d8d41bc102f734",
+  "value": "52.4.209.250"
+}
+{
+  "date": "2019-01-04T16:23:18.210Z",
+  "last_seen": "2019-02-09T00:31:48.792Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "18.215.128.143",
+  "type": "ip",
+  "_key": "a0efb783a6e5041a49ae71fd7ce50eaf0ff59607",
+  "value": "18.215.128.143"
+}
+{
+  "date": "2019-01-04T16:23:18.210Z",
+  "last_seen": "2019-02-09T00:31:48.792Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "18.213.250.117",
+  "type": "ip",
+  "_key": "c02b08c0f76bffac985d35cc75c12bd06b035c56",
+  "value": "18.213.250.117"
+}
+{
+  "date": "2019-02-08T07:03:49.777Z",
+  "last_seen": "2019-02-08T07:03:49.777Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "52.4.209.250",
+  "type": "ip",
+  "_key": "f1cea8fbe6c718630067b891cbf54b6a1e400600",
+  "value": "52.4.209.250"
+}
+{
+  "date": "2019-02-08T07:03:49.777Z",
+  "last_seen": "2019-02-08T07:03:49.777Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "18.215.128.143",
+  "type": "ip",
+  "_key": "d45ea54a272b289f2035c0345f7af54ea94936ca",
+  "value": "18.215.128.143"
+}
+{
+  "date": "2019-02-08T07:03:49.777Z",
+  "last_seen": "2019-02-08T07:03:49.777Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "18.213.250.117",
+  "type": "ip",
+  "_key": "37d7f1aaf7e1574c0e9d64f4402727e0a2d52925",
+  "value": "18.213.250.117"
+}
+{
+  "date": "2018-11-07T10:58:08.189Z",
+  "last_seen": "2019-01-02T11:00:07.646Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "184.168.221.104",
+  "type": "ip",
+  "_key": "9c995c4ec2ffe738f8c4babaadc823ccf4c23ba3",
+  "value": "184.168.221.104"
+}
+{
+  "date": "2018-11-08T16:59:13.313Z",
+  "last_seen": "2019-01-01T05:02:03.654Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_email",
+  "_key": "cd87c1334caaf4b236ffe37cffdc33b8e0096571",
+  "value": "dns@jomax.net"
+}
+{
+  "date": "2018-11-08T16:59:13.313Z",
+  "last_seen": "2019-01-01T05:02:03.654Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_server",
+  "_key": "e1a5ab6dc2cdc2e6b2ae53ea84e8fbaddd251a7d",
+  "value": "ns1.namefind.com"
+}
+{
+  "date": "2018-11-11T05:01:23.110Z",
+  "last_seen": "2018-11-20T17:05:00.622Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_server",
+  "_key": "3e4e5f18b66bfb510a124267a8a2973e401c1cd9",
+  "value": "ns1.afternic.com"
+}
+{
+  "date": "2016-10-19T11:20:03.000Z",
+  "last_seen": "2018-10-25T19:59:01.265Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "72.52.4.119",
+  "type": "ip",
+  "_key": "2d23fd73bdba82e2c45165a6de98755e63e0ae7d",
+  "value": "72.52.4.119"
+}
+{
+  "date": "2016-10-16T21:16:13.000Z",
+  "last_seen": "2018-09-13T16:58:04.197Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "72.52.4.119",
+  "type": "ip",
+  "_key": "3b0647bbe8c7c739022f90a4db7c935e32c1b811",
+  "value": "72.52.4.119"
+}
+{
+  "date": "2016-12-05T19:21:59.000Z",
+  "last_seen": "2018-09-06T14:47:09.092Z",
+  "qtype": "15",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "mx",
+  "_key": "3e3d02a09d64aaf0bff98099aa9c7fee6ee81b0a",
+  "value": "localhost"
+}
+{
+  "date": "2017-03-17T19:21:57.000Z",
+  "last_seen": "2018-08-30T05:37:24.177Z",
+  "qtype": "16",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "txt",
+  "_key": "b7b0e13ea91d1cca7a3d3b4646c01783a745728a",
+  "value": "#v=spf1 ip6:fd92:59f3:510e::/48 -all"
+}
+{
+  "date": "2018-03-17T06:59:02.000Z",
+  "last_seen": "2018-08-30T05:37:24.177Z",
+  "qtype": "16",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "txt_base64",
+  "_key": "f024533bbba22b7816d5a562f78aea0ec26e580f",
+  "value": "I3Y9c3BmMSBpcDY6ZmQ5Mjo1OWYzOjUxMGU6Oi80OCAtYWxs"
+}
+{
+  "date": "2018-03-17T06:59:02.000Z",
+  "last_seen": "2018-08-30T05:37:24.176Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "d9d8ceafeb3f7009cff46a06a7006d1bd1bf1f05",
+  "value": "ns1.sedoparking.com"
+}
+{
+  "date": "2018-03-17T06:59:02.000Z",
+  "last_seen": "2018-08-30T05:37:24.176Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "9b9d26fa38602d2eaaccd956c58c035cd11d9a8e",
+  "value": "ns2.sedoparking.com"
+}
+{
+  "date": "2018-08-29T16:32:09.133Z",
+  "last_seen": "2018-08-29T16:32:09.133Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "wp.digitalcollege.org",
+  "value_ip": "72.52.4.119",
+  "type": "ip",
+  "_key": "791d56cb72c9cac3408b22d5ebedde8c19f3c50d",
+  "value": "72.52.4.119"
+}
+{
+  "date": "2018-08-29T16:24:51.811Z",
+  "last_seen": "2018-08-29T16:32:06.675Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "test.digitalcollege.org",
+  "value_ip": "72.52.4.119",
+  "type": "ip",
+  "_key": "270eae833926d94143af0f132258aff84fbc1678",
+  "value": "72.52.4.119"
+}
+{
+  "date": "2018-08-29T16:32:06.231Z",
+  "last_seen": "2018-08-29T16:32:06.231Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "blog.digitalcollege.org",
+  "value_ip": "72.52.4.119",
+  "type": "ip",
+  "_key": "1c22bb382c56221bc4a707a72e9d6eb163c01369",
+  "value": "72.52.4.119"
+}
+{
+  "date": "2017-03-01T06:03:08.000Z",
+  "last_seen": "2018-08-25T04:11:03.787Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_server",
+  "_key": "aa0ad86cde83f69e7bb4fb684b31ce9e9bd7f6f7",
+  "value": "ns1.sedoparking.com"
+}
+{
+  "date": "2017-03-01T06:03:08.000Z",
+  "last_seen": "2018-08-25T04:11:03.787Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_email",
+  "_key": "ac91e4f187acfddd2fb674a5747b0fd8b1d038d6",
+  "value": "hostmaster@sedo.de"
+}
+{
+  "date": "2018-07-05T09:47:52.675Z",
+  "last_seen": "2018-08-10T12:36:28.995Z",
+  "qtype": "15",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "mx",
+  "_key": "eb2fe5ee892ec20e421248023377b0bdb4769109",
+  "value": "localhost.mx.*"
+}
+{
+  "date": "2018-07-06T20:29:44.043Z",
+  "last_seen": "2018-07-06T20:29:44.043Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "outgoing.digitalcollege.org",
+  "value_ip": "72.52.4.119",
+  "type": "ip",
+  "_key": "2676190a936c9f8cf4a147cd833df586cf59d25f",
+  "value": "72.52.4.119"
+}
+{
+  "date": "2018-07-06T20:27:11.146Z",
+  "last_seen": "2018-07-06T20:27:11.146Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "smtp.digitalcollege.org",
+  "value_ip": "72.52.4.119",
+  "type": "ip",
+  "_key": "0010b40ec78cde2457747ebcab717a09dc893951",
+  "value": "72.52.4.119"
+}
+{
+  "date": "2018-06-29T11:41:56.404Z",
+  "last_seen": "2018-06-29T11:41:56.404Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "72.52.4.120",
+  "type": "ip",
+  "_key": "919f5e5758a7eaaa8cf09b1ce65a4146706d4610",
+  "value": "72.52.4.120"
+}
+{
+  "date": "2016-10-19T04:45:48.000Z",
+  "last_seen": "2018-04-16T09:28:40.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "mail.digitalcollege.org",
+  "value_ip": "72.52.4.119",
+  "type": "ip",
+  "_key": "1cc8a77160696728a9a18c3631bcecb9e06f74d4",
+  "value": "72.52.4.119"
+}
+{
+  "date": "2018-01-04T04:21:02.000Z",
+  "last_seen": "2018-03-11T12:28:49.000Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_email",
+  "_key": "37e05d82d732ab62cccb3ddbf08efa4cab388ebd",
+  "value": "hostmaster@digitalcollege.org"
+}
+{
+  "date": "2018-01-04T22:25:51.000Z",
+  "last_seen": "2018-03-11T12:28:49.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "52.0.217.44",
+  "type": "ip",
+  "_key": "e9101f31be0e53479a4aa8164067e06097771f14",
+  "value": "52.0.217.44"
+}
+{
+  "date": "2018-01-04T04:21:02.000Z",
+  "last_seen": "2018-03-11T12:28:49.000Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_server",
+  "_key": "fe4eca6670e7ef5c1a58b4dda9837bc3adef4f35",
+  "value": "ns1.dynadot.com"
+}
+{
+  "date": "2018-01-02T21:27:39.000Z",
+  "last_seen": "2018-03-11T12:28:49.000Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "a4209c1360dd690ea4f004fbfd7c730bae9e2305",
+  "value": "ns1.dynadot.com"
+}
+{
+  "date": "2018-01-02T21:27:39.000Z",
+  "last_seen": "2018-03-11T12:28:49.000Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "7b50a6bb7abfd18a023d681b1f4ee020d74d1d2b",
+  "value": "ns2.dynadot.com"
+}
+{
+  "date": "2018-01-05T09:02:31.000Z",
+  "last_seen": "2018-02-28T21:00:14.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "52.0.217.44",
+  "type": "ip",
+  "_key": "75950b2aacce68897d03e408761ffbb1f403f39d",
+  "value": "52.0.217.44"
+}
+{
+  "date": "2017-05-11T18:17:23.000Z",
+  "last_seen": "2017-11-14T12:42:21.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "210.188.199.140",
+  "type": "ip",
+  "_key": "e06741483df55162336fc52a11a75bcad041e464",
+  "value": "210.188.199.140"
+}
+{
+  "date": "2017-05-18T11:51:38.000Z",
+  "last_seen": "2017-11-14T12:32:14.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "210.188.199.140",
+  "type": "ip",
+  "_key": "4b5c015e39b1210976c49d2a3dbb49e94f600394",
+  "value": "210.188.199.140"
+}
+{
+  "date": "2017-08-23T13:09:14.000Z",
+  "last_seen": "2017-11-09T03:02:03.000Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "a39acc18784cc3ab02afb2989a8e784862efc462",
+  "value": "ns1.bittercloud.com"
+}
+{
+  "date": "2017-08-23T13:09:14.000Z",
+  "last_seen": "2017-11-09T03:02:03.000Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "a0a79afe5a198a86a6782d8f6853f288ade1256b",
+  "value": "ns2.bittercloud.com"
+}
+{
+  "date": "2017-08-02T01:26:29.000Z",
+  "last_seen": "2017-09-27T03:14:48.000Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_email",
+  "_key": "81fe8826724b26e3ab2a0257ed72e40c25c9c2ad",
+  "value": "root@bittercloud.com"
+}
+{
+  "date": "2017-08-02T01:26:29.000Z",
+  "last_seen": "2017-09-27T03:14:48.000Z",
+  "qtype": "6",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "soa_server",
+  "_key": "f84e6c650c319cc6a16da97c656e02d1ff547caf",
+  "value": "ns1.bittercloud.com"
+}
+{
+  "date": "2017-03-12T12:03:45.000Z",
+  "last_seen": "2017-03-12T12:03:45.000Z",
+  "qtype": "15",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "type": "mx",
+  "_key": "8cfab667ae3f33b8e0d863da4722a2909a84ef1b",
+  "value": "localhost"
+}
+{
+  "date": "2017-03-01T06:03:08.000Z",
+  "last_seen": "2017-03-01T06:03:08.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "bfab46c8-fe44-11e6-b4f7-d89d672312fc.digitalcollege.org",
+  "value_ip": "72.52.4.119",
+  "type": "ip",
+  "_key": "45f94d7eb2271df83598d182609aa824a8fa09a6",
+  "value": "72.52.4.119"
+}
+{
+  "date": "2016-10-02T05:21:16.000Z",
+  "last_seen": "2016-10-02T05:21:16.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "198.105.254.11",
+  "type": "ip",
+  "_key": "a4691767af23352cd43ac2c85fa1f030be725254",
+  "value": "198.105.254.11"
+}
+{
+  "date": "2016-10-02T05:21:16.000Z",
+  "last_seen": "2016-10-02T05:21:16.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "104.239.213.7",
+  "type": "ip",
+  "_key": "318156c200749fd8fad1a0550ce01bb0df594913",
+  "value": "104.239.213.7"
+}
+{
+  "date": "2016-09-23T22:37:28.000Z",
+  "last_seen": "2016-09-24T02:12:42.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "104.239.213.7",
+  "type": "ip",
+  "_key": "3727ae9b05b25ce6767f4e36da3afdff97d7aebb",
+  "value": "104.239.213.7"
+}
+{
+  "date": "2016-09-23T22:37:28.000Z",
+  "last_seen": "2016-09-24T02:12:42.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "198.105.254.11",
+  "type": "ip",
+  "_key": "f636ffb753b6787745c2ac71f23237f179d94c43",
+  "value": "198.105.254.11"
+}
+{
+  "date": "2016-07-26T09:09:39.000Z",
+  "last_seen": "2016-09-02T16:51:08.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "209.99.40.222",
+  "type": "ip",
+  "_key": "2fca027fa5f993d1242f3ceb41a6f50f7ab751af",
+  "value": "209.99.40.222"
+}
+{
+  "date": "2016-07-27T16:22:09.000Z",
+  "last_seen": "2016-08-31T20:26:16.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "209.99.40.222",
+  "type": "ip",
+  "_key": "284a0dc6f633ae54b4e3200821874a7f1cceaae3",
+  "value": "209.99.40.222"
+}
+{
+  "date": "2016-06-08T15:36:46.000Z",
+  "last_seen": "2016-07-25T15:41:28.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "199.59.243.120",
+  "type": "ip",
+  "_key": "02962deeee710b6d61b3daf7c1b7117af8367925",
+  "value": "199.59.243.120"
+}
+{
+  "date": "2016-06-07T20:19:16.000Z",
+  "last_seen": "2016-07-24T13:44:02.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "199.59.243.120",
+  "type": "ip",
+  "_key": "8e89821dce457a2e8da66637ff27c9169a163b46",
+  "value": "199.59.243.120"
+}
+{
+  "date": "2016-04-19T21:40:46.000Z",
+  "last_seen": "2016-05-31T12:10:43.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "69.172.201.153",
+  "type": "ip",
+  "_key": "95777404482c267870ded8722442b29886aeca5b",
+  "value": "69.172.201.153"
+}
+{
+  "date": "2016-04-25T10:25:15.000Z",
+  "last_seen": "2016-04-25T10:25:15.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "69.172.201.153",
+  "type": "ip",
+  "_key": "4f4de359b8c312c7a434ad1b21475e9de8ffb4e2",
+  "value": "69.172.201.153"
+}
+{
+  "date": "2016-03-12T15:11:34.000Z",
+  "last_seen": "2016-04-14T12:29:08.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "69.172.201.208",
+  "type": "ip",
+  "_key": "c238ac566016ac0db3c89aa43afc1f95b831c68d",
+  "value": "69.172.201.208"
+}
+{
+  "date": "2015-07-29T10:03:44.000Z",
+  "last_seen": "2016-03-02T10:24:09.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "173.193.106.11",
+  "type": "ip",
+  "_key": "0b225484c45e63a3aecd88fcec69151e3a38d6f4",
+  "value": "173.193.106.11"
+}
+{
+  "date": "2014-09-21T12:13:47.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "81.21.76.62",
+  "type": "ip",
+  "_key": "ac82e6ade380f7129b93eabfaa8be837cff77557",
+  "value": "81.21.76.62"
+}
+{
+  "date": "2015-04-29T07:10:01.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "mail.digitalcollege.org",
+  "value_ip": "109.68.33.64",
+  "type": "ip",
+  "_key": "ab0650e69af0f188cfeec7ebf3d4651cbb23ef49",
+  "value": "109.68.33.64"
+}
+{
+  "date": "2014-12-10T21:02:36.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "109.68.33.64",
+  "type": "ip",
+  "_key": "4c40a2875340ef44f8f6f9bfb620243d3a209234",
+  "value": "109.68.33.64"
+}
+{
+  "date": "2014-12-12T23:06:27.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "109.68.33.64",
+  "type": "ip",
+  "_key": "ccd41fc592cf6ecb790cf342e0477f412c02f486",
+  "value": "109.68.33.64"
+}
+{
+  "date": "2015-07-26T18:34:39.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "www.digitalcollege.org",
+  "value_ip": "173.193.106.11",
+  "type": "ip",
+  "_key": "271520d9f7d486ea55fc56bf07089dd66a540867",
+  "value": "173.193.106.11"
+}
+{
+  "date": "2015-03-06T00:40:56.000Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "bafcc82d2e54df1c7bbbc41b59016883baccda62",
+  "value": "ns2.domainhasexpired.com"
+}
+{
+  "date": "2015-03-06T00:40:56.000Z",
+  "qtype": "2",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "ns",
+  "_key": "dc0bf40095a7d844cba346be8b1df0acff097e8c",
+  "value": "ns1.domainhasexpired.com"
+}
+{
+  "date": "2014-12-19T06:40:41.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "forum.digitalcollege.org",
+  "value_ip": "109.68.33.64",
+  "type": "ip",
+  "_key": "a36f268001f2675f68eb563eff7b1d91193772dd",
+  "value": "109.68.33.64"
+}
+{
+  "date": "2015-04-29T07:10:52.000Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "smtp.digitalcollege.org",
+  "value_ip": "109.68.33.64",
+  "type": "ip",
+  "_key": "7934e0b44048ae443bd1b6ac7fa970266e5e2cc1",
+  "value": "109.68.33.64"
+}
+{
+  "date": "2014-10-09T02:47:07.000Z",
+  "qtype": "15",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "mx",
+  "_key": "5acbbf479561f8747eca5d883f4367fcfc3fa800",
+  "value": "mx0.123-reg.co.uk"
+}
+{
+  "date": "2014-12-12T21:16:36.000Z",
+  "qtype": "15",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "mx",
+  "_key": "19b93f5cfb86b7617302c37122da309739396a0f",
+  "value": "mail.b-io.co"
+}
+{
+  "date": "2014-10-09T02:47:07.000Z",
+  "qtype": "15",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "type": "mx",
+  "_key": "0b38802300acf3d419a1f095f647a04696c4c7b4",
+  "value": "mx1.123-reg.co.uk"
+}
+{
+  "date": "2014-07-30T02:26:09Z",
+  "qtype": "1",
+  "domain": "digitalcollege.org",
+  "qname": "digitalcollege.org",
+  "value_ip": "81.21.76.62",
+  "type": "ip",
+  "_key": "55023f362a31ecb220e1492c41304cd163c16898",
+  "value": "81.21.76.62"
+}
