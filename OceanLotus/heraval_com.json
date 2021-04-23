@@ -1,0 +1,49 @@
+{
+  "info": "6 results found.",
+  "total": 6,
+  "returning": 6,
+  "results": [
+    {
+      "last_seen": "2021-04-17T07:51:37.031Z",
+      "domain": "heraval.com",
+      "qname": "heraval.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-17T07:51:37.031Z",
+      "domain": "heraval.com",
+      "qname": "heraval.com",
+      "type": "domain",
+      "value": "heraval.com"
+    },
+    {
+      "last_seen": "2020-11-06T18:07:26.505Z",
+      "domain": "heraval.com",
+      "qname": "heraval.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-11-06T18:07:26.505Z",
+      "domain": "heraval.com",
+      "qname": "heraval.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-04-23T17:28:35.594Z",
+      "domain": "heraval.com",
+      "qname": "ns1.heraval.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-04-23T16:28:22.939Z",
+      "domain": "heraval.com",
+      "qname": "ns2.heraval.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    }
+  ]
+}

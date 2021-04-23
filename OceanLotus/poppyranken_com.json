@@ -1,0 +1,203 @@
+{
+  "info": "28 results found.",
+  "total": 28,
+  "returning": 28,
+  "results": [
+    {
+      "last_seen": "2021-04-22T22:08:11.754Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "ip",
+      "value": "192.161.187.200"
+    },
+    {
+      "last_seen": "2021-04-22T22:08:11.754Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "domain",
+      "value": "poppyranken.com"
+    },
+    {
+      "last_seen": "2021-04-22T22:08:11.754Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "ip",
+      "value": "107.161.23.204"
+    },
+    {
+      "last_seen": "2021-04-22T22:08:11.754Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "ip",
+      "value": "209.141.38.71"
+    },
+    {
+      "last_seen": "2021-04-18T15:21:09.019Z",
+      "domain": "poppyranken.com",
+      "qname": "z.poppyranken.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-14T17:35:58.527Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-14T03:27:32.832Z",
+      "domain": "poppyranken.com",
+      "qname": "ns2.poppyranken.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-13T23:18:07.282Z",
+      "domain": "poppyranken.com",
+      "qname": "ns1.poppyranken.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-13T20:07:17.313Z",
+      "domain": "poppyranken.com",
+      "qname": "ns2.poppyranken.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-13T20:02:09.208Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "ip",
+      "value": "99.81.40.78"
+    },
+    {
+      "last_seen": "2021-04-12T12:19:25.223Z",
+      "domain": "poppyranken.com",
+      "qname": "z.poppyranken.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-02-03T02:11:28.417Z",
+      "domain": "poppyranken.com",
+      "qname": "ns1.poppyranken.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-10-24T10:10:59.285Z",
+      "domain": "poppyranken.com",
+      "qname": "ns2.poppyranken.com",
+      "type": "ip",
+      "value": "128.199.139.26"
+    },
+    {
+      "last_seen": "2020-08-26T19:07:32.948Z",
+      "domain": "poppyranken.com",
+      "qname": "ns1.poppyranken.com",
+      "type": "soa_email",
+      "value": "master@dev.com"
+    },
+    {
+      "last_seen": "2020-08-26T19:07:32.948Z",
+      "domain": "poppyranken.com",
+      "qname": "ns1.poppyranken.com",
+      "type": "soa_server",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-08-26T18:46:42.853Z",
+      "domain": "poppyranken.com",
+      "qname": "ns2.poppyranken.com",
+      "type": "soa_email",
+      "value": "master@dev.com"
+    },
+    {
+      "last_seen": "2020-08-26T18:46:42.853Z",
+      "domain": "poppyranken.com",
+      "qname": "ns2.poppyranken.com",
+      "type": "soa_server",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-18T12:58:39.641Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-18T12:58:39.641Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-02-24T17:44:31.566Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "soa_email",
+      "value": "master@dev.com"
+    },
+    {
+      "last_seen": "2020-02-24T17:44:31.566Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "soa_server",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-09-08T07:07:55.227Z",
+      "domain": "poppyranken.com",
+      "qname": "blog.poppyranken.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-08-05T09:39:17.604Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2019-07-22T11:19:57.285Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "ns",
+      "value": "ns2.poppyranken.com"
+    },
+    {
+      "last_seen": "2019-07-22T11:19:57.285Z",
+      "domain": "poppyranken.com",
+      "qname": "poppyranken.com",
+      "type": "ns",
+      "value": "ns1.poppyranken.com"
+    },
+    {
+      "last_seen": "2019-01-22T14:37:08.199Z",
+      "domain": "poppyranken.com",
+      "qname": "z.poppyranken.com",
+      "type": "aaaa",
+      "value": "::ffff:146.112.61.110"
+    },
+    {
+      "last_seen": "2019-01-22T14:37:08.199Z",
+      "domain": "poppyranken.com",
+      "qname": "z.poppyranken.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2018-01-22T01:36:11.000Z",
+      "domain": "poppyranken.com",
+      "qname": "ns1.poppyranken.com",
+      "type": "ip",
+      "value": "149.56.113.214"
+    }
+  ]
+}

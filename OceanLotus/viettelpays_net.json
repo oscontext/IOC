@@ -1,0 +1,105 @@
+{
+  "info": "14 results found.",
+  "total": 14,
+  "returning": 14,
+  "results": [
+    {
+      "last_seen": "2021-04-21T00:18:50.820Z",
+      "domain": "viettelpays.net",
+      "qname": "viettelpays.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-21T00:18:50.820Z",
+      "domain": "viettelpays.net",
+      "qname": "viettelpays.net",
+      "type": "domain",
+      "value": "viettelpays.net"
+    },
+    {
+      "last_seen": "2021-04-20T21:33:23.295Z",
+      "domain": "viettelpays.net",
+      "qname": "ns1.viettelpays.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-03-01T18:08:51.953Z",
+      "domain": "viettelpays.net",
+      "qname": "ns1.viettelpays.net",
+      "type": "ip",
+      "value": "172.105.15.123"
+    },
+    {
+      "last_seen": "2020-12-21T21:03:14.377Z",
+      "domain": "viettelpays.net",
+      "qname": "ns2.viettelpays.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-12-14T03:54:18.937Z",
+      "domain": "viettelpays.net",
+      "qname": "ns2.viettelpays.net",
+      "type": "ip",
+      "value": "172.105.15.123"
+    },
+    {
+      "last_seen": "2020-06-18T04:30:05.091Z",
+      "domain": "viettelpays.net",
+      "qname": "viettelpays.net",
+      "type": "ns",
+      "value": "ns2.viettelpays.net"
+    },
+    {
+      "last_seen": "2020-06-18T04:30:05.091Z",
+      "domain": "viettelpays.net",
+      "qname": "viettelpays.net",
+      "type": "ns",
+      "value": "ns1.viettelpays.net"
+    },
+    {
+      "last_seen": "2020-05-25T14:37:23.686Z",
+      "domain": "viettelpays.net",
+      "qname": "ns2.viettelpays.net",
+      "type": "ip",
+      "value": "185.149.23.45"
+    },
+    {
+      "last_seen": "2020-05-25T14:27:36.718Z",
+      "domain": "viettelpays.net",
+      "qname": "ns1.viettelpays.net",
+      "type": "ip",
+      "value": "185.149.23.45"
+    },
+    {
+      "last_seen": "2019-08-20T17:16:18.609Z",
+      "domain": "viettelpays.net",
+      "qname": "ns2.viettelpays.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-08-20T17:16:18.609Z",
+      "domain": "viettelpays.net",
+      "qname": "ns2.viettelpays.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-06-13T11:21:16.376Z",
+      "domain": "viettelpays.net",
+      "qname": "viettelpays.net",
+      "type": "ns",
+      "value": "ns2.zilore.net"
+    },
+    {
+      "last_seen": "2019-06-13T11:21:16.376Z",
+      "domain": "viettelpays.net",
+      "qname": "viettelpays.net",
+      "type": "ns",
+      "value": "ns1.zilore.net"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "info": "5 results found.",
+  "total": 5,
+  "returning": 5,
+  "results": [
+    {
+      "last_seen": "2021-04-19T05:32:03.368Z",
+      "domain": "scottdevtasxasalis.com",
+      "qname": "scottdevtasxasalis.com",
+      "type": "domain",
+      "value": "scottdevtasxasalis.com"
+    },
+    {
+      "last_seen": "2020-08-26T07:56:16.306Z",
+      "domain": "scottdevtasxasalis.com",
+      "qname": "scottdevtasxasalis.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-06-25T17:21:47.606Z",
+      "domain": "scottdevtasxasalis.com",
+      "qname": "scottdevtasxasalis.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-06-25T17:21:47.606Z",
+      "domain": "scottdevtasxasalis.com",
+      "qname": "scottdevtasxasalis.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-24T23:40:14.165Z",
+      "domain": "scottdevtasxasalis.com",
+      "qname": "ns1.scottdevtasxasalis.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    }
+  ]
+}

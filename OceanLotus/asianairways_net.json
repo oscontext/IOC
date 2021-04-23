@@ -1,0 +1,84 @@
+{
+  "info": "11 results found.",
+  "total": 11,
+  "returning": 11,
+  "results": [
+    {
+      "last_seen": "2021-04-17T04:24:07.946Z",
+      "domain": "asianairways.net",
+      "qname": "asianairways.net",
+      "type": "domain",
+      "value": "asianairways.net"
+    },
+    {
+      "last_seen": "2021-03-05T03:50:56.382Z",
+      "domain": "asianairways.net",
+      "qname": "ns1.asianairways.net",
+      "type": "ip",
+      "value": "51.255.139.198"
+    },
+    {
+      "last_seen": "2021-02-26T01:22:27.141Z",
+      "domain": "asianairways.net",
+      "qname": "ns2.asianairways.net",
+      "type": "ip",
+      "value": "51.255.139.198"
+    },
+    {
+      "last_seen": "2020-04-20T09:05:31.252Z",
+      "domain": "asianairways.net",
+      "qname": "asianairways.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-23T18:50:44.481Z",
+      "domain": "asianairways.net",
+      "qname": "ns2.asianairways.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-01-13T20:00:40.517Z",
+      "domain": "asianairways.net",
+      "qname": "ns1.asianairways.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-01-06T12:40:25.662Z",
+      "domain": "asianairways.net",
+      "qname": "blog.asianairways.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-08-04T00:41:02.819Z",
+      "domain": "asianairways.net",
+      "qname": "asianairways.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-08-04T00:41:02.819Z",
+      "domain": "asianairways.net",
+      "qname": "asianairways.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-07-27T12:48:03.176Z",
+      "domain": "asianairways.net",
+      "qname": "asianairways.net",
+      "type": "ns",
+      "value": "ns2.asianairways.net"
+    },
+    {
+      "last_seen": "2019-07-27T12:48:03.176Z",
+      "domain": "asianairways.net",
+      "qname": "asianairways.net",
+      "type": "ns",
+      "value": "ns1.asianairways.net"
+    }
+  ]
+}

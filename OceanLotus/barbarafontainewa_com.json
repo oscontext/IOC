@@ -1,0 +1,84 @@
+{
+  "info": "11 results found.",
+  "total": 11,
+  "returning": 11,
+  "results": [
+    {
+      "last_seen": "2021-04-17T01:38:47.827Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "domain",
+      "value": "barbarafontainewa.com"
+    },
+    {
+      "last_seen": "2019-10-19T06:23:15.547Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "aaaa",
+      "value": "::ffff:146.112.61.110"
+    },
+    {
+      "last_seen": "2019-10-19T06:23:15.491Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2019-09-16T19:30:26.529Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "ns",
+      "value": "ns1.barbarafontainewa.com"
+    },
+    {
+      "last_seen": "2019-09-16T19:30:26.529Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "ns",
+      "value": "ns2.barbarafontainewa.com"
+    },
+    {
+      "last_seen": "2019-07-14T03:09:40.430Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-06-23T11:23:24.924Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "ip",
+      "value": "185.181.104.82"
+    },
+    {
+      "last_seen": "2019-06-15T14:18:43.324Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-06-15T14:18:43.324Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-03-25T07:21:18.021Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "ns",
+      "value": "ns1.charlotteagnes.com"
+    },
+    {
+      "last_seen": "2019-03-25T07:21:18.021Z",
+      "domain": "barbarafontainewa.com",
+      "qname": "barbarafontainewa.com",
+      "type": "ns",
+      "value": "ns2.charlotteagnes.com"
+    }
+  ]
+}

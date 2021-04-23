@@ -1,0 +1,70 @@
+{
+  "info": "9 results found.",
+  "total": 9,
+  "returning": 9,
+  "results": [
+    {
+      "last_seen": "2021-04-20T04:00:49.853Z",
+      "domain": "lotteagnesar.com",
+      "qname": "ns1.lotteagnesar.com",
+      "type": "ip",
+      "value": "66.85.185.102"
+    },
+    {
+      "last_seen": "2021-04-20T04:00:49.853Z",
+      "domain": "lotteagnesar.com",
+      "qname": "lotteagnesar.com",
+      "type": "domain",
+      "value": "lotteagnesar.com"
+    },
+    {
+      "last_seen": "2020-11-12T08:09:44.522Z",
+      "domain": "lotteagnesar.com",
+      "qname": "lotteagnesar.com",
+      "type": "ip",
+      "value": "24.93.40.120"
+    },
+    {
+      "last_seen": "2020-08-24T12:47:54.138Z",
+      "domain": "lotteagnesar.com",
+      "qname": "ns2.lotteagnesar.com",
+      "type": "ip",
+      "value": "66.85.185.102"
+    },
+    {
+      "last_seen": "2019-10-19T06:23:19.251Z",
+      "domain": "lotteagnesar.com",
+      "qname": "lotteagnesar.com",
+      "type": "aaaa",
+      "value": "::ffff:146.112.61.110"
+    },
+    {
+      "last_seen": "2019-10-19T06:04:54.888Z",
+      "domain": "lotteagnesar.com",
+      "qname": "lotteagnesar.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2019-08-04T12:02:10.184Z",
+      "domain": "lotteagnesar.com",
+      "qname": "lotteagnesar.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-07-21T14:47:31.880Z",
+      "domain": "lotteagnesar.com",
+      "qname": "lotteagnesar.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-07-21T14:47:31.880Z",
+      "domain": "lotteagnesar.com",
+      "qname": "lotteagnesar.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    }
+  ]
+}

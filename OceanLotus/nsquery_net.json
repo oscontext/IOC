@@ -1,0 +1,3857 @@
+{
+  "info": "550 results found.",
+  "total": 550,
+  "returning": 550,
+  "results": [
+    {
+      "last_seen": "2021-04-14T11:46:38.264Z",
+      "domain": "nsquery.net",
+      "qname": "ns4.nsquery.net",
+      "type": "ip",
+      "value": "146.112.61.107"
+    },
+    {
+      "last_seen": "2021-04-14T11:46:38.264Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "domain",
+      "value": "nsquery.net"
+    },
+    {
+      "last_seen": "2021-04-14T11:41:45.894Z",
+      "domain": "nsquery.net",
+      "qname": "ns3.nsquery.net",
+      "type": "ip",
+      "value": "1.1.1.1"
+    },
+    {
+      "last_seen": "2021-02-28T02:31:55.097Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ip",
+      "value": "146.112.61.107"
+    },
+    {
+      "last_seen": "2021-01-28T12:37:52.486Z",
+      "domain": "nsquery.net",
+      "qname": "ns4.nsquery.net",
+      "type": "ip",
+      "value": "1.1.1.1"
+    },
+    {
+      "last_seen": "2020-12-22T03:45:01.086Z",
+      "domain": "nsquery.net",
+      "qname": "ns4.nsquery.net",
+      "type": "ip",
+      "value": "80.255.3.89"
+    },
+    {
+      "last_seen": "2020-10-29T12:12:46.167Z",
+      "domain": "nsquery.net",
+      "qname": "ns3.nsquery.net",
+      "type": "ip",
+      "value": "80.255.3.89"
+    },
+    {
+      "last_seen": "2020-09-17T17:54:50.967Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-09-16T02:02:05.743Z",
+      "domain": "nsquery.net",
+      "qname": "ns3.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-09-08T23:04:19.717Z",
+      "domain": "nsquery.net",
+      "qname": "ns4.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-04-09T15:23:38.948Z",
+      "domain": "nsquery.net",
+      "qname": "dns.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-24T11:03:58.509Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "soa_email",
+      "value": "master@dev.com"
+    },
+    {
+      "last_seen": "2020-03-24T11:03:58.509Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "soa_server",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-24T11:03:41.501Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-24T11:03:41.501Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-01-15T01:38:18.015Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaao3.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-12-09T23:27:16.198Z",
+      "domain": "nsquery.net",
+      "qname": "*.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-10-16T18:34:30.330Z",
+      "domain": "nsquery.net",
+      "qname": "www.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.751Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaao3m.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.620Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaan87.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.620Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaajru.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.620Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaaino.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.575Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaamh4.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.575Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaaewl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.575Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaahzi.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.575Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaal-t.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.515Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaapeu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.515Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaacxf.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.514Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaap7z.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-09-20T09:56:50.442Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaambs.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-08-09T05:12:03.089Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaapph.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-08-08T13:23:59.379Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaao9c.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-08-08T13:23:59.379Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaao9c.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-08-08T05:16:48.254Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaakq2.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-08-07T22:23:26.260Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaakq2.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-08-07T22:23:26.260Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaakq2.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-08-07T21:32:12.779Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaalf5.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-08-07T21:27:17.393Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaels.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-08-07T21:27:17.393Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaels.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-07-28T12:12:17.705Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaahow.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-07-28T12:12:17.705Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaahow.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-07-28T12:11:20.072Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadec.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-07-28T12:11:20.072Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadec.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-07-27T21:10:52.355Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaadwp.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-07-27T20:49:42.532Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaadwp.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-07-27T20:49:42.532Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaadwp.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-07-27T09:11:42.000Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaa5n.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-07-27T09:11:42.000Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaa5n.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-07-27T08:10:47.353Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaj_l.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-07-27T08:10:47.353Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaj_l.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-07-27T06:12:19.917Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaa5n.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-07-27T05:12:21.038Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaivf.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-07-27T05:12:21.038Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaivf.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-07-27T05:12:11.425Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaani.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-07-27T05:12:11.425Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaani.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-07-27T05:11:26.856Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaajtf.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-07-27T05:11:26.856Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaajtf.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-07-27T04:26:14.170Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaajtf.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-07-27T04:26:14.025Z",
+      "domain": "nsquery.net",
+      "qname": "lzez9qaaaaaaaaaaaaaaaaaaaaaaaoiz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-06-03T07:10:56.710Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ns",
+      "value": "ns3.nsquery.net"
+    },
+    {
+      "last_seen": "2019-06-03T07:10:56.710Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ns",
+      "value": "ns4.nsquery.net"
+    },
+    {
+      "last_seen": "2018-11-16T14:55:56.648Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabuo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-16T13:42:49.477Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafjz.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T13:42:49.477Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafjz.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T10:27:56.212Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadgp.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T10:27:56.212Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadgp.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T09:25:52.378Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamft.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-16T08:55:48.943Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapna.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-16T08:52:47.066Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaailj.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T08:52:47.066Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaailj.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T08:45:57.200Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafli.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-16T08:07:57.426Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaalwd.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T08:07:57.426Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaalwd.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T07:22:48.737Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamsb.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T07:22:48.737Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamsb.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T06:54:53.675Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapwz.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T06:54:53.675Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapwz.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T01:42:53.107Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaoct.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T01:42:53.107Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaoct.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T01:37:52.940Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabae.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T01:37:52.940Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabae.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T23:20:45.986Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajxa.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-15T23:10:49.317Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacjq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-15T20:35:44.085Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaboi.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-15T19:20:47.691Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaipk.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-15T18:02:47.720Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaae9.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T18:02:47.720Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaae9.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T16:00:51.004Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafda.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-15T15:32:27.411Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaid8.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T15:32:27.411Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaid8.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T13:02:49.223Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaachc.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T13:02:49.223Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaachc.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T12:35:34.904Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadgv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-15T10:55:45.953Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaai6y.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-15T09:47:44.568Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaids.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T09:47:44.568Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaids.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T08:12:44.459Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaab5i.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T08:12:44.459Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaab5i.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T07:27:45.633Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaais4.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T07:27:45.633Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaais4.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T04:40:45.940Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaais4.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-14T19:02:29.537Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakwp.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-14T19:02:29.537Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakwp.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-14T16:54:52.846Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaal0f.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-14T16:54:52.846Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaal0f.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-14T10:37:49.921Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaambr.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-14T10:37:49.921Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaambr.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-14T10:37:48.566Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaiyw.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-14T10:37:48.566Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaiyw.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-13T06:10:31.777Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaah1a.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-13T05:37:42.364Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaah7r.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-13T05:37:42.364Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaah7r.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-12T16:47:53.707Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaao8n.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-12T16:47:53.707Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaao8n.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-11T22:23:10.379Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaaofb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-08T22:30:46.410Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaakwl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-07T21:09:52.667Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaamaq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-07T12:13:17.307Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaf7r.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-07T12:13:17.307Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaf7r.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-07T12:13:15.506Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaahlw.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-07T12:13:15.506Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaahlw.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-07T05:08:32.890Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaafpl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-07T05:08:32.810Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaahlw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-07T05:08:32.603Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaakef.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-07T04:07:39.621Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaafx5.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-07T01:07:05.244Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaad_f.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-07T00:11:54.043Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaafpl.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-07T00:11:54.043Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaafpl.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-07T00:11:47.916Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaamr8.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-07T00:11:47.916Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaamr8.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-07T00:11:47.721Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaajf.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-07T00:11:47.721Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaajf.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-06T09:07:53.794Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaamjo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-06T09:07:53.034Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaageo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-06T01:06:21.237Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaah3c.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-05T13:05:54.147Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaagwu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-05T12:11:38.792Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaad_f.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-05T12:11:38.792Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaad_f.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-05T05:07:38.169Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaabk.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-05T05:07:38.080Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaamr8.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-04T21:06:45.289Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaont.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-04T01:06:23.640Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaas2.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-03T21:06:38.267Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaagm8.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-03T09:06:46.487Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaafgo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-03T01:06:14.228Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaang_.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-01T21:07:38.362Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaapuc.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-31T17:04:56.349Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaalc5.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-31T13:08:12.154Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaofz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-30T21:06:22.902Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaan8c.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-30T09:06:02.884Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaf7r.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-30T05:06:26.510Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaiaz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-30T05:06:25.885Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaajf.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-30T01:04:50.774Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaabzl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-30T01:04:48.803Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaahtr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-30T00:11:17.513Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaac3_.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-30T00:11:17.513Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaac3_.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-30T00:08:23.569Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaabzl.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-30T00:08:23.569Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaabzl.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-30T00:08:15.735Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaakn2.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-30T00:08:15.735Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaakn2.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-30T00:08:15.134Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaofz.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-30T00:08:15.134Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaofz.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-29T17:07:26.093Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaai9x.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-19T03:15:03.465Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaab89.z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-19T03:15:03.465Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaab89.z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-09-07T09:02:06.755Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "soa_server",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-09-07T09:02:06.755Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "soa_email",
+      "value": "master@facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-08-19T20:15:23.588Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaaisr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-08-12T07:52:52.156Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-08-12T07:52:52.156Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-07-19T19:29:44.173Z",
+      "domain": "nsquery.net",
+      "qname": "tmeaggaaaaaaaaaaaaaaaaaaaaaaafbu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-07-18T14:44:01.490Z",
+      "domain": "nsquery.net",
+      "qname": "z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-07-18T14:35:08.273Z",
+      "domain": "nsquery.net",
+      "qname": "9zjflaaaaaaaaaaaaaaaaaaaaaaaafve.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-07-16T04:17:28.972Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaadut.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-07-16T00:09:29.001Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaadt0.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-07-15T04:08:10.501Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaadkc.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-07-14T20:09:44.778Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaerl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-05-11T17:57:41.646Z",
+      "domain": "nsquery.net",
+      "qname": "ns4.nsquery.net",
+      "type": "ip",
+      "value": "217.182.205.43"
+    },
+    {
+      "last_seen": "2018-05-11T17:57:34.638Z",
+      "domain": "nsquery.net",
+      "qname": "ns3.nsquery.net",
+      "type": "ip",
+      "value": "217.182.205.43"
+    },
+    {
+      "last_seen": "2018-02-09T09:06:28.000Z",
+      "domain": "nsquery.net",
+      "qname": "gptoewaaaaaaaaaaaaaaaaaaaaaaaisf.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-11-22T10:00:32.000Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ip",
+      "value": "208.91.197.238"
+    },
+    {
+      "last_seen": "2017-11-22T02:26:32.000Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "txt",
+      "value": "\rv=spf1 a -all"
+    },
+    {
+      "last_seen": "2017-11-22T02:26:32.000Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ns",
+      "value": "ns2538.ztomy.com"
+    },
+    {
+      "last_seen": "2017-11-22T02:26:32.000Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "txt_base64",
+      "value": "DXY9c3BmMSBhIC1hbGw="
+    },
+    {
+      "last_seen": "2017-11-22T02:26:32.000Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "ns",
+      "value": "ns1538.ztomy.com"
+    },
+    {
+      "last_seen": "2017-11-22T02:26:31.000Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "soa_server",
+      "value": "ns1538.ztomy.com"
+    },
+    {
+      "last_seen": "2017-11-22T02:26:31.000Z",
+      "domain": "nsquery.net",
+      "qname": "nsquery.net",
+      "type": "soa_email",
+      "value": "abuse@opticaljungle.com"
+    },
+    {
+      "last_seen": "2017-11-20T14:33:00.000Z",
+      "domain": "nsquery.net",
+      "qname": "vmioyqaaaaaaaaaaaaaaaaaaaaaaabj-.z.nsquery.net",
+      "type": "ip",
+      "value": "208.91.197.238"
+    },
+    {
+      "last_seen": "2017-11-20T14:32:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "vmioyqaaaaaaaaaaaaaaaaaaaaaaapfi.z.nsquery.net",
+      "type": "ip",
+      "value": "208.91.197.238"
+    },
+    {
+      "last_seen": "2017-11-20T14:32:57.000Z",
+      "domain": "nsquery.net",
+      "qname": "vmioyqaaaaaaaaaaaaaaaaaaaaaaabjn.z.nsquery.net",
+      "type": "ip",
+      "value": "208.91.197.238"
+    },
+    {
+      "last_seen": "2017-11-20T09:55:35.000Z",
+      "domain": "nsquery.net",
+      "qname": "z.nsquery.net",
+      "type": "ip",
+      "value": "208.91.197.238"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:56.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabh4.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaalw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:53.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaap6d.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:48.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaam7r.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:47.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamze.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:45.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaalt1.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:42.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajas.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajjy.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:38.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahhj.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:38.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajsa.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:36.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagcu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:31.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaac5z.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:31.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacof.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:29.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabrj.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:28.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabap.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:19.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaldg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:14.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahzw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:14.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahic.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:12.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajbl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:12.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajj4.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:11.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaglb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:07.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagig.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:05.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafc3.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:05.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaexk.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:01.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaemr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:26:01.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaad69.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-28T20:25:57.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahv7.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-02T01:12:20.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamsv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-02T01:12:19.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaalve.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-02T01:12:17.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahue.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-02T01:12:16.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacyk.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-02T01:12:15.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaasw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-02T01:12:13.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaj-d.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-09-02T01:12:13.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaijx.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T14:50:35.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadkr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T14:50:35.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeni.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T14:50:31.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakyg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T14:50:26.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeiw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T14:50:26.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadwn.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T14:50:24.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapr9.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T14:50:22.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapdl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:23.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabpw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:21.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaap5o.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:19.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaorz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:19.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaois.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:17.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaam63.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:15.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaail.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:15.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaz5.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:14.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaap3r.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:13.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaoyd.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:12.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaogv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:12.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaopc.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:10.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaam46.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:10.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamnm.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:08.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaak_x.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:08.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaliy.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:06.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaj6i.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:06.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajpo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:04.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaibz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:04.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaiss.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:03.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahwf.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:02.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagq3.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:33:01.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagzj.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaexu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafdb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaega.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:57.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadj4.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:55.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabyx.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:53.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakwa.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajik.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajz4.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:50.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahyc.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:48.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagax.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:45.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeho.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:43.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaac5y.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:43.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadlg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabr9.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabjq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:38.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapyz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:36.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanw-.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:32:34.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaami5.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:04:48.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaimg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:04:46.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagba.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:04:45.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeec.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:04:43.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaal4o.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:04:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaez-.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:04:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaftv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:04:39.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaomv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:04:38.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaangt.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T08:04:37.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajz3.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T07:35:58.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajqa.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T07:35:56.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaam7.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T07:35:56.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadcx.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T07:35:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahnm.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T07:35:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabo0.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T07:35:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaao3i.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T06:29:04.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaans4.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T06:29:03.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaak1f.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T06:29:02.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajtr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T06:28:58.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanmt.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T06:28:58.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaall1.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T06:28:56.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagrk.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T06:28:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaakg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T06:28:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaapi.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T06:28:51.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamxz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T06:28:49.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakkm.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:57:01.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacdo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa1z.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:56.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaao8p.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:55.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaan3b.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanlt.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaampl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaal94.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:32.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanfy.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:30.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamau.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:28.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakyo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:23.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaag3a.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:22.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafge.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:19.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadwb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:19.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaad4o.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:19.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadnv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:17.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaab-w.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:17.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacqt.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:14.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafb2.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:12.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeft.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:12.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaewn.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:56:12.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaad0a.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:27.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahjz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:26.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaag4f.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:25.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafy3.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:25.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafhj.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:24.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafqp.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:23.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaelb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:18.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaayu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:15.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaow5.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:14.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanz4.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:02.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaad3h.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:31:01.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacvs.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:30:56.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaam7a.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-24T00:30:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaah8l.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahsd.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahft.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaad0v.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaekl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:51.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacfg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:50.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaallg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:50.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajsb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:49.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaimp.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:48.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaisf.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:46.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahrk.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:46.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagfm.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:44.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacwz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:44.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacay.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:44.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabr_.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:42.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaosp.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:42.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaandg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-19T06:46:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaammg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-18T19:49:11.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaad07.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-18T19:49:09.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahmv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-18T19:49:06.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajbq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-14T22:50:13.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajxv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-14T22:50:11.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaesu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-14T22:50:06.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaai6e.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-14T22:50:04.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafmq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanwt.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:58.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamul.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:57.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaal9b.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:56.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakzz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:55.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakew.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:55.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajvj.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:51.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagah.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:49.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaekd.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:48.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaad2e.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:46.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaab5g.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:45.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaahb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:44.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaajy.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:44.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaap1p.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:42.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaan8a.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:40.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamtx.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:38.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaak-3.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:35.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaieo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:35.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaiw_.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:33.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagoq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:31.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafgl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:31.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafps.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:29.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadty.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:28.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadeg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:27.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabuy.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:26.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabfl.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:24.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapu-.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:24.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapnq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:22.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanhr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:20.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamrv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:19.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakze.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:18.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakdo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-08-10T05:07:18.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajyu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:05:23.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaild.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:05:22.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaah6k.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:05:15.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaab79.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:05:14.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabzw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:05:12.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaask.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:05:12.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapvj.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:05:03.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajgx.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:05:01.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaah4s.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:05:01.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaika.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagik.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:58.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaf_j.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:55.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadsp.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacvo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaada8.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabzg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:50.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapf9.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:50.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapxq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:48.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaojb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:48.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaoau.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:47.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaan4h.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:46.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamyp.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:44.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaalkz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:40.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaai_j.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:37.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamx6.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-27T14:04:35.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaken.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T22:22:36.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanlr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T22:22:34.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanwz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T22:22:32.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaarr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T22:22:29.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaofh.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T22:22:25.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadbr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T22:22:24.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacfy.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:03:21.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaosz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:03:19.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamqu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:03:15.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajbd.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:03:12.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahzn.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:03:11.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagcr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:03:08.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaec9.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:03:06.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadgb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:03:03.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa6w.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:03:01.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaps6.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaan8y.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaah2o.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:50.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagf2.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:50.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagoi.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:48.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeiz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:44.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabjn.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:43.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa8d.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaptp.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapk9.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaap2q.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:39.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaool.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:39.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaan83.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:37.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamj5.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-21T04:02:36.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaal-2.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:19:25.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakod.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:19:14.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaab0v.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:19:11.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaj0.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:19:11.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaap4g.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:19:07.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaam55.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:19:07.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamol.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:19:07.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanlm.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:19:02.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajy6.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:19:01.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaitr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:19:00.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahxe.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:18:58.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagzz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:18:56.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaex-.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:18:55.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaegq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:18:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadbc.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:18:51.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabhe.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:18:47.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaoqq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:18:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajqd.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:18:40.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajh2.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-18T17:18:40.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajzj.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:30.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaedr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:30.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeu1.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:26.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabv-.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:26.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabeq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:25.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabnw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:23.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaplr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:21.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaan9c.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:21.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaoov.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:20.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaam3e.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:17.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaksy.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:17.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaak-g.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:15.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajnj.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:15.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajwq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:13.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahua.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:10.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaggf.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:10.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaf0y.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:08.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaevj.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:08.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaem8.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:06.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaac2a.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:06.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadhu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:04.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabok.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:52:01.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapvb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaantw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:55.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakuv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:55.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaalac.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:53.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajyn.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:51.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahwx.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:50.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahnw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:48.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaf3o.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:46.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaad-f.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:46.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaepy.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:46.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaegs.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:44.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacni.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:43.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacwp.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:42.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabra.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-07-13T13:51:41.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaatq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:09:33.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaesv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:09:32.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaebc.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:09:30.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacyo.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:09:28.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabtz.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:09:25.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapzc.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:09:05.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacvd.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:09:04.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacej.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:09:03.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabyr.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:08:58.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaoih.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:08:54.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaal8m.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:08:53.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaak3i.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:08:52.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakur.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:08:50.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaai9b.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-22T02:08:45.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaf9r.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:11:05.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaahu5.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:11:03.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaaea4.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:11:03.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaaluw.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:11:00.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaalmc.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:58.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaabzm.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:57.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaakfu.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:57.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaage0.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:51.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaapvg.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:51.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaaij8.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:51.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaanzv.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:50.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaafpx.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:49.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaamtb.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:47.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaaabm.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:46.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaagol.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:45.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaaa2p.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-06-10T01:10:39.000Z",
+      "domain": "nsquery.net",
+      "qname": "uz7kfaaaaaaaaaaaaaaaaaaaaaaaaial.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-05-19T12:45:28.000Z",
+      "domain": "nsquery.net",
+      "qname": "z.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-05-19T12:45:28.000Z",
+      "domain": "nsquery.net",
+      "qname": "z.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-04-11T19:48:42.000Z",
+      "domain": "nsquery.net",
+      "qname": "www.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:48:39.000Z",
+      "domain": "nsquery.net",
+      "qname": "email.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:48:38.000Z",
+      "domain": "nsquery.net",
+      "qname": "pop.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:48:00.000Z",
+      "domain": "nsquery.net",
+      "qname": "imap.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:47:58.000Z",
+      "domain": "nsquery.net",
+      "qname": "intranet.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:47:57.000Z",
+      "domain": "nsquery.net",
+      "qname": "ftp.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:46:19.000Z",
+      "domain": "nsquery.net",
+      "qname": "sql.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:46:16.000Z",
+      "domain": "nsquery.net",
+      "qname": "webmail.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:46:03.000Z",
+      "domain": "nsquery.net",
+      "qname": "wildcard-in-use.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:45:53.000Z",
+      "domain": "nsquery.net",
+      "qname": "kosiekramervatdie.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:45:39.000Z",
+      "domain": "nsquery.net",
+      "qname": "xml.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:45:38.000Z",
+      "domain": "nsquery.net",
+      "qname": "pub.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:45:38.000Z",
+      "domain": "nsquery.net",
+      "qname": "ntp.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:45:37.000Z",
+      "domain": "nsquery.net",
+      "qname": "admin.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T19:45:35.000Z",
+      "domain": "nsquery.net",
+      "qname": "z.nsquery.net",
+      "type": "soa_server",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-04-11T19:45:35.000Z",
+      "domain": "nsquery.net",
+      "qname": "z.nsquery.net",
+      "type": "soa_email",
+      "value": "master@facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-04-11T19:45:35.000Z",
+      "domain": "nsquery.net",
+      "qname": "mail.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-02-17T04:35:47.000Z",
+      "domain": "nsquery.net",
+      "qname": "www.nsquery.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-02-17T04:35:47.000Z",
+      "domain": "nsquery.net",
+      "qname": "www.nsquery.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2016-10-22T05:20:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahf2.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2016-10-22T05:20:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqqaaaaaaaeaaaaaaaaaaaaaahz3.aaaaadwaaaayaaaaejzz8pd1zfitxcgabawmdkhfquvixiyptpymdevz1te1lw.mbiymjmwmocliaaan10lhq.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2016-10-22T05:20:59.000Z",
+      "domain": "nsquery.net",
+      "qname": "h3v4yqaaaaaaaaaaaaaaaaaaaaaaah2x.z.nsquery.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "info": "39 results found.",
+  "total": 39,
+  "returning": 39,
+  "results": [
+    {
+      "last_seen": "2021-04-23T02:53:19.023Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "domain",
+      "value": "phillippcliche.com"
+    },
+    {
+      "last_seen": "2021-04-23T02:53:19.023Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ip",
+      "value": "209.141.38.71"
+    },
+    {
+      "last_seen": "2021-04-23T02:53:19.023Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ip",
+      "value": "192.161.187.200"
+    },
+    {
+      "last_seen": "2021-04-23T02:53:19.023Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ip",
+      "value": "107.161.23.204"
+    },
+    {
+      "last_seen": "2021-04-18T15:21:42.777Z",
+      "domain": "phillippcliche.com",
+      "qname": "z.phillippcliche.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-16T17:03:13.704Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-14T02:33:12.666Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ip",
+      "value": "99.81.40.78"
+    },
+    {
+      "last_seen": "2021-04-13T14:00:19.520Z",
+      "domain": "phillippcliche.com",
+      "qname": "ns1.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-13T09:47:37.735Z",
+      "domain": "phillippcliche.com",
+      "qname": "tgu2lwaaaaaaaaaaaaaaaaaaaaaaalda.z.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-13T00:47:35.725Z",
+      "domain": "phillippcliche.com",
+      "qname": "ns2.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-12T14:49:26.739Z",
+      "domain": "phillippcliche.com",
+      "qname": "tgu2lwaaaaaaaaaaaaaaaaaaaaaaakm4.z.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-12T14:23:19.799Z",
+      "domain": "phillippcliche.com",
+      "qname": "tgu2lwaaaaaaaaaaaaaaaaaaaaaaamdo.z.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-11T19:33:09.486Z",
+      "domain": "phillippcliche.com",
+      "qname": "tgu2lwaaaaaaaaaaaaaaaaaaaaaaaa-f.z.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-10T06:36:40.348Z",
+      "domain": "phillippcliche.com",
+      "qname": "z.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-09T08:02:00.459Z",
+      "domain": "phillippcliche.com",
+      "qname": "tgu2lwaaaaaaaaaaaaaaaaaaaaaaajsn.z.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-08T22:51:35.682Z",
+      "domain": "phillippcliche.com",
+      "qname": "www.z.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-08T12:58:08.667Z",
+      "domain": "phillippcliche.com",
+      "qname": "tgu2lwaaaaaaaaaaaaaaaaaaaaaaageg.z.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-07T08:07:27.789Z",
+      "domain": "phillippcliche.com",
+      "qname": "ns2.phillippcliche.com",
+      "type": "name",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-07T08:07:27.789Z",
+      "domain": "phillippcliche.com",
+      "qname": "ns2.phillippcliche.com",
+      "type": "ip",
+      "value": "99.81.40.78"
+    },
+    {
+      "last_seen": "2021-04-06T01:09:44.047Z",
+      "domain": "phillippcliche.com",
+      "qname": "g9pnggaaaaaaaaaaaaaaaaaaaaaaafok.z.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-04-05T11:17:53.001Z",
+      "domain": "phillippcliche.com",
+      "qname": "z.phillippcliche.com",
+      "type": "cname",
+      "value": "869710.parkingcrew.net"
+    },
+    {
+      "last_seen": "2021-03-04T01:42:45.885Z",
+      "domain": "phillippcliche.com",
+      "qname": "ns2.phillippcliche.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-01-17T04:29:49.036Z",
+      "domain": "phillippcliche.com",
+      "qname": "ns1.phillippcliche.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-08-16T08:15:16.884Z",
+      "domain": "phillippcliche.com",
+      "qname": "ns1.phillippcliche.com",
+      "type": "ip",
+      "value": "179.43.144.132"
+    },
+    {
+      "last_seen": "2019-08-10T13:50:44.213Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-08-10T13:50:44.213Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-06-07T22:52:24.469Z",
+      "domain": "phillippcliche.com",
+      "qname": "ns1.phillippcliche.com",
+      "type": "ip",
+      "value": "185.181.104.82"
+    },
+    {
+      "last_seen": "2019-06-02T09:04:26.625Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2018-11-17T12:22:39.379Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ns",
+      "value": "ns2.phillippcliche.com"
+    },
+    {
+      "last_seen": "2018-11-17T12:22:39.379Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ns",
+      "value": "ns1.phillippcliche.com"
+    },
+    {
+      "last_seen": "2017-11-16T03:19:41.000Z",
+      "domain": "phillippcliche.com",
+      "qname": "ns2.phillippcliche.com",
+      "type": "ip",
+      "value": "149.56.113.214"
+    },
+    {
+      "last_seen": "2017-11-16T03:19:37.000Z",
+      "domain": "phillippcliche.com",
+      "qname": "ns1.phillippcliche.com",
+      "type": "ip",
+      "value": "149.56.113.214"
+    },
+    {
+      "last_seen": "2017-04-10T23:43:56.000Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ns",
+      "value": "ns4.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T23:43:56.000Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ns",
+      "value": "ns3.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T23:43:56.000Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ns",
+      "value": "ns5.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T23:43:56.000Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ns",
+      "value": "ns2.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T23:43:56.000Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "ns",
+      "value": "ns1.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T10:55:56.000Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "soa_server",
+      "value": "ns1.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T10:55:56.000Z",
+      "domain": "phillippcliche.com",
+      "qname": "phillippcliche.com",
+      "type": "soa_email",
+      "value": "hostmaster@he.net"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "info": "15 results found.",
+  "total": 15,
+  "returning": 15,
+  "results": [
+    {
+      "last_seen": "2021-04-13T11:07:43.168Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "domain",
+      "value": "mygoodcafe.com"
+    },
+    {
+      "last_seen": "2021-02-10T01:43:53.356Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-11-19T18:14:03.656Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "soa_server",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-11-19T18:14:03.656Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "soa_email",
+      "value": "master@dev.com"
+    },
+    {
+      "last_seen": "2020-06-24T16:09:40.150Z",
+      "domain": "mygoodcafe.com",
+      "qname": "ns2.mygoodcafe.com",
+      "type": "ip",
+      "value": "142.11.236.113"
+    },
+    {
+      "last_seen": "2019-08-04T00:38:42.129Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-08-04T00:38:42.129Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-04-16T18:36:18.214Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "ip",
+      "value": "142.11.236.113"
+    },
+    {
+      "last_seen": "2019-04-16T06:13:07.583Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "soa_email",
+      "value": "hostmaster@he.net"
+    },
+    {
+      "last_seen": "2019-04-16T06:13:07.583Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "soa_server",
+      "value": "ns1.he.net"
+    },
+    {
+      "last_seen": "2019-04-09T15:56:39.796Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "ns",
+      "value": "ns3.he.net"
+    },
+    {
+      "last_seen": "2019-04-09T15:56:39.796Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "ns",
+      "value": "ns4.he.net"
+    },
+    {
+      "last_seen": "2019-04-09T15:56:39.796Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "ns",
+      "value": "ns5.he.net"
+    },
+    {
+      "last_seen": "2019-04-09T15:56:39.796Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "ns",
+      "value": "ns2.he.net"
+    },
+    {
+      "last_seen": "2019-04-09T15:56:39.796Z",
+      "domain": "mygoodcafe.com",
+      "qname": "mygoodcafe.com",
+      "type": "ns",
+      "value": "ns1.he.net"
+    }
+  ]
+}

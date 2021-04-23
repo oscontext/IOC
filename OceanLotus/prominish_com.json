@@ -1,0 +1,28 @@
+{
+  "info": "3 results found.",
+  "total": 3,
+  "returning": 3,
+  "results": [
+    {
+      "last_seen": "2021-04-20T09:30:26.395Z",
+      "domain": "prominish.com",
+      "qname": "prominish.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-20T09:30:26.395Z",
+      "domain": "prominish.com",
+      "qname": "prominish.com",
+      "type": "domain",
+      "value": "prominish.com"
+    },
+    {
+      "last_seen": "2021-01-01T03:25:22.310Z",
+      "domain": "prominish.com",
+      "qname": "ns1.prominish.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    }
+  ]
+}

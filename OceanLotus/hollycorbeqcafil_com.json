@@ -1,0 +1,70 @@
+{
+  "info": "9 results found.",
+  "total": 9,
+  "returning": 9,
+  "results": [
+    {
+      "last_seen": "2021-04-13T06:52:35.600Z",
+      "domain": "hollycorbeqcafil.com",
+      "qname": "hollycorbeqcafil.com",
+      "type": "domain",
+      "value": "hollycorbeqcafil.com"
+    },
+    {
+      "last_seen": "2020-09-11T07:35:44.200Z",
+      "domain": "hollycorbeqcafil.com",
+      "qname": "hollycorbeqcafil.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-08-26T15:14:34.246Z",
+      "domain": "hollycorbeqcafil.com",
+      "qname": "ns2.hollycorbeqcafil.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-08-26T15:14:34.246Z",
+      "domain": "hollycorbeqcafil.com",
+      "qname": "ns2.hollycorbeqcafil.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-23T09:45:38.312Z",
+      "domain": "hollycorbeqcafil.com",
+      "qname": "hollycorbeqcafil.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-23T09:45:38.312Z",
+      "domain": "hollycorbeqcafil.com",
+      "qname": "hollycorbeqcafil.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-21T19:00:14.509Z",
+      "domain": "hollycorbeqcafil.com",
+      "qname": "ns1.hollycorbeqcafil.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-07-13T07:42:56.614Z",
+      "domain": "hollycorbeqcafil.com",
+      "qname": "hollycorbeqcafil.com",
+      "type": "ns",
+      "value": "ns1.hollycorbeqcafil.com"
+    },
+    {
+      "last_seen": "2019-07-13T07:42:56.614Z",
+      "domain": "hollycorbeqcafil.com",
+      "qname": "hollycorbeqcafil.com",
+      "type": "ns",
+      "value": "ns2.hollycorbeqcafil.com"
+    }
+  ]
+}

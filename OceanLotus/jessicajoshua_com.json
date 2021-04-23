@@ -1,0 +1,677 @@
+{
+  "info": "96 results found.",
+  "total": 96,
+  "returning": 96,
+  "results": [
+    {
+      "last_seen": "2021-04-23T01:38:17.106Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "domain",
+      "value": "jessicajoshua.com"
+    },
+    {
+      "last_seen": "2021-04-23T01:38:17.106Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ip",
+      "value": "107.161.23.204"
+    },
+    {
+      "last_seen": "2021-04-23T01:38:17.106Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ip",
+      "value": "209.141.38.71"
+    },
+    {
+      "last_seen": "2021-04-23T01:38:17.106Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ip",
+      "value": "192.161.187.200"
+    },
+    {
+      "last_seen": "2021-04-19T08:17:36.592Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-14T02:01:58.099Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaalgq.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-14T02:00:45.155Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaj4i.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-14T01:18:10.524Z",
+      "domain": "jessicajoshua.com",
+      "qname": "ns2.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-13T14:00:03.081Z",
+      "domain": "jessicajoshua.com",
+      "qname": "y3n8qaaaaaaaaaaaaaaaaaaaaaaaahwy.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-12T18:18:02.983Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-12T08:00:18.784Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamsd.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-11T20:04:54.488Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamis.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-11T11:52:23.627Z",
+      "domain": "jessicajoshua.com",
+      "qname": "z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-09T20:00:08.708Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamcb.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-09T18:15:44.506Z",
+      "domain": "jessicajoshua.com",
+      "qname": "ns1.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-09T08:00:07.468Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaam-h.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-08T20:00:07.760Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapzc.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-08T12:31:28.795Z",
+      "domain": "jessicajoshua.com",
+      "qname": "blog.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-08T08:00:14.638Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaan6l.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-05T16:41:58.280Z",
+      "domain": "jessicajoshua.com",
+      "qname": "www.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "91.195.240.12"
+    },
+    {
+      "last_seen": "2021-04-03T15:04:20.920Z",
+      "domain": "jessicajoshua.com",
+      "qname": "z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-03T03:23:08.847Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaani4.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-02T13:21:06.074Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaape.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-02T12:21:34.988Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahih.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2021-04-02T12:21:34.988Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahih.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2021-04-02T11:23:30.951Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahfu.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2021-04-02T11:23:30.951Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahfu.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2021-04-02T11:20:33.102Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakpv.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2021-04-02T11:20:33.102Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaakpv.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2021-03-02T08:26:17.910Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2021-01-30T12:44:17.999Z",
+      "domain": "jessicajoshua.com",
+      "qname": "ns2.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-01-12T02:10:43.369Z",
+      "domain": "jessicajoshua.com",
+      "qname": "ns1.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-10-08T01:50:57.122Z",
+      "domain": "jessicajoshua.com",
+      "qname": "ns1.jessicajoshua.com",
+      "type": "ip",
+      "value": "128.199.139.26"
+    },
+    {
+      "last_seen": "2020-03-18T12:41:35.261Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacnu.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-18T12:41:35.261Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacnu.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-18T12:41:34.382Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajtt.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T20:41:37.869Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadba.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T20:41:37.869Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaadba.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T20:41:35.229Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacjo.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T12:42:58.838Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaao2k.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T12:42:58.838Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaao2k.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T12:42:55.328Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaddv.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T12:42:55.328Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaddv.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T12:42:13.144Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaallb.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T12:42:13.144Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaallb.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T12:42:01.954Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajpx.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T12:42:01.954Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajpx.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T12:42:00.065Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamg_.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T12:42:00.065Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaamg_.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T12:41:34.813Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajpx.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T08:42:56.645Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaoyi.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T08:42:55.581Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaan6w.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T08:42:55.581Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaan6w.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T08:42:55.268Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafze.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T08:41:52.914Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabn5.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T08:41:52.914Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabn5.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T08:41:37.998Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapxz.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T08:41:36.492Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaam-x.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T06:46:55.064Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaablf.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T06:46:55.064Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaablf.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T06:43:16.844Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaixv.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T06:43:16.844Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaixv.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T06:43:14.524Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaffx.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T06:43:14.524Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaffx.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T06:41:37.867Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaait8.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T06:41:34.993Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeje.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T06:41:31.496Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaapt8.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T05:43:05.971Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagrq.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T05:41:47.891Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacjo.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T05:41:47.891Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacjo.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T04:56:34.170Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaafba.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T04:47:19.284Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaega.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T04:43:49.739Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaf9j.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T04:43:37.114Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaauw.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T04:43:37.114Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaauw.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T04:43:36.834Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajtt.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-17T04:43:36.834Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaajtt.z.jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-17T02:58:31.139Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaad7h.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-17T02:58:30.911Z",
+      "domain": "jessicajoshua.com",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaao2k.z.jessicajoshua.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-02-18T10:34:12.265Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-02-18T10:34:12.265Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-11-11T12:08:47.216Z",
+      "domain": "jessicajoshua.com",
+      "qname": "ns2.jessicajoshua.com",
+      "type": "ip",
+      "value": "179.43.144.132"
+    },
+    {
+      "last_seen": "2019-05-18T09:41:22.617Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.jessicajoshua.com"
+    },
+    {
+      "last_seen": "2019-05-18T09:41:22.617Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.jessicajoshua.com"
+    },
+    {
+      "last_seen": "2019-01-22T14:37:08.199Z",
+      "domain": "jessicajoshua.com",
+      "qname": "z.jessicajoshua.com",
+      "type": "aaaa",
+      "value": "::ffff:146.112.61.110"
+    },
+    {
+      "last_seen": "2019-01-22T14:37:08.198Z",
+      "domain": "jessicajoshua.com",
+      "qname": "z.jessicajoshua.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2017-11-17T02:57:38.000Z",
+      "domain": "jessicajoshua.com",
+      "qname": "ns1.jessicajoshua.com",
+      "type": "ip",
+      "value": "149.56.113.214"
+    },
+    {
+      "last_seen": "2017-04-10T23:33:49.000Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ns",
+      "value": "ns1.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T23:33:49.000Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ns",
+      "value": "ns3.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T23:33:49.000Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ns",
+      "value": "ns5.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T23:33:49.000Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ns",
+      "value": "ns2.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T23:33:49.000Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ns",
+      "value": "ns4.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T10:55:56.000Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "soa_email",
+      "value": "hostmaster@he.net"
+    },
+    {
+      "last_seen": "2017-04-10T10:55:56.000Z",
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "soa_server",
+      "value": "ns1.he.net"
+    },
+    {
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ip",
+      "value": "198.105.254.11"
+    },
+    {
+      "domain": "jessicajoshua.com",
+      "qname": "jessicajoshua.com",
+      "type": "ip",
+      "value": "198.105.244.11"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "info": "14 results found.",
+  "total": 14,
+  "returning": 14,
+  "results": [
+    {
+      "last_seen": "2021-04-14T21:55:01.121Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "domain",
+      "value": "paymentsgames.com"
+    },
+    {
+      "last_seen": "2021-04-11T21:23:05.196Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-07-15T15:09:34.084Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-07-15T15:09:34.084Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-04-07T12:46:23.771Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ip",
+      "value": "54.72.130.67"
+    },
+    {
+      "last_seen": "2019-04-16T18:54:13.631Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ip",
+      "value": "162.255.119.253"
+    },
+    {
+      "last_seen": "2019-04-16T10:45:19.078Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ns",
+      "value": "freedns5.registrar-servers.com"
+    },
+    {
+      "last_seen": "2019-04-16T10:45:19.078Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ns",
+      "value": "freedns2.registrar-servers.com"
+    },
+    {
+      "last_seen": "2019-04-16T10:45:19.078Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ns",
+      "value": "freedns1.registrar-servers.com"
+    },
+    {
+      "last_seen": "2019-04-16T10:45:19.078Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ns",
+      "value": "freedns3.registrar-servers.com"
+    },
+    {
+      "last_seen": "2019-04-16T10:45:19.078Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ns",
+      "value": "freedns4.registrar-servers.com"
+    },
+    {
+      "last_seen": "2019-04-14T01:06:37.021Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "soa_email",
+      "value": "hostmaster@registrar-servers.com"
+    },
+    {
+      "last_seen": "2019-04-14T01:06:37.021Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "soa_server",
+      "value": "freedns1.registrar-servers.com"
+    },
+    {
+      "last_seen": "2019-04-13T12:23:00.652Z",
+      "domain": "paymentsgames.com",
+      "qname": "paymentsgames.com",
+      "type": "ip",
+      "value": "104.168.215.122"
+    }
+  ]
+}

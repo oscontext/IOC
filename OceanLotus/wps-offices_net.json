@@ -1,0 +1,126 @@
+{
+  "info": "17 results found.",
+  "total": 17,
+  "returning": 17,
+  "results": [
+    {
+      "last_seen": "2021-04-13T02:45:06.533Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "domain",
+      "value": "wps-offices.net"
+    },
+    {
+      "last_seen": "2021-03-07T01:00:56.373Z",
+      "domain": "wps-offices.net",
+      "qname": "ns1.wps-offices.net",
+      "type": "ip",
+      "value": "83.136.106.254"
+    },
+    {
+      "last_seen": "2021-02-27T05:19:21.126Z",
+      "domain": "wps-offices.net",
+      "qname": "ns2.wps-offices.net",
+      "type": "ip",
+      "value": "83.136.106.254"
+    },
+    {
+      "last_seen": "2020-04-02T01:56:38.640Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-26T22:39:37.249Z",
+      "domain": "wps-offices.net",
+      "qname": "ns1.wps-offices.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-09T19:30:47.053Z",
+      "domain": "wps-offices.net",
+      "qname": "ns2.wps-offices.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-02-22T12:57:13.217Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "ns",
+      "value": "ns1.wps-offices.net"
+    },
+    {
+      "last_seen": "2020-02-22T12:57:13.217Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "ns",
+      "value": "ns2.wps-offices.net"
+    },
+    {
+      "last_seen": "2020-01-03T00:54:42.679Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-01-03T00:54:42.679Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-03-01T03:23:12.357Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "soa_email",
+      "value": "hostmaster@he.net"
+    },
+    {
+      "last_seen": "2019-03-01T03:23:12.357Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "soa_server",
+      "value": "ns1.he.net"
+    },
+    {
+      "last_seen": "2019-02-20T03:26:55.108Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "ns",
+      "value": "ns3.he.net"
+    },
+    {
+      "last_seen": "2019-02-20T03:26:55.108Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "ns",
+      "value": "ns4.he.net"
+    },
+    {
+      "last_seen": "2019-02-20T03:26:55.108Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "ns",
+      "value": "ns2.he.net"
+    },
+    {
+      "last_seen": "2019-02-20T03:26:55.108Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "ns",
+      "value": "ns5.he.net"
+    },
+    {
+      "last_seen": "2019-02-20T03:26:55.108Z",
+      "domain": "wps-offices.net",
+      "qname": "wps-offices.net",
+      "type": "ns",
+      "value": "ns1.he.net"
+    }
+  ]
+}

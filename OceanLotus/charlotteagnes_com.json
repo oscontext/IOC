@@ -1,0 +1,84 @@
+{
+  "info": "11 results found.",
+  "total": 11,
+  "returning": 11,
+  "results": [
+    {
+      "last_seen": "2021-04-10T21:18:34.442Z",
+      "domain": "charlotteagnes.com",
+      "qname": "charlotteagnes.com",
+      "type": "domain",
+      "value": "charlotteagnes.com"
+    },
+    {
+      "last_seen": "2021-01-16T07:36:05.840Z",
+      "domain": "charlotteagnes.com",
+      "qname": "ns2.charlotteagnes.com",
+      "type": "ip",
+      "value": "51.161.96.101"
+    },
+    {
+      "last_seen": "2020-07-29T10:36:34.050Z",
+      "domain": "charlotteagnes.com",
+      "qname": "charlotteagnes.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-07-11T19:54:23.562Z",
+      "domain": "charlotteagnes.com",
+      "qname": "charlotteagnes.com",
+      "type": "ns",
+      "value": "ns2.charlotteagnes.com"
+    },
+    {
+      "last_seen": "2020-07-11T19:54:23.562Z",
+      "domain": "charlotteagnes.com",
+      "qname": "charlotteagnes.com",
+      "type": "ns",
+      "value": "ns1.charlotteagnes.com"
+    },
+    {
+      "last_seen": "2020-06-30T09:45:30.452Z",
+      "domain": "charlotteagnes.com",
+      "qname": "charlotteagnes.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-06-30T09:45:30.452Z",
+      "domain": "charlotteagnes.com",
+      "qname": "charlotteagnes.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-06-07T02:01:25.446Z",
+      "domain": "charlotteagnes.com",
+      "qname": "blog.charlotteagnes.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-10-19T06:23:15.583Z",
+      "domain": "charlotteagnes.com",
+      "qname": "charlotteagnes.com",
+      "type": "aaaa",
+      "value": "::ffff:146.112.61.110"
+    },
+    {
+      "last_seen": "2019-10-19T06:23:15.564Z",
+      "domain": "charlotteagnes.com",
+      "qname": "charlotteagnes.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2019-07-05T02:50:45.759Z",
+      "domain": "charlotteagnes.com",
+      "qname": "www.charlotteagnes.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    }
+  ]
+}

@@ -1,0 +1,1078 @@
+{
+  "info": "153 results found.",
+  "total": 153,
+  "returning": 153,
+  "results": [
+    {
+      "last_seen": "2021-04-23T01:13:52.155Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "domain",
+      "value": "facebook-cdn.net"
+    },
+    {
+      "last_seen": "2021-04-14T13:40:25.115Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns3.facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2021-04-13T09:16:02.998Z",
+      "domain": "facebook-cdn.net",
+      "qname": "z.facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2021-02-26T12:36:17.325Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns1.facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2021-02-24T03:48:00.953Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2021-02-14T13:38:58.993Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns4.facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2021-02-10T11:58:18.856Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns2.facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2021-01-03T08:07:21.727Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns3.facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.107"
+    },
+    {
+      "last_seen": "2021-01-02T03:27:32.492Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.107"
+    },
+    {
+      "last_seen": "2020-12-27T01:25:02.917Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns4.facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.107"
+    },
+    {
+      "last_seen": "2020-12-24T13:01:40.556Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns1.facebook-cdn.net",
+      "type": "ip",
+      "value": "80.255.3.89"
+    },
+    {
+      "last_seen": "2020-12-23T03:56:54.073Z",
+      "domain": "facebook-cdn.net",
+      "qname": "z.facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.107"
+    },
+    {
+      "last_seen": "2020-12-17T13:03:20.887Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns2.facebook-cdn.net",
+      "type": "ip",
+      "value": "80.255.3.89"
+    },
+    {
+      "last_seen": "2020-09-15T13:41:07.073Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-09-14T06:40:51.649Z",
+      "domain": "facebook-cdn.net",
+      "qname": "z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-09-09T00:33:49.127Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns1.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-09-09T00:33:48.467Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns2.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-09-06T14:54:03.559Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-09-06T14:54:03.559Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-08-31T08:31:15.495Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns3.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-08-16T11:01:18.835Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns4.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-07-26T10:23:15.816Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns2.facebook-cdn.net",
+      "type": "ip",
+      "value": "146.112.61.107"
+    },
+    {
+      "last_seen": "2020-07-25T06:28:14.774Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns4.facebook-cdn.net",
+      "type": "ip",
+      "value": "54.241.4.132"
+    },
+    {
+      "last_seen": "2019-12-09T14:41:12.303Z",
+      "domain": "facebook-cdn.net",
+      "qname": "*.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-11-24T20:06:18.356Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ip",
+      "value": "162.219.51.2"
+    },
+    {
+      "last_seen": "2019-11-01T12:18:21.802Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns4.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-11-01T12:18:21.802Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns4.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-09-04T15:37:19.061Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2019-09-04T15:37:19.061Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2019-08-06T09:55:33.682Z",
+      "domain": "facebook-cdn.net",
+      "qname": "www.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-06-18T12:18:09.684Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaecu.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2019-06-18T12:18:09.684Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaecu.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2018-11-16T14:10:52.487Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabf6.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-16T08:37:49.180Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacrl.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T08:37:49.180Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacrl.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T08:32:45.141Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahwn.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T08:32:45.141Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahwn.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T07:45:49.422Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaozy.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-16T02:05:56.301Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaewl.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-16T01:37:53.035Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanos.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T01:37:53.035Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanos.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T01:17:50.435Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa6r.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T01:17:50.435Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa6r.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T01:02:49.301Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabtp.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T01:02:49.301Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaabtp.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-16T00:30:54.420Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaah17.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-15T18:05:47.495Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaao5.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-15T16:17:45.892Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacvb.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T16:17:45.892Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaacvb.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T15:44:59.589Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagqs.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T15:44:59.589Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaagqs.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-15T10:15:45.681Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaanxx.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-14T17:52:25.289Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahyt.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-14T17:52:25.289Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahyt.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-14T17:47:42.722Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaajg.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-14T17:47:42.722Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaajg.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-13T00:12:45.589Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahpi.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-13T00:12:45.589Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahpi.z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-11-11T21:58:47.305Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaeec.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-11-11T21:58:32.286Z",
+      "domain": "facebook-cdn.net",
+      "qname": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaahp8.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-10-08T22:08:09.403Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns3.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-08T22:08:09.403Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns3.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-10-08T22:05:56.362Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns1.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-07-24T17:53:29.239Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ftp.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-07-24T15:10:11.183Z",
+      "domain": "facebook-cdn.net",
+      "qname": "meta2.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-07-24T14:45:15.080Z",
+      "domain": "facebook-cdn.net",
+      "qname": "content.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-07-19T19:23:29.149Z",
+      "domain": "facebook-cdn.net",
+      "qname": "data.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-07-16T10:00:49.367Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "soa_server",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-07-16T10:00:49.367Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "soa_email",
+      "value": "master@facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-07-14T10:15:47.813Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ns",
+      "value": "ns4.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-07-14T10:15:47.813Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ns",
+      "value": "ns3.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2018-07-10T18:09:38.585Z",
+      "domain": "facebook-cdn.net",
+      "qname": "meta.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-05-12T00:57:46.103Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns4.facebook-cdn.net",
+      "type": "ip",
+      "value": "217.182.205.43"
+    },
+    {
+      "last_seen": "2018-05-11T19:57:40.772Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns3.facebook-cdn.net",
+      "type": "ip",
+      "value": "217.182.205.43"
+    },
+    {
+      "last_seen": "2018-03-11T20:06:44.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "wiki.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2018-01-20T03:12:11.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ip",
+      "value": "195.46.39.1"
+    },
+    {
+      "last_seen": "2017-11-25T12:23:50.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ns",
+      "value": "ns4.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-11-25T12:23:50.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ns",
+      "value": "ns3.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-09-20T04:35:37.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.ceptumex.com"
+    },
+    {
+      "last_seen": "2017-09-20T04:35:37.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.ceptumex.com"
+    },
+    {
+      "last_seen": "2017-08-19T11:22:26.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "adf50622-84d0-11e7-ada7-3640b5de9697.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-05-27T20:27:32.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "test.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-05-27T19:55:51.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "wp.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-05-27T18:38:53.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "blog.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-05-27T16:20:11.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "news.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:14:34.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "pub.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:14:30.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "kosiekramervatdie.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:13:54.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "xml.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:13:54.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ssh.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:13:54.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "webaccess.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:13:52.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "dmz.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:13:50.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "webmail.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:12:25.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "route.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:12:12.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "mx1.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:12:11.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "web.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:12:11.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "intranet.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:12:10.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:45.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "sql.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:44.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "dns.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:44.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "admin.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:44.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "forum.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:42.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "thiswonteverreallyexist.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:40.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "www.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:31.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns1.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:31.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "pop.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:30.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "mx.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:20.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns2.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:20.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "z.facebook-cdn.net",
+      "type": "ns",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-04-11T21:11:01.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "wildcard-in-use.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:58.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "imap.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:56.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "blog.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:56.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ntp.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:56.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "email.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:55.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "smtp.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:55.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "secure.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:54.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ftp.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:54.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "gateway.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:53.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "z.facebook-cdn.net",
+      "type": "soa_email",
+      "value": "master@facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:53.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "z.facebook-cdn.net",
+      "type": "soa_server",
+      "value": "ns1.facebook-cdn.net"
+    },
+    {
+      "last_seen": "2017-04-11T21:09:53.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "mail.z.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:11:22.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ssh.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:11:22.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "imap.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:45.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "email.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:42.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "sql.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:42.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "route.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:41.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "forum.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:41.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "admin.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:32.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "pop.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:31.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "gateway.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:27.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "mx1.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:26.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "extranet.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:25.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:10:25.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "mx.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:09:49.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "pub.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:09:49.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "xml.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:09:49.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ntp.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:09:49.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "webaccess.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:09:48.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "dns.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:09:47.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "smtp.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:09:47.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "intranet.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T19:09:46.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "mail.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T18:57:11.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "web.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T18:57:10.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "webmail.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T18:57:10.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "kosiekramervatdie.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T18:56:50.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "thiswonteverreallyexist.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2017-04-10T18:53:58.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "dmz.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2016-05-23T13:36:38.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns23.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2016-05-23T13:36:38.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "ns21.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2016-05-23T13:35:53.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "wwwns1.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2016-05-23T13:35:42.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "nx1.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2016-05-23T13:35:42.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "nss1.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2016-05-23T13:35:21.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "nxs1.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2016-05-23T13:35:21.000Z",
+      "domain": "facebook-cdn.net",
+      "qname": "nys1.facebook-cdn.net",
+      "type": "ip",
+      "value": "127.0.0.1"
+    }
+  ]
+}

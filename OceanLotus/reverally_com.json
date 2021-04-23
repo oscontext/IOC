@@ -1,0 +1,96 @@
+{
+  "info": "13 results found.",
+  "total": 13,
+  "returning": 13,
+  "results": [
+    {
+      "last_seen": "2021-04-15T02:55:52.326Z",
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "domain",
+      "value": "reverally.com"
+    },
+    {
+      "last_seen": "2021-04-15T02:55:52.326Z",
+      "domain": "reverally.com",
+      "qname": "ns1.reverally.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-11T19:43:40.451Z",
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2016-10-01T05:39:18.000Z",
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "ip",
+      "value": "104.239.213.7"
+    },
+    {
+      "last_seen": "2016-10-01T05:39:18.000Z",
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "ip",
+      "value": "198.105.254.11"
+    },
+    {
+      "last_seen": "2016-04-17T09:45:30.000Z",
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "ip",
+      "value": "98.124.243.38"
+    },
+    {
+      "last_seen": "2016-04-13T05:33:58.000Z",
+      "domain": "reverally.com",
+      "qname": "www.reverally.com",
+      "type": "ip",
+      "value": "98.124.243.38"
+    },
+    {
+      "last_seen": "2016-03-11T12:59:31.000Z",
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "mx",
+      "value": "p.nsm.ctmail.com"
+    },
+    {
+      "last_seen": "2016-03-07T10:51:44.000Z",
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "ip",
+      "value": "52.70.175.181"
+    },
+    {
+      "last_seen": "2016-02-26T22:19:52.000Z",
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "mx",
+      "value": "domain.not.configured"
+    },
+    {
+      "last_seen": "2016-01-31T06:11:46.000Z",
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "ip",
+      "value": "54.235.159.97"
+    },
+    {
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "ip",
+      "value": "54.241.25.193"
+    },
+    {
+      "domain": "reverally.com",
+      "qname": "reverally.com",
+      "type": "ip",
+      "value": "54.215.17.127"
+    }
+  ]
+}

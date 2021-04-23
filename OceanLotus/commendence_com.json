@@ -1,0 +1,28 @@
+{
+  "info": "3 results found.",
+  "total": 3,
+  "returning": 3,
+  "results": [
+    {
+      "last_seen": "2021-04-20T00:05:36.516Z",
+      "domain": "commendence.com",
+      "qname": "ns1.commendence.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-20T00:05:36.516Z",
+      "domain": "commendence.com",
+      "qname": "commendence.com",
+      "type": "domain",
+      "value": "commendence.com"
+    },
+    {
+      "last_seen": "2021-02-26T07:49:39.535Z",
+      "domain": "commendence.com",
+      "qname": "commendence.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    }
+  ]
+}

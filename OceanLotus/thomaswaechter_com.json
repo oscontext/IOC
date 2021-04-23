@@ -1,0 +1,217 @@
+{
+  "info": "30 results found.",
+  "total": 30,
+  "returning": 30,
+  "results": [
+    {
+      "last_seen": "2021-04-20T20:07:03.308Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "domain",
+      "value": "thomaswaechter.com"
+    },
+    {
+      "last_seen": "2021-04-20T20:07:03.308Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ip",
+      "value": "209.141.38.71"
+    },
+    {
+      "last_seen": "2021-04-20T20:07:03.308Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ip",
+      "value": "192.161.187.200"
+    },
+    {
+      "last_seen": "2021-04-20T20:07:03.308Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ip",
+      "value": "107.161.23.204"
+    },
+    {
+      "last_seen": "2021-04-17T12:56:37.629Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-12T14:18:55.445Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ip",
+      "value": "72.52.179.174"
+    },
+    {
+      "last_seen": "2021-04-11T23:17:00.654Z",
+      "domain": "thomaswaechter.com",
+      "qname": "ns2.thomaswaechter.com",
+      "type": "cname",
+      "value": "pltraffic32.com"
+    },
+    {
+      "last_seen": "2021-04-11T02:16:31.562Z",
+      "domain": "thomaswaechter.com",
+      "qname": "ns1.thomaswaechter.com",
+      "type": "cname",
+      "value": "pltraffic32.com"
+    },
+    {
+      "last_seen": "2021-04-06T16:11:13.268Z",
+      "domain": "thomaswaechter.com",
+      "qname": "z.thomaswaechter.com",
+      "type": "cname",
+      "value": "pltraffic32.com"
+    },
+    {
+      "last_seen": "2021-04-05T16:41:26.239Z",
+      "domain": "thomaswaechter.com",
+      "qname": "www.z.thomaswaechter.com",
+      "type": "cname",
+      "value": "pltraffic32.com"
+    },
+    {
+      "last_seen": "2021-04-03T15:18:24.618Z",
+      "domain": "thomaswaechter.com",
+      "qname": "z.thomaswaechter.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-03-20T17:54:50.461Z",
+      "domain": "thomaswaechter.com",
+      "qname": "www.thomaswaechter.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-03-06T03:49:47.389Z",
+      "domain": "thomaswaechter.com",
+      "qname": "ns1.thomaswaechter.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-03-06T03:38:47.583Z",
+      "domain": "thomaswaechter.com",
+      "qname": "ns2.thomaswaechter.com",
+      "type": "ip",
+      "value": "128.199.139.26"
+    },
+    {
+      "last_seen": "2021-02-08T05:26:11.720Z",
+      "domain": "thomaswaechter.com",
+      "qname": "ns1.thomaswaechter.com",
+      "type": "ip",
+      "value": "128.199.139.26"
+    },
+    {
+      "last_seen": "2021-01-17T05:36:06.486Z",
+      "domain": "thomaswaechter.com",
+      "qname": "ns2.thomaswaechter.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-10-22T03:20:10.576Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2020-09-17T03:37:40.700Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ns",
+      "value": "ns2.thomaswaechter.com"
+    },
+    {
+      "last_seen": "2020-09-17T03:37:40.700Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ns",
+      "value": "ns1.thomaswaechter.com"
+    },
+    {
+      "last_seen": "2020-09-16T07:01:11.594Z",
+      "domain": "thomaswaechter.com",
+      "qname": "ns1.thomaswaechter.com",
+      "type": "ip",
+      "value": "179.43.144.132"
+    },
+    {
+      "last_seen": "2019-10-30T10:45:34.996Z",
+      "domain": "thomaswaechter.com",
+      "qname": "ns2.thomaswaechter.com",
+      "type": "ip",
+      "value": "179.43.144.132"
+    },
+    {
+      "last_seen": "2019-01-22T14:37:08.199Z",
+      "domain": "thomaswaechter.com",
+      "qname": "z.thomaswaechter.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2019-01-22T14:37:08.199Z",
+      "domain": "thomaswaechter.com",
+      "qname": "z.thomaswaechter.com",
+      "type": "aaaa",
+      "value": "::ffff:146.112.61.110"
+    },
+    {
+      "last_seen": "2017-04-11T04:15:49.000Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ns",
+      "value": "ns5.he.net"
+    },
+    {
+      "last_seen": "2017-04-11T04:15:49.000Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ns",
+      "value": "ns4.he.net"
+    },
+    {
+      "last_seen": "2017-04-11T04:15:49.000Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ns",
+      "value": "ns2.he.net"
+    },
+    {
+      "last_seen": "2017-04-11T04:15:49.000Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ns",
+      "value": "ns3.he.net"
+    },
+    {
+      "last_seen": "2017-04-11T04:15:49.000Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "ns",
+      "value": "ns1.he.net"
+    },
+    {
+      "last_seen": "2017-04-10T10:59:17.000Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "soa_email",
+      "value": "hostmaster@he.net"
+    },
+    {
+      "last_seen": "2017-04-10T10:59:17.000Z",
+      "domain": "thomaswaechter.com",
+      "qname": "thomaswaechter.com",
+      "type": "soa_server",
+      "value": "ns1.he.net"
+    }
+  ]
+}

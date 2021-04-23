@@ -1,0 +1,182 @@
+{
+  "info": "25 results found.",
+  "total": 25,
+  "returning": 25,
+  "results": [
+    {
+      "last_seen": "2021-04-22T23:21:02.873Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "ip",
+      "value": "193.68.57.131"
+    },
+    {
+      "last_seen": "2021-04-22T23:21:02.873Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "domain",
+      "value": "digitalioboard.com"
+    },
+    {
+      "last_seen": "2021-04-20T03:06:22.877Z",
+      "domain": "digitalioboard.com",
+      "qname": "ns.digitalioboard.com",
+      "type": "ip",
+      "value": "193.68.57.131"
+    },
+    {
+      "last_seen": "2021-04-01T21:42:40.654Z",
+      "domain": "digitalioboard.com",
+      "qname": "mail.digitalioboard.com",
+      "type": "ip",
+      "value": "193.68.57.131"
+    },
+    {
+      "last_seen": "2021-04-01T07:28:52.786Z",
+      "domain": "digitalioboard.com",
+      "qname": "ns.digitalioboard.com",
+      "type": "ip",
+      "value": "193.68.57.131"
+    },
+    {
+      "last_seen": "2021-03-22T14:46:03.597Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "soa_email",
+      "value": "hostmaster@digitalioboard.com"
+    },
+    {
+      "last_seen": "2021-03-22T14:46:03.597Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "soa_server",
+      "value": "ns.digitalioboard.com"
+    },
+    {
+      "last_seen": "2021-03-02T00:54:27.057Z",
+      "domain": "digitalioboard.com",
+      "qname": "mail.digitalioboard.com",
+      "type": "ip",
+      "value": "193.68.57.131"
+    },
+    {
+      "last_seen": "2021-02-25T14:26:25.282Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "soa_email",
+      "value": "hostmaster@digitalioboard.com"
+    },
+    {
+      "last_seen": "2021-02-25T14:26:25.282Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "soa_server",
+      "value": "ns.digitalioboard.com"
+    },
+    {
+      "last_seen": "2021-02-25T14:26:25.282Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "ns",
+      "value": "ns.digitalioboard.com"
+    },
+    {
+      "last_seen": "2021-02-25T14:26:25.282Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2021-02-25T14:26:25.282Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "ip",
+      "value": "193.68.57.131"
+    },
+    {
+      "last_seen": "2021-02-25T14:26:25.282Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "mx",
+      "value": "mail.digitalioboard.com"
+    },
+    {
+      "last_seen": "2020-12-11T06:00:24.801Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "ns",
+      "value": "ns.digitalioboard.com"
+    },
+    {
+      "last_seen": "2020-12-11T06:00:24.801Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-10-25T10:20:43.838Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "mx",
+      "value": "mail.digitalioboard.com"
+    },
+    {
+      "last_seen": "2020-09-03T14:40:47.016Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "ip",
+      "value": "213.163.8.26"
+    },
+    {
+      "last_seen": "2020-09-02T12:47:56.804Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "ip",
+      "value": "213.163.8.26"
+    },
+    {
+      "last_seen": "2020-08-26T01:53:06.617Z",
+      "domain": "digitalioboard.com",
+      "qname": "ns.digitalioboard.com",
+      "type": "ip",
+      "value": "213.163.8.26"
+    },
+    {
+      "last_seen": "2020-08-18T03:05:25.676Z",
+      "domain": "digitalioboard.com",
+      "qname": "mail.digitalioboard.com",
+      "type": "ip",
+      "value": "213.163.8.26"
+    },
+    {
+      "last_seen": "2020-02-25T08:36:23.857Z",
+      "domain": "digitalioboard.com",
+      "qname": "www.digitalioboard.com",
+      "type": "ip",
+      "value": "213.163.8.26"
+    },
+    {
+      "last_seen": "2020-01-27T02:57:26.439Z",
+      "domain": "digitalioboard.com",
+      "qname": "mail.digitalioboard.com",
+      "type": "ip",
+      "value": "213.163.8.26"
+    },
+    {
+      "last_seen": "2019-10-02T13:20:07.391Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "ns",
+      "value": "ns.dev2.hu"
+    },
+    {
+      "last_seen": "2019-10-02T13:20:07.391Z",
+      "domain": "digitalioboard.com",
+      "qname": "digitalioboard.com",
+      "type": "ns",
+      "value": "ns2.dev2.hu"
+    }
+  ]
+}

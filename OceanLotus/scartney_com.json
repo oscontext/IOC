@@ -1,0 +1,35 @@
+{
+  "info": "4 results found.",
+  "total": 4,
+  "returning": 4,
+  "results": [
+    {
+      "last_seen": "2021-04-20T22:53:29.510Z",
+      "domain": "scartney.com",
+      "qname": "ns2.scartney.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-20T22:53:29.510Z",
+      "domain": "scartney.com",
+      "qname": "scartney.com",
+      "type": "domain",
+      "value": "scartney.com"
+    },
+    {
+      "last_seen": "2021-04-20T22:13:08.142Z",
+      "domain": "scartney.com",
+      "qname": "ns1.scartney.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2021-04-17T21:06:57.392Z",
+      "domain": "scartney.com",
+      "qname": "scartney.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    }
+  ]
+}

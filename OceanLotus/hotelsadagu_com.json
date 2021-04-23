@@ -1,0 +1,294 @@
+{
+  "info": "41 results found.",
+  "total": 41,
+  "returning": 41,
+  "results": [
+    {
+      "last_seen": "2021-04-22T01:46:50.645Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "domain",
+      "value": "hotelsadagu.com"
+    },
+    {
+      "last_seen": "2021-04-22T01:46:50.645Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-09-21T01:06:05.268Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "146.112.61.110"
+    },
+    {
+      "last_seen": "2020-03-21T21:31:12.183Z",
+      "domain": "hotelsadagu.com",
+      "qname": "ns1.hotelsadagu.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2020-03-12T00:14:16.696Z",
+      "domain": "hotelsadagu.com",
+      "qname": "z.hotelsadagu.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-12T00:14:16.696Z",
+      "domain": "hotelsadagu.com",
+      "qname": "z.hotelsadagu.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-12T00:01:54.211Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2020-03-12T00:01:54.211Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns2.dev2.com"
+    },
+    {
+      "last_seen": "2020-03-10T17:01:28.264Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns1.hotelsadagu.com"
+    },
+    {
+      "last_seen": "2020-03-10T17:01:28.264Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns2.hotelsadagu.com"
+    },
+    {
+      "last_seen": "2020-03-10T16:36:57.535Z",
+      "domain": "hotelsadagu.com",
+      "qname": "z.hotelsadagu.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-12-29T22:57:10.958Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "soa_server",
+      "value": "ns1.dev1.com"
+    },
+    {
+      "last_seen": "2019-12-29T22:57:10.958Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "soa_email",
+      "value": "master@dev.com"
+    },
+    {
+      "last_seen": "2019-06-10T10:57:21.712Z",
+      "domain": "hotelsadagu.com",
+      "qname": "www.hotelsadagu.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-05-22T19:40:25.714Z",
+      "domain": "hotelsadagu.com",
+      "qname": "ns2.hotelsadagu.com",
+      "type": "ip",
+      "value": "127.0.0.1"
+    },
+    {
+      "last_seen": "2019-03-19T06:38:13.341Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "91.195.240.126"
+    },
+    {
+      "last_seen": "2019-03-03T10:36:41.213Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns2.domcollect.com"
+    },
+    {
+      "last_seen": "2019-03-03T10:36:41.213Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns1.domcollect.com"
+    },
+    {
+      "last_seen": "2019-02-19T01:04:30.988Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "125.209.214.79"
+    },
+    {
+      "last_seen": "2019-02-16T09:07:20.326Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns.gabia.co.kr"
+    },
+    {
+      "last_seen": "2019-02-16T09:07:20.326Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns.gabia.net"
+    },
+    {
+      "last_seen": "2019-02-16T09:07:20.326Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns1.gabia.co.kr"
+    },
+    {
+      "last_seen": "2019-02-14T21:47:50.633Z",
+      "domain": "hotelsadagu.com",
+      "qname": "www.hotelsadagu.com",
+      "type": "ip",
+      "value": "125.209.214.79"
+    },
+    {
+      "last_seen": "2019-01-14T15:16:08.105Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "soa_email",
+      "value": "hosting@gabia.com"
+    },
+    {
+      "last_seen": "2019-01-14T15:16:08.105Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "soa_server",
+      "value": "ns.gabia.co.kr"
+    },
+    {
+      "last_seen": "2019-01-14T15:16:08.105Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "125.209.214.79"
+    },
+    {
+      "last_seen": "2019-01-14T15:16:08.105Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns1.gabia.co.kr"
+    },
+    {
+      "last_seen": "2019-01-14T15:16:08.105Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns.gabia.co.kr"
+    },
+    {
+      "last_seen": "2019-01-14T15:16:08.105Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ns",
+      "value": "ns.gabia.net"
+    },
+    {
+      "last_seen": "2019-01-03T20:00:39.725Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "soa_server",
+      "value": "ns.gabia.co.kr"
+    },
+    {
+      "last_seen": "2019-01-03T20:00:39.725Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "soa_email",
+      "value": "hosting@gabia.com"
+    },
+    {
+      "last_seen": "2018-01-25T13:58:47.000Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "125.209.222.132"
+    },
+    {
+      "last_seen": "2018-01-25T03:14:40.000Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "soa_server",
+      "value": "ns.gabia.co.kr.hotelsadagu.com"
+    },
+    {
+      "last_seen": "2018-01-13T15:32:26.000Z",
+      "domain": "hotelsadagu.com",
+      "qname": "www.hotelsadagu.com",
+      "type": "ip",
+      "value": "125.209.222.132"
+    },
+    {
+      "last_seen": "2017-06-26T09:27:03.000Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "210.116.76.76"
+    },
+    {
+      "last_seen": "2017-06-22T09:12:53.000Z",
+      "domain": "hotelsadagu.com",
+      "qname": "www.hotelsadagu.com",
+      "type": "ip",
+      "value": "210.116.76.76"
+    },
+    {
+      "last_seen": "2017-05-23T09:25:22.000Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "121.254.178.250"
+    },
+    {
+      "last_seen": "2017-05-16T08:20:49.000Z",
+      "domain": "hotelsadagu.com",
+      "qname": "www.hotelsadagu.com",
+      "type": "ip",
+      "value": "121.254.178.250"
+    },
+    {
+      "last_seen": "2016-09-17T04:14:55.000Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "121.254.178.236"
+    },
+    {
+      "last_seen": "2016-08-16T00:19:17.000Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "221.143.41.9"
+    },
+    {
+      "last_seen": "2016-03-14T12:52:15.000Z",
+      "domain": "hotelsadagu.com",
+      "qname": "hotelsadagu.com",
+      "type": "ip",
+      "value": "121.254.178.238"
+    }
+  ]
+}
